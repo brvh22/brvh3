@@ -1,2283 +1,2325 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="3 PALAVRINHAS [24HRS]" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",3 PALAVRINHAS [24HRS]
-http://ppvx.xyz:80/368729/368729/876327
-#EXTINF:-1 tvg-name="AEROPORTO : ÁREA RESTRITA [24HRS]" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",AEROPORTO : ÁREA RESTRITA [24HRS]
-http://ppvx.xyz:80/368729/368729/876343
-#EXTINF:-1 tvg-name="APENAS UM SHOW [24HRS]" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",APENAS UM SHOW [24HRS]
-http://ppvx.xyz:80/368729/368729/876380
-#EXTINF:-1 tvg-name="BEN 10 [24HRS]" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",BEN 10 [24HRS]
-http://ppvx.xyz:80/368729/368729/876328
-#EXTINF:-1 tvg-name="CAVERNA DO DRAGÃO [24HRS]" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",CAVERNA DO DRAGÃO [24HRS]
-http://ppvx.xyz:80/368729/368729/876329
-#EXTINF:-1 tvg-name="HE-MAN [24HRS]" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",HE-MAN [24HRS]
-http://ppvx.xyz:80/368729/368729/876330
-#EXTINF:-1 tvg-name="JASPION [24HRS]" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",JASPION [24HRS]
-http://ppvx.xyz:80/368729/368729/876372
-#EXTINF:-1 tvg-name="JOVENS TITÃNS [24HRS]" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",JOVENS TITÃNS [24HRS]
-http://ppvx.xyz:80/368729/368729/876332
-#EXTINF:-1 tvg-name="KICK BUTTOWSKI : UM PROJETO DE DUBLÊ [24HRS]" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",KICK BUTTOWSKI : UM PROJETO DE DUBLÊ [24HRS]
-http://ppvx.xyz:80/368729/368729/876373
-#EXTINF:-1 tvg-name="O INCRÍVEL MUNDO DE GUMBALL [24HRS]" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",O INCRÍVEL MUNDO DE GUMBALL [24HRS]
-http://ppvx.xyz:80/368729/368729/876345
-#EXTINF:-1 tvg-name="OS JATSONS [24HRS]" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",OS JATSONS [24HRS]
-http://ppvx.xyz:80/368729/368729/876333
-#EXTINF:-1 tvg-name="OS PADRINHOS MÁGICOS [24HRS]" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",OS PADRINHOS MÁGICOS [24HRS]
-http://ppvx.xyz:80/368729/368729/876381
-#EXTINF:-1 tvg-name="PATRULHA CANINA [24HRS]" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",PATRULHA CANINA [24HRS]
-http://ppvx.xyz:80/368729/368729/876326
-#EXTINF:-1 tvg-name="RETIDOS NA FRONTEIRA [24HRS]" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",RETIDOS NA FRONTEIRA [24HRS]
-http://ppvx.xyz:80/368729/368729/876344
-#EXTINF:-1 tvg-name="[24H] Anime Station SD" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",[24H] Anime Station SD
-http://ppvx.xyz:80/368729/368729/861964
-#EXTINF:-1 tvg-name="[24H] Anime TV" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",[24H] Anime TV
-http://ppvx.xyz:80/368729/368729/861963
-#EXTINF:-1 tvg-name="[24H] As Aventuras de Jackie Chan" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",[24H] As Aventuras de Jackie Chan
-http://ppvx.xyz:80/368729/368729/876301
-#EXTINF:-1 tvg-name="[24H] Bob Esponja" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",[24H] Bob Esponja
-http://ppvx.xyz:80/368729/368729/876302
-#EXTINF:-1 tvg-name="[24H] Cavaleiros dos Zodiacos Saga Doze Casas" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",[24H] Cavaleiros dos Zodiacos Saga Doze Casas
-http://ppvx.xyz:80/368729/368729/876303
-#EXTINF:-1 tvg-name="[24H] Classicos Disney" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",[24H] Classicos Disney
-http://ppvx.xyz:80/368729/368729/876304
-#EXTINF:-1 tvg-name="[24H] Coragem o Cão Covarde" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",[24H] Coragem o Cão Covarde
-http://ppvx.xyz:80/368729/368729/876305
-#EXTINF:-1 tvg-name="[24H] Corrida Maluca" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",[24H] Corrida Maluca
-http://ppvx.xyz:80/368729/368729/876306
-#EXTINF:-1 tvg-name="[24H] Dois Homens e Meio" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",[24H] Dois Homens e Meio
-http://ppvx.xyz:80/368729/368729/876307
-#EXTINF:-1 tvg-name="[24H] Dragon Ball" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",[24H] Dragon Ball
-http://ppvx.xyz:80/368729/368729/876308
-#EXTINF:-1 tvg-name="[24H] Familia da Pesada (Family Guy)" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",[24H] Familia da Pesada (Family Guy)
-http://ppvx.xyz:80/368729/368729/876310
-#EXTINF:-1 tvg-name="[24H] Formiga Atomica" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",[24H] Formiga Atomica
-http://ppvx.xyz:80/368729/368729/876311
-#EXTINF:-1 tvg-name="[24H] Futurama" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",[24H] Futurama
-http://ppvx.xyz:80/368729/368729/876309
-#EXTINF:-1 tvg-name="[24H] Galinha Pintadinha" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",[24H] Galinha Pintadinha
-http://ppvx.xyz:80/368729/368729/876312
-#EXTINF:-1 tvg-name="[24H] Kenan e Kel" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",[24H] Kenan e Kel
-http://ppvx.xyz:80/368729/368729/876313
-#EXTINF:-1 tvg-name="[24H] Luluzinha" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",[24H] Luluzinha
-http://ppvx.xyz:80/368729/368729/876314
-#EXTINF:-1 tvg-name="[24H] Mickey e Donald" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",[24H] Mickey e Donald
-http://ppvx.xyz:80/368729/368729/876315
-#EXTINF:-1 tvg-name="[24H] O Mascara" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",[24H] O Mascara
-http://ppvx.xyz:80/368729/368729/876316
-#EXTINF:-1 tvg-name="[24H] Os Trapalhões" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",[24H] Os Trapalhões
-http://ppvx.xyz:80/368729/368729/876317
-#EXTINF:-1 tvg-name="[24H] PEPPA PIG" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",[24H] PEPPA PIG
-http://ppvx.xyz:80/368729/368729/876466
-#EXTINF:-1 tvg-name="[24H] PJ Mask (1 Temporada)" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",[24H] PJ Mask (1 Temporada)
-http://ppvx.xyz:80/368729/368729/874978
-#EXTINF:-1 tvg-name="[24H] South Parks" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",[24H] South Parks
-http://ppvx.xyz:80/368729/368729/876318
-#EXTINF:-1 tvg-name="[24H] The Big Bang Theory" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",[24H] The Big Bang Theory
-http://ppvx.xyz:80/368729/368729/876319
-#EXTINF:-1 tvg-name="[24H] Thundercats" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",[24H] Thundercats
-http://ppvx.xyz:80/368729/368729/876320
-#EXTINF:-1 tvg-name="[24H] Tico e Teco" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",[24H] Tico e Teco
-http://ppvx.xyz:80/368729/368729/876321
-#EXTINF:-1 tvg-name="[24H] Todo Mundo Odeia o Cris" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",[24H] Todo Mundo Odeia o Cris
-http://ppvx.xyz:80/368729/368729/876322
-#EXTINF:-1 tvg-name="[24H] Um Maluco no Pedaço" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",[24H] Um Maluco no Pedaço
-http://ppvx.xyz:80/368729/368729/876323
-#EXTINF:-1 tvg-name="[24H] TURMA DA MONICA" tvg-logo="https://i.imgur.com/hCQNggY.png" group-title="CANAIS | 24 HORAS",[24H] TURMA DA MONICA
-http://ppvx.xyz:80/368729/368729/880837
-#EXTINF:-1 tvg-id="Fazenda 2020" tvg-name="A FAZENDA 13  CAM PRINCIPAL" tvg-logo="https://i.imgur.com/AUnl7UL.png" group-title="CANAIS | A FAZENDA 13",A FAZENDA 13  CAM PRINCIPAL
-http://ppvx.xyz:80/368729/368729/876374
-#EXTINF:-1 tvg-id="Fazenda 2020" tvg-name="A FAZENDA SINAL 1" tvg-logo="https://i.imgur.com/AUnl7UL.png" group-title="CANAIS | A FAZENDA 13",A FAZENDA SINAL 1
-http://ppvx.xyz:80/368729/368729/878913
-#EXTINF:-1 tvg-id="Fazenda 2020" tvg-name="A FAZENDA SINAL 2" tvg-logo="https://i.imgur.com/AUnl7UL.png" group-title="CANAIS | A FAZENDA 13",A FAZENDA SINAL 2
-http://ppvx.xyz:80/368729/368729/878912
-#EXTINF:-1 tvg-id="Fazenda 2020" tvg-name="A FAZENDA SINAL 3" tvg-logo="https://i.imgur.com/AUnl7UL.png" group-title="CANAIS | A FAZENDA 13",A FAZENDA SINAL 3
-http://ppvx.xyz:80/368729/368729/878911
-#EXTINF:-1 tvg-id="Fazenda 2020" tvg-name="A FAZENDA SINAL 4" tvg-logo="https://i.imgur.com/AUnl7UL.png" group-title="CANAIS | A FAZENDA 13",A FAZENDA SINAL 4
-http://ppvx.xyz:80/368729/368729/878910
-#EXTINF:-1 tvg-id="Fazenda 2020" tvg-name="A FAZENDA SINAL 5" tvg-logo="https://i.imgur.com/AUnl7UL.png" group-title="CANAIS | A FAZENDA 13",A FAZENDA SINAL 5
-http://ppvx.xyz:80/368729/368729/878909
-#EXTINF:-1 tvg-id="Fazenda 2020" tvg-name="A FAZENDA SINAL 6" tvg-logo="https://i.imgur.com/AUnl7UL.png" group-title="CANAIS | A FAZENDA 13",A FAZENDA SINAL 6
-http://ppvx.xyz:80/368729/368729/878908
-#EXTINF:-1 tvg-id="Fazenda 2020" tvg-name="A FAZENDA SINAL 7" tvg-logo="https://i.imgur.com/AUnl7UL.png" group-title="CANAIS | A FAZENDA 13",A FAZENDA SINAL 7
-http://ppvx.xyz:80/368729/368729/878907
-#EXTINF:-1 tvg-id="Fazenda 2020" tvg-name="A FAZENDA SINAL 8" tvg-logo="https://i.imgur.com/AUnl7UL.png" group-title="CANAIS | A FAZENDA 13",A FAZENDA SINAL 8
-http://ppvx.xyz:80/368729/368729/878906
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD " tvg-logo="https://i.imgur.com/f2pJ8uW.png" group-title="CANAIS | FILMES & SÉRIES ",A&E FHD 
-http://ppvx.xyz:80/368729/368729/862338
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://i.imgur.com/f2pJ8uW.png" group-title="CANAIS | FILMES & SÉRIES ",A&E HD
-http://ppvx.xyz:80/368729/368729/856687
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://i.imgur.com/f2pJ8uW.png" group-title="CANAIS | FILMES & SÉRIES ",A&E SD
-http://ppvx.xyz:80/368729/368729/857103
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E [H265]" tvg-logo="https://i.imgur.com/f2pJ8uW.png" group-title="CANAIS | FILMES & SÉRIES ",A&E [H265]
-http://ppvx.xyz:80/368729/368729/856913
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD " tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="CANAIS | FILMES & SÉRIES ",AMC FHD 
-http://ppvx.xyz:80/368729/368729/862327
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="CANAIS | FILMES & SÉRIES ",AMC HD
-http://ppvx.xyz:80/368729/368729/856688
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="CANAIS | FILMES & SÉRIES ",AMC SD
-http://ppvx.xyz:80/368729/368729/857104
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC [H265]" tvg-logo="https://i.imgur.com/5ID1n5P.png" group-title="CANAIS | FILMES & SÉRIES ",AMC [H265]
-http://ppvx.xyz:80/368729/368729/856914
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD " tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS | FILMES & SÉRIES ",AXN FHD 
-http://ppvx.xyz:80/368729/368729/862322
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS | FILMES & SÉRIES ",AXN HD
-http://ppvx.xyz:80/368729/368729/856690
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS | FILMES & SÉRIES ",AXN SD
-http://ppvx.xyz:80/368729/368729/857106
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN [H265] " tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS | FILMES & SÉRIES ",AXN [H265] 
-http://ppvx.xyz:80/368729/368729/856915
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL FHD " tvg-logo="https://i.imgur.com/GXE4jMU.png" group-title="CANAIS | FILMES & SÉRIES ",CANAL BRASIL FHD 
-http://ppvx.xyz:80/368729/368729/862370
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://i.imgur.com/GXE4jMU.png" group-title="CANAIS | FILMES & SÉRIES ",CANAL BRASIL HD
-http://ppvx.xyz:80/368729/368729/856849
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="https://i.imgur.com/GXE4jMU.png" group-title="CANAIS | FILMES & SÉRIES ",CANAL BRASIL SD
-http://ppvx.xyz:80/368729/368729/857114
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL [H265]" tvg-logo="https://i.imgur.com/GXE4jMU.png" group-title="CANAIS | FILMES & SÉRIES ",CANAL BRASIL [H265]
-http://ppvx.xyz:80/368729/368729/856920
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX FHD " tvg-logo="https://i.imgur.com/oeeAOs3.png" group-title="CANAIS | FILMES & SÉRIES ",CINEMAX FHD 
-http://ppvx.xyz:80/368729/368729/862328
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://i.imgur.com/oeeAOs3.png" group-title="CANAIS | FILMES & SÉRIES ",CINEMAX HD
-http://ppvx.xyz:80/368729/368729/856695
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://i.imgur.com/oeeAOs3.png" group-title="CANAIS | FILMES & SÉRIES ",CINEMAX SD
-http://ppvx.xyz:80/368729/368729/857119
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX [H265]" tvg-logo="https://i.imgur.com/oeeAOs3.png" group-title="CANAIS | FILMES & SÉRIES ",CINEMAX [H265]
-http://ppvx.xyz:80/368729/368729/856923
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD " tvg-logo="https://i.imgur.com/6j1dJ29.png" group-title="CANAIS | FILMES & SÉRIES ",FX FHD 
-http://ppvx.xyz:80/368729/368729/862329
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="https://i.imgur.com/6j1dJ29.png" group-title="CANAIS | FILMES & SÉRIES ",FX HD
-http://ppvx.xyz:80/368729/368729/856720
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX SD" tvg-logo="https://i.imgur.com/6j1dJ29.png" group-title="CANAIS | FILMES & SÉRIES ",FX SD
-http://ppvx.xyz:80/368729/368729/857145
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX [H265]" tvg-logo="https://i.imgur.com/6j1dJ29.png" group-title="CANAIS | FILMES & SÉRIES ",FX [H265]
-http://ppvx.xyz:80/368729/368729/856948
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FHD " tvg-logo="https://i.imgur.com/89mH5L2.png" group-title="CANAIS | FILMES & SÉRIES ",LIFETIME FHD 
-http://ppvx.xyz:80/368729/368729/862288
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://i.imgur.com/89mH5L2.png" group-title="CANAIS | FILMES & SÉRIES ",LIFETIME HD
-http://ppvx.xyz:80/368729/368729/856733
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME SD" tvg-logo="https://i.imgur.com/89mH5L2.png" group-title="CANAIS | FILMES & SÉRIES ",LIFETIME SD
-http://ppvx.xyz:80/368729/368729/857162
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME [H265]" tvg-logo="https://i.imgur.com/89mH5L2.png" group-title="CANAIS | FILMES & SÉRIES ",LIFETIME [H265]
-http://ppvx.xyz:80/368729/368729/856960
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX FHD " tvg-logo="https://i.imgur.com/9iXOzlq.png" group-title="CANAIS | FILMES & SÉRIES ",MEGAPIX FHD 
-http://ppvx.xyz:80/368729/368729/862330
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://i.imgur.com/9iXOzlq.png" group-title="CANAIS | FILMES & SÉRIES ",MEGAPIX HD
-http://ppvx.xyz:80/368729/368729/856737
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://i.imgur.com/9iXOzlq.png" group-title="CANAIS | FILMES & SÉRIES ",MEGAPIX SD
-http://ppvx.xyz:80/368729/368729/857167
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX [H265] " tvg-logo="https://i.imgur.com/9iXOzlq.png" group-title="CANAIS | FILMES & SÉRIES ",MEGAPIX [H265] 
-http://ppvx.xyz:80/368729/368729/856965
-#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL FHD " tvg-logo="https://i.imgur.com/hr8hSi0.png" group-title="CANAIS | FILMES & SÉRIES ",PARAMOUNT CHANNEL FHD 
-http://ppvx.xyz:80/368729/368729/862332
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://i.imgur.com/hr8hSi0.png" group-title="CANAIS | FILMES & SÉRIES ",PARAMOUNT CHANNEL HD
-http://ppvx.xyz:80/368729/368729/856746
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="https://i.imgur.com/hr8hSi0.png" group-title="CANAIS | FILMES & SÉRIES ",PARAMOUNT CHANNEL SD
-http://ppvx.xyz:80/368729/368729/857179
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL [H265] " tvg-logo="https://i.imgur.com/hr8hSi0.png" group-title="CANAIS | FILMES & SÉRIES ",PARAMOUNT CHANNEL [H265] 
-http://ppvx.xyz:80/368729/368729/856974
-#EXTINF:-1 tvg-name="SONY CHANNEL FHD " tvg-logo="https://i.imgur.com/tw58wz3.png" group-title="CANAIS | FILMES & SÉRIES ",SONY CHANNEL FHD 
-http://ppvx.xyz:80/368729/368729/862331
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY CHANNEL HD" tvg-logo="https://i.imgur.com/tw58wz3.png" group-title="CANAIS | FILMES & SÉRIES ",SONY CHANNEL HD
-http://ppvx.xyz:80/368729/368729/856693
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY CHANNEL SD" tvg-logo="https://i.imgur.com/tw58wz3.png" group-title="CANAIS | FILMES & SÉRIES ",SONY CHANNEL SD
-http://ppvx.xyz:80/368729/368729/857116
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY CHANNEL [H265] " tvg-logo="https://i.imgur.com/tw58wz3.png" group-title="CANAIS | FILMES & SÉRIES ",SONY CHANNEL [H265] 
-http://ppvx.xyz:80/368729/368729/856921
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE FHD " tvg-logo="https://i.imgur.com/rLuaRDb.png" group-title="CANAIS | FILMES & SÉRIES ",SPACE FHD 
-http://ppvx.xyz:80/368729/368729/862333
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="https://i.imgur.com/rLuaRDb.png" group-title="CANAIS | FILMES & SÉRIES ",SPACE HD
-http://ppvx.xyz:80/368729/368729/856756
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD" tvg-logo="https://i.imgur.com/rLuaRDb.png" group-title="CANAIS | FILMES & SÉRIES ",SPACE SD
-http://ppvx.xyz:80/368729/368729/857203
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE [H265]" tvg-logo="https://i.imgur.com/rLuaRDb.png" group-title="CANAIS | FILMES & SÉRIES ",SPACE [H265]
-http://ppvx.xyz:80/368729/368729/856984
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD " tvg-logo="https://i.imgur.com/Lq4N20H.png" group-title="CANAIS | FILMES & SÉRIES ",STUDIO UNIVERSAL FHD 
-http://ppvx.xyz:80/368729/368729/862334
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.imgur.com/Lq4N20H.png" group-title="CANAIS | FILMES & SÉRIES ",STUDIO UNIVERSAL HD
-http://ppvx.xyz:80/368729/368729/856760
-#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL [H265]" tvg-logo="https://i.imgur.com/Lq4N20H.png" group-title="CANAIS | FILMES & SÉRIES ",STUDIO UNIVERSAL [H265]
-http://ppvx.xyz:80/368729/368729/856988
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD " tvg-logo="https://i.imgur.com/DuUuDED.png" group-title="CANAIS | FILMES & SÉRIES ",SYFY FHD 
-http://ppvx.xyz:80/368729/368729/862344
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="https://i.imgur.com/DuUuDED.png" group-title="CANAIS | FILMES & SÉRIES ",SYFY HD
-http://ppvx.xyz:80/368729/368729/856761
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD" tvg-logo="https://i.imgur.com/DuUuDED.png" group-title="CANAIS | FILMES & SÉRIES ",SYFY SD
-http://ppvx.xyz:80/368729/368729/857208
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY [H265] " tvg-logo="https://i.imgur.com/DuUuDED.png" group-title="CANAIS | FILMES & SÉRIES ",SYFY [H265] 
-http://ppvx.xyz:80/368729/368729/856989
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD " tvg-logo="https://i.imgur.com/qYfJeLf.png" group-title="CANAIS | FILMES & SÉRIES ",TBS FHD 
-http://ppvx.xyz:80/368729/368729/862343
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="https://i.imgur.com/qYfJeLf.png" group-title="CANAIS | FILMES & SÉRIES ",TBS HD
-http://ppvx.xyz:80/368729/368729/856762
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD" tvg-logo="https://i.imgur.com/qYfJeLf.png" group-title="CANAIS | FILMES & SÉRIES ",TBS SD
-http://ppvx.xyz:80/368729/368729/857209
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS [H265]" tvg-logo="https://i.imgur.com/qYfJeLf.png" group-title="CANAIS | FILMES & SÉRIES ",TBS [H265]
-http://ppvx.xyz:80/368729/368729/856990
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="https://i.imgur.com/053CNKB.png" group-title="CANAIS | FILMES & SÉRIES ",TCM SD
-http://ppvx.xyz:80/368729/368729/857210
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/s6k93DU.png" group-title="CANAIS | FILMES & SÉRIES ",TNT FHD
-http://ppvx.xyz:80/368729/368729/862273
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://i.imgur.com/s6k93DU.png" group-title="CANAIS | FILMES & SÉRIES ",TNT HD
-http://ppvx.xyz:80/368729/368729/856770
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT SD" tvg-logo="https://i.imgur.com/s6k93DU.png" group-title="CANAIS | FILMES & SÉRIES ",TNT SD
-http://ppvx.xyz:80/368729/368729/857219
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="https://i.imgur.com/300ycto.png" group-title="CANAIS | FILMES & SÉRIES ",TNT SERIES HD
-http://ppvx.xyz:80/368729/368729/856771
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES [H265] " tvg-logo="https://i.imgur.com/300ycto.png" group-title="CANAIS | FILMES & SÉRIES ",TNT SERIES [H265] 
-http://ppvx.xyz:80/368729/368729/856999
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT [H265]" tvg-logo="https://i.imgur.com/s6k93DU.png" group-title="CANAIS | FILMES & SÉRIES ",TNT [H265]
-http://ppvx.xyz:80/368729/368729/856998
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV FHD " tvg-logo="https://i.imgur.com/I1qcMwK.png" group-title="CANAIS | FILMES & SÉRIES ",UNIVERSAL TV FHD 
-http://ppvx.xyz:80/368729/368729/862335
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://i.imgur.com/I1qcMwK.png" group-title="CANAIS | FILMES & SÉRIES ",UNIVERSAL TV HD
-http://ppvx.xyz:80/368729/368729/856776
-#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV SD" tvg-logo="https://i.imgur.com/I1qcMwK.png" group-title="CANAIS | FILMES & SÉRIES ",UNIVERSAL TV SD
-http://ppvx.xyz:80/368729/368729/857245
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV [H265] " tvg-logo="https://i.imgur.com/I1qcMwK.png" group-title="CANAIS | FILMES & SÉRIES ",UNIVERSAL TV [H265] 
-http://ppvx.xyz:80/368729/368729/857003
-#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://i.imgur.com/xbg9PhB.png" group-title="CANAIS | FILMES & SÉRIES ",WARNER CHANNEL HD
-http://ppvx.xyz:80/368729/368729/856779
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD" tvg-logo="https://i.imgur.com/xbg9PhB.png" group-title="CANAIS | FILMES & SÉRIES ",WARNER CHANNEL SD
-http://ppvx.xyz:80/368729/368729/857241
-#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER CHANNEL [H265]" tvg-logo="https://i.imgur.com/xbg9PhB.png" group-title="CANAIS | FILMES & SÉRIES ",WARNER CHANNEL [H265]
-http://ppvx.xyz:80/368729/368729/857005
-#EXTINF:-1 tvg-name="AGROMAIS FHD" tvg-logo="https://i.imgur.com/WGNWBd5.png" group-title="CANAIS | ABERTOS",AGROMAIS FHD
-http://ppvx.xyz:80/368729/368729/876561
-#EXTINF:-1 tvg-name="FUTURA H265" tvg-logo="https://i.imgur.com/nrjd43P.png" group-title="CANAIS | ABERTOS",FUTURA H265
-http://ppvx.xyz:80/368729/368729/879079
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV FHD" tvg-logo="https://i.imgur.com/YNn2B3g.png" group-title="CANAIS | ABERTOS",REDE TV FHD
-http://ppvx.xyz:80/368729/368729/876556
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV FHD [H265]" tvg-logo="https://i.imgur.com/YNn2B3g.png" group-title="CANAIS | ABERTOS",REDE TV FHD [H265]
-http://ppvx.xyz:80/368729/368729/879107
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV HD" tvg-logo="https://i.imgur.com/YNn2B3g.png" group-title="CANAIS | ABERTOS",REDE TV HD
-http://ppvx.xyz:80/368729/368729/876513
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="https://i.imgur.com/YNn2B3g.png" group-title="CANAIS | ABERTOS",REDE TV SD
-http://ppvx.xyz:80/368729/368729/876512
-#EXTINF:-1 tvg-name="RIT TV" tvg-logo="https://i.imgur.com/8f3nFsu.png" group-title="CANAIS | ABERTOS",RIT TV
-http://ppvx.xyz:80/368729/368729/876535
-#EXTINF:-1 tvg-name="TV ASSEMBLEIA" tvg-logo="https://i.imgur.com/1sV16W0.png" group-title="CANAIS | ABERTOS",TV ASSEMBLEIA
-http://ppvx.xyz:80/368729/368729/876473
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL SD" tvg-logo="https://i.imgur.com/66hPRpp.png" group-title="CANAIS | ABERTOS",TV BRASIL SD
-http://ppvx.xyz:80/368729/368729/876519
-#EXTINF:-1 tvg-id="0" tvg-name="TV CAMARA SD" tvg-logo="https://i.imgur.com/DWgHAKk.png" group-title="CANAIS | ABERTOS",TV CAMARA SD
-http://ppvx.xyz:80/368729/368729/876520
-#EXTINF:-1 tvg-name="TV CULTURA EDUCAÇÃO HD" tvg-logo="https://i.imgur.com/sqJ7OzU.png" group-title="CANAIS | ABERTOS",TV CULTURA EDUCAÇÃO HD
-http://ppvx.xyz:80/368729/368729/876465
-#EXTINF:-1 tvg-name="TV CULTURA EDUCAÇÃO SD" tvg-logo="https://i.imgur.com/sqJ7OzU.png" group-title="CANAIS | ABERTOS",TV CULTURA EDUCAÇÃO SD
-http://ppvx.xyz:80/368729/368729/876464
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA FHD" tvg-logo="https://i.imgur.com/sqJ7OzU.png" group-title="CANAIS | ABERTOS",TV CULTURA FHD
-http://ppvx.xyz:80/368729/368729/876555
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA FHD [H265]" tvg-logo="https://i.imgur.com/sqJ7OzU.png" group-title="CANAIS | ABERTOS",TV CULTURA FHD [H265]
-http://ppvx.xyz:80/368729/368729/879111
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA HD" tvg-logo="https://i.imgur.com/sqJ7OzU.png" group-title="CANAIS | ABERTOS",TV CULTURA HD
-http://ppvx.xyz:80/368729/368729/876528
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA SD" tvg-logo="https://i.imgur.com/sqJ7OzU.png" group-title="CANAIS | ABERTOS",TV CULTURA SD
-http://ppvx.xyz:80/368729/368729/876527
-#EXTINF:-1 tvg-name="TV DIARIO FORTALEZA FHD" tvg-logo="https://i.imgur.com/TpcBJkb.png" group-title="CANAIS | ABERTOS",TV DIARIO FORTALEZA FHD
-http://ppvx.xyz:80/368729/368729/876559
-#EXTINF:-1 tvg-name="TV DIARIO FORTALEZA HD" tvg-logo="https://i.imgur.com/TpcBJkb.png" group-title="CANAIS | ABERTOS",TV DIARIO FORTALEZA HD
-http://ppvx.xyz:80/368729/368729/876532
-#EXTINF:-1 tvg-name="TV DIARIO FORTALEZA SD" tvg-logo="https://i.imgur.com/TpcBJkb.png" group-title="CANAIS | ABERTOS",TV DIARIO FORTALEZA SD
-http://ppvx.xyz:80/368729/368729/876533
-#EXTINF:-1 tvg-id="0" tvg-name="TV ESCOLA" tvg-logo="https://i.imgur.com/vD9262W.png" group-title="CANAIS | ABERTOS",TV ESCOLA
-http://ppvx.xyz:80/368729/368729/876521
-#EXTINF:-1 tvg-id="TVGazetaAL.br" tvg-name="TV GAZETA FHD [H265] " tvg-logo="https://i.imgur.com/UQDAyDd.png" group-title="CANAIS | ABERTOS",TV GAZETA FHD [H265] 
-http://ppvx.xyz:80/368729/368729/879112
-#EXTINF:-1 tvg-name="TV GAZETA SP FHD" tvg-logo="https://i.imgur.com/UQDAyDd.png" group-title="CANAIS | ABERTOS",TV GAZETA SP FHD
-http://ppvx.xyz:80/368729/368729/876460
-#EXTINF:-1 tvg-id="0" tvg-name="TV GAZETA SP HD" tvg-logo="https://i.imgur.com/UQDAyDd.png" group-title="CANAIS | ABERTOS",TV GAZETA SP HD
-http://ppvx.xyz:80/368729/368729/876522
-#EXTINF:-1 tvg-name="TV GAZETA SP SD" tvg-logo="https://i.imgur.com/UQDAyDd.png" group-title="CANAIS | ABERTOS",TV GAZETA SP SD
-http://ppvx.xyz:80/368729/368729/876461
-#EXTINF:-1 tvg-name="TV JUSTICA SD" tvg-logo="https://i.imgur.com/t5Ge0Fj.png" group-title="CANAIS | ABERTOS",TV JUSTICA SD
-http://ppvx.xyz:80/368729/368729/876518
-#EXTINF:-1 tvg-name="TV SENADO SD" tvg-logo="https://i.imgur.com/fvoJlfx.png" group-title="CANAIS | ABERTOS",TV SENADO SD
-http://ppvx.xyz:80/368729/368729/876517
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET 4K H265" tvg-logo="https://i.imgur.com/uMpJuHE.png" group-title="CANAIS | 4K",ANIMAL PLANET 4K H265
-http://ppvx.xyz:80/368729/368729/875995
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN 4K H265" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS | 4K",AXN 4K H265
-http://ppvx.xyz:80/368729/368729/875982
-#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP 4K H265" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | 4K",BAND SP 4K H265
-http://ppvx.xyz:80/368729/368729/875985
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON 4K H265" tvg-logo="https://i.imgur.com/URSYnf5.png" group-title="CANAIS | 4K",CARTOON 4K H265
-http://ppvx.xyz:80/368729/368729/875998
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL 4K H265" tvg-logo="https://i.imgur.com/TXUGFuN.png" group-title="CANAIS | 4K",CNN BRASIL 4K H265
-http://ppvx.xyz:80/368729/368729/875987
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL 4K H265" tvg-logo="https://i.imgur.com/VFUqLY2.png" group-title="CANAIS | 4K",COMEDY CENTRAL 4K H265
-http://ppvx.xyz:80/368729/368729/875996
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISC CHANNEL 4K H265" tvg-logo="https://i.imgur.com/W26d4Fq.png" group-title="CANAIS | 4K",DISC CHANNEL 4K H265
-http://ppvx.xyz:80/368729/368729/875993
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISC HOME & HEALTH 4K H265" tvg-logo="https://i.imgur.com/EKPaDs6.png" group-title="CANAIS | 4K",DISC HOME & HEALTH 4K H265
-http://ppvx.xyz:80/368729/368729/875992
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISC TURBO 4K H265" tvg-logo="https://i.imgur.com/tYWcfMx.png" group-title="CANAIS | 4K",DISC TURBO 4K H265
-http://ppvx.xyz:80/368729/368729/875997
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL 4K H265" tvg-logo="https://i.imgur.com/LJuuOMf.png" group-title="CANAIS | 4K",ESPN BRASIL 4K H265
-http://ppvx.xyz:80/368729/368729/876005
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS 4K H265" tvg-logo="https://i.imgur.com/Cu7yweR.png" group-title="CANAIS | 4K",FOX SPORTS 4K H265
-http://ppvx.xyz:80/368729/368729/875991
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP 4K H265" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | 4K",GLOBO SP 4K H265
-http://ppvx.xyz:80/368729/368729/875983
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBONEWS 4K H265" tvg-logo="https://i.imgur.com/Mk27aNQ.png" group-title="CANAIS | 4K",GLOBONEWS 4K H265
-http://ppvx.xyz:80/368729/368729/875986
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT 4K H265" tvg-logo="https://i.imgur.com/q7F7LPD.png" group-title="CANAIS | 4K",GNT 4K H265
-http://ppvx.xyz:80/368729/368729/876000
-#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PFC CLUBES 4K H265" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | 4K",PFC CLUBES 4K H265
-http://ppvx.xyz:80/368729/368729/875990
-#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORDTV SP 4K H265" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | 4K",RECORDTV SP 4K H265
-http://ppvx.xyz:80/368729/368729/875988
-#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP 4K H265" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | 4K",SBT SP 4K H265
-http://ppvx.xyz:80/368729/368729/875984
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 4K H265" tvg-logo="https://i.imgur.com/TvuhwNi.png" group-title="CANAIS | 4K",SPORTV 4K H265
-http://ppvx.xyz:80/368729/368729/875989
-#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL 4K H265" tvg-logo="https://i.imgur.com/O9w4VCR.png" group-title="CANAIS | 4K",STAR CHANNEL 4K H265
-http://ppvx.xyz:80/368729/368729/875999
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION 4K H265" tvg-logo="https://i.imgur.com/Xdl0FU1.png" group-title="CANAIS | 4K",TC ACTION 4K H265
-http://ppvx.xyz:80/368729/368729/876002
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA 4K H265" tvg-logo="https://i.imgur.com/uLUN3d9.png" group-title="CANAIS | 4K",TC PIPOCA 4K H265
-http://ppvx.xyz:80/368729/368729/876003
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM 4K H265" tvg-logo="https://i.imgur.com/VjdttBW.png" group-title="CANAIS | 4K",TC PREMIUM 4K H265
-http://ppvx.xyz:80/368729/368729/876004
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="UNIVERSAL 4K H265" tvg-logo="https://i.imgur.com/I1qcMwK.png" group-title="CANAIS | 4K",UNIVERSAL 4K H265
-http://ppvx.xyz:80/368729/368729/876001
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA 4K H265" tvg-logo="https://i.imgur.com/xJBcvcI.png" group-title="CANAIS | 4K",VIVA 4K H265
-http://ppvx.xyz:80/368729/368729/875994
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://i.imgur.com/uMpJuHE.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET FHD
-http://ppvx.xyz:80/368729/368729/862291
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.imgur.com/uMpJuHE.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET HD
-http://ppvx.xyz:80/368729/368729/856689
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://i.imgur.com/uMpJuHE.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET SD
-http://ppvx.xyz:80/368729/368729/857105
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET [H265]" tvg-logo="https://i.imgur.com/uMpJuHE.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET [H265]
-http://ppvx.xyz:80/368729/368729/862057
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://i.imgur.com/W26d4Fq.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD
-http://ppvx.xyz:80/368729/368729/862295
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.imgur.com/W26d4Fq.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
-http://ppvx.xyz:80/368729/368729/856698
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://i.imgur.com/W26d4Fq.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL SD
-http://ppvx.xyz:80/368729/368729/857123
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL [H265]" tvg-logo="https://i.imgur.com/W26d4Fq.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL [H265]
-http://ppvx.xyz:80/368729/368729/856926
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H FHD " tvg-logo="https://i.imgur.com/EKPaDs6.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H FHD 
-http://ppvx.xyz:80/368729/368729/862294
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H HD" tvg-logo="https://i.imgur.com/EKPaDs6.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H HD
-http://ppvx.xyz:80/368729/368729/856700
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H SD" tvg-logo="https://i.imgur.com/EKPaDs6.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H SD
-http://ppvx.xyz:80/368729/368729/857124
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H [H265]" tvg-logo="https://i.imgur.com/EKPaDs6.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H [H265]
-http://ppvx.xyz:80/368729/368729/856928
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD " tvg-logo="https://i.imgur.com/5db7nmT.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE FHD 
-http://ppvx.xyz:80/368729/368729/862307
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://i.imgur.com/5db7nmT.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE HD
-http://ppvx.xyz:80/368729/368729/856702
-#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://i.imgur.com/5db7nmT.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE SD
-http://ppvx.xyz:80/368729/368729/874977
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE [H265] " tvg-logo="https://i.imgur.com/5db7nmT.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE [H265] 
-http://ppvx.xyz:80/368729/368729/856930
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER FHD " tvg-logo="https://i.imgur.com/Adiw1CS.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER FHD 
-http://ppvx.xyz:80/368729/368729/862308
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://i.imgur.com/Adiw1CS.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER HD
-http://ppvx.xyz:80/368729/368729/856703
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://i.imgur.com/Adiw1CS.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER SD
-http://ppvx.xyz:80/368729/368729/875978
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER [H265]" tvg-logo="https://i.imgur.com/Adiw1CS.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER [H265]
-http://ppvx.xyz:80/368729/368729/856931
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="DISCOVERY TLC FHD " tvg-logo="https://i.imgur.com/S37uvno.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TLC FHD 
-http://ppvx.xyz:80/368729/368729/862296
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="DISCOVERY TLC HD" tvg-logo="https://i.imgur.com/S37uvno.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TLC HD
-http://ppvx.xyz:80/368729/368729/856769
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="DISCOVERY TLC SD" tvg-logo="https://i.imgur.com/S37uvno.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TLC SD
-http://ppvx.xyz:80/368729/368729/857218
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="DISCOVERY TLC [H265]" tvg-logo="https://i.imgur.com/S37uvno.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TLC [H265]
-http://ppvx.xyz:80/368729/368729/856997
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD " tvg-logo="https://i.imgur.com/tYWcfMx.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO FHD 
-http://ppvx.xyz:80/368729/368729/862305
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://i.imgur.com/tYWcfMx.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO HD
-http://ppvx.xyz:80/368729/368729/856704
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://i.imgur.com/tYWcfMx.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO SD
-http://ppvx.xyz:80/368729/368729/857126
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO [H265]" tvg-logo="https://i.imgur.com/tYWcfMx.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO [H265]
-http://ppvx.xyz:80/368729/368729/856932
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FHD " tvg-logo="https://i.imgur.com/w37PObs.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY WORLD FHD 
-http://ppvx.xyz:80/368729/368729/862289
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://i.imgur.com/w37PObs.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY WORLD HD
-http://ppvx.xyz:80/368729/368729/856705
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://i.imgur.com/w37PObs.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY WORLD SD
-http://ppvx.xyz:80/368729/368729/875979
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD [H265]" tvg-logo="https://i.imgur.com/w37PObs.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY WORLD [H265]
-http://ppvx.xyz:80/368729/368729/856933
-#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 FHD " tvg-logo="https://i.imgur.com/8oMEs6u.png" group-title="CANAIS | DOCUMENTÁRIOS",H2 FHD 
-http://ppvx.xyz:80/368729/368729/862293
-#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="https://i.imgur.com/8oMEs6u.png" group-title="CANAIS | DOCUMENTÁRIOS",H2 HD
-http://ppvx.xyz:80/368729/368729/856730
-#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 SD" tvg-logo="https://i.imgur.com/8oMEs6u.png" group-title="CANAIS | DOCUMENTÁRIOS",H2 SD
-http://ppvx.xyz:80/368729/368729/857159
-#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 [H265] " tvg-logo="https://i.imgur.com/8oMEs6u.png" group-title="CANAIS | DOCUMENTÁRIOS",H2 [H265] 
-http://ppvx.xyz:80/368729/368729/856958
-#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="HGTV FHD " tvg-logo="https://i.imgur.com/oRZnRI0.png" group-title="CANAIS | DOCUMENTÁRIOS",HGTV FHD 
-http://ppvx.xyz:80/368729/368729/862348
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV HD" tvg-logo="https://i.imgur.com/oRZnRI0.png" group-title="CANAIS | DOCUMENTÁRIOS",HGTV HD
-http://ppvx.xyz:80/368729/368729/856699
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV SD" tvg-logo="https://i.imgur.com/oRZnRI0.png" group-title="CANAIS | DOCUMENTÁRIOS",HGTV SD
-http://ppvx.xyz:80/368729/368729/875980
-#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV [H265] " tvg-logo="https://i.imgur.com/oRZnRI0.png" group-title="CANAIS | DOCUMENTÁRIOS",HGTV [H265] 
-http://ppvx.xyz:80/368729/368729/856927
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL FHD " tvg-logo="https://i.imgur.com/Ni9XEsW.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL FHD 
-http://ppvx.xyz:80/368729/368729/862269
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://i.imgur.com/Ni9XEsW.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL HD
-http://ppvx.xyz:80/368729/368729/856731
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL SD" tvg-logo="https://i.imgur.com/Ni9XEsW.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL SD
-http://ppvx.xyz:80/368729/368729/857244
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL [H265] " tvg-logo="https://i.imgur.com/Ni9XEsW.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY CHANNEL [H265] 
-http://ppvx.xyz:80/368729/368729/856957
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇAO DISCOVERY FHD " tvg-logo="https://i.imgur.com/qOaMR06.png" group-title="CANAIS | DOCUMENTÁRIOS",INVESTIGAÇAO DISCOVERY FHD 
-http://ppvx.xyz:80/368729/368729/862306
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇÃO DISCOVERY HD" tvg-logo="https://i.imgur.com/qOaMR06.png" group-title="CANAIS | DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY HD
-http://ppvx.xyz:80/368729/368729/856732
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇÃO DISCOVERY SD" tvg-logo="https://i.imgur.com/qOaMR06.png" group-title="CANAIS | DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY SD
-http://ppvx.xyz:80/368729/368729/857160
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇÃO DISCOVERY [H265] " tvg-logo="https://i.imgur.com/qOaMR06.png" group-title="CANAIS | DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY [H265] 
-http://ppvx.xyz:80/368729/368729/856959
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO FHD " tvg-logo="https://i.imgur.com/acAruWG.png" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO FHD 
-http://ppvx.xyz:80/368729/368729/862292
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO HD" tvg-logo="https://i.imgur.com/acAruWG.png" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO HD
-http://ppvx.xyz:80/368729/368729/856740
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO SD" tvg-logo="https://i.imgur.com/acAruWG.png" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO SD
-http://ppvx.xyz:80/368729/368729/857174
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD FHD " tvg-logo="https://i.imgur.com/kkW4h35.png" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO WILD FHD 
-http://ppvx.xyz:80/368729/368729/862290
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD HD" tvg-logo="https://i.imgur.com/kkW4h35.png" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO WILD HD
-http://ppvx.xyz:80/368729/368729/856742
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD SD" tvg-logo="https://i.imgur.com/kkW4h35.png" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO WILD SD
-http://ppvx.xyz:80/368729/368729/857173
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD [H265]" tvg-logo="https://i.imgur.com/kkW4h35.png" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO WILD [H265]
-http://ppvx.xyz:80/368729/368729/856969
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO [H265]" tvg-logo="https://i.imgur.com/acAruWG.png" group-title="CANAIS | DOCUMENTÁRIOS",NATGEO [H265]
-http://ppvx.xyz:80/368729/368729/856968
-#EXTINF:-1 tvg-id="SmithsonianChannel" tvg-name="SMITHSONIAN CHANNEL FHD" tvg-logo="https://i.imgur.com/7yHXetn.png" group-title="CANAIS | DOCUMENTÁRIOS",SMITHSONIAN CHANNEL FHD
-http://ppvx.xyz:80/368729/368729/876260
-#EXTINF:-1 tvg-name="SMITHSONIAN CHANNEL H265" tvg-logo="https://i.imgur.com/7yHXetn.png" group-title="CANAIS | DOCUMENTÁRIOS",SMITHSONIAN CHANNEL H265
-http://ppvx.xyz:80/368729/368729/879108
-#EXTINF:-1 tvg-id="SmithsonianChannel" tvg-name="SMITHSONIAN CHANNEL HD" tvg-logo="https://i.imgur.com/7yHXetn.png" group-title="CANAIS | DOCUMENTÁRIOS",SMITHSONIAN CHANNEL HD
-http://ppvx.xyz:80/368729/368729/856808
-#EXTINF:-1 tvg-id="smithsonian.usa.us" tvg-name="SMITHSONIAN CHANNEL SD" tvg-logo="https://i.imgur.com/7yHXetn.png" group-title="CANAIS | DOCUMENTÁRIOS",SMITHSONIAN CHANNEL SD
-http://ppvx.xyz:80/368729/368729/876259
-#EXTINF:-1 tvg-name="ANIME Tv" tvg-logo="https://i.imgur.com/wsQJlgn.png" group-title="CANAIS | INFANTIS",ANIME Tv
-http://ppvx.xyz:80/368729/368729/876376
-#EXTINF:-1 tvg-name="ANIME TV 2" tvg-logo="https://i.imgur.com/wsQJlgn.png" group-title="CANAIS | INFANTIS",ANIME TV 2
-http://ppvx.xyz:80/368729/368729/876377
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD" tvg-logo="https://i.imgur.com/WFa3DYA.png" group-title="CANAIS | INFANTIS",BABY TV SD
-http://ppvx.xyz:80/368729/368729/857107
-#EXTINF:-1 tvg-name="BONS TEMPOS TV" tvg-logo="https://i.imgur.com/CDUhqE9.png" group-title="CANAIS | INFANTIS",BONS TEMPOS TV
-http://ppvx.xyz:80/368729/368729/876369
-#EXTINF:-1 tvg-name="BOOMERANG FHD " tvg-logo="https://i.imgur.com/sBtv1cO.png" group-title="CANAIS | INFANTIS",BOOMERANG FHD 
-http://ppvx.xyz:80/368729/368729/862309
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="https://i.imgur.com/sBtv1cO.png" group-title="CANAIS | INFANTIS",BOOMERANG HD
-http://ppvx.xyz:80/368729/368729/856836
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG SD" tvg-logo="https://i.imgur.com/sBtv1cO.png" group-title="CANAIS | INFANTIS",BOOMERANG SD
-http://ppvx.xyz:80/368729/368729/857113
-#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG [H265]" tvg-logo="https://i.imgur.com/sBtv1cO.png" group-title="CANAIS | INFANTIS",BOOMERANG [H265]
-http://ppvx.xyz:80/368729/368729/856919
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://i.imgur.com/URSYnf5.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK FHD
-http://ppvx.xyz:80/368729/368729/862310
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://i.imgur.com/URSYnf5.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK HD
-http://ppvx.xyz:80/368729/368729/856694
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://i.imgur.com/URSYnf5.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK SD
-http://ppvx.xyz:80/368729/368729/857118
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK [H265]" tvg-logo="https://i.imgur.com/URSYnf5.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK [H265]
-http://ppvx.xyz:80/368729/368729/876222
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD " tvg-logo="https://i.imgur.com/Lp56sC5.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS FHD 
-http://ppvx.xyz:80/368729/368729/862311
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS H265" tvg-logo="https://i.imgur.com/Lp56sC5.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS H265
-http://ppvx.xyz:80/368729/368729/879088
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://i.imgur.com/Lp56sC5.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS HD
-http://ppvx.xyz:80/368729/368729/856701
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://i.imgur.com/12l0Omn.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS SD
-http://ppvx.xyz:80/368729/368729/857125
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD " tvg-logo="https://i.imgur.com/34NMPhF.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL FHD 
-http://ppvx.xyz:80/368729/368729/862312
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL H265" tvg-logo="https://i.imgur.com/1FVW2Fx.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL H265
-http://ppvx.xyz:80/368729/368729/879089
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://i.imgur.com/34NMPhF.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL HD
-http://ppvx.xyz:80/368729/368729/856706
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://i.imgur.com/1FVW2Fx.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL SD
-http://ppvx.xyz:80/368729/368729/857127
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR FHD " tvg-logo="https://i.imgur.com/A2KNbiB.png" group-title="CANAIS | INFANTIS",DISNEY JUNIOR FHD 
-http://ppvx.xyz:80/368729/368729/862313
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HD" tvg-logo="https://i.imgur.com/A2KNbiB.png" group-title="CANAIS | INFANTIS",DISNEY JUNIOR HD
-http://ppvx.xyz:80/368729/368729/856707
-#EXTINF:-1 tvg-id="disney.junior.br" tvg-name="DISNEY JUNIOR SD" tvg-logo="https://i.imgur.com/A2KNbiB.png" group-title="CANAIS | INFANTIS",DISNEY JUNIOR SD
-http://ppvx.xyz:80/368729/368729/857128
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR [H265]" tvg-logo="https://i.imgur.com/A2KNbiB.png" group-title="CANAIS | INFANTIS",DISNEY JUNIOR [H265]
-http://ppvx.xyz:80/368729/368729/856935
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD H265" tvg-logo="https://i.imgur.com/jQ2154E.png" group-title="CANAIS | INFANTIS",DISNEY XD H265
-http://ppvx.xyz:80/368729/368729/879099
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD" tvg-logo="https://i.imgur.com/jQ2154E.png" group-title="CANAIS | INFANTIS",DISNEY XD SD
-http://ppvx.xyz:80/368729/368729/857129
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD " tvg-logo="https://i.imgur.com/U9EpVDq.png" group-title="CANAIS | INFANTIS",GLOOB FHD 
-http://ppvx.xyz:80/368729/368729/862314
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="https://i.imgur.com/U9EpVDq.png" group-title="CANAIS | INFANTIS",GLOOB HD
-http://ppvx.xyz:80/368729/368729/856723
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB SD" tvg-logo="https://i.imgur.com/U9EpVDq.png" group-title="CANAIS | INFANTIS",GLOOB SD
-http://ppvx.xyz:80/368729/368729/857152
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB [H265]" tvg-logo="https://i.imgur.com/U9EpVDq.png" group-title="CANAIS | INFANTIS",GLOOB [H265]
-http://ppvx.xyz:80/368729/368729/856950
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO FHD " tvg-logo="https://i.imgur.com/lzaavhX.png" group-title="CANAIS | INFANTIS",GLOOBINHO FHD 
-http://ppvx.xyz:80/368729/368729/862315
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO H265" tvg-logo="https://i.imgur.com/lzaavhX.png" group-title="CANAIS | INFANTIS",GLOOBINHO H265
-http://ppvx.xyz:80/368729/368729/879105
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="https://i.imgur.com/lzaavhX.png" group-title="CANAIS | INFANTIS",GLOOBINHO HD
-http://ppvx.xyz:80/368729/368729/856837
-#EXTINF:-1 tvg-id="nat.geo.kids.br" tvg-name="NAT GEO KIDS FHD " tvg-logo="https://i.imgur.com/3fyp1PI.png" group-title="CANAIS | INFANTIS",NAT GEO KIDS FHD 
-http://ppvx.xyz:80/368729/368729/862316
-#EXTINF:-1 tvg-id="nat.geo.kids.br" tvg-name="NAT GEO KIDS HD" tvg-logo="https://i.imgur.com/3fyp1PI.png" group-title="CANAIS | INFANTIS",NAT GEO KIDS HD
-http://ppvx.xyz:80/368729/368729/856741
-#EXTINF:-1 tvg-id="nat.geo.kids.br" tvg-name="NAT GEO KIDS SD" tvg-logo="https://i.imgur.com/3fyp1PI.png" group-title="CANAIS | INFANTIS",NAT GEO KIDS SD
-http://ppvx.xyz:80/368729/368729/857172
-#EXTINF:-1 tvg-id="nat.geo.kids.br" tvg-name="NAT GEO KIDS [H265]" tvg-logo="https://i.imgur.com/3fyp1PI.png" group-title="CANAIS | INFANTIS",NAT GEO KIDS [H265]
-http://ppvx.xyz:80/368729/368729/856970
-#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR FHD " tvg-logo="https://i.imgur.com/UW72UP3.png" group-title="CANAIS | INFANTIS",NICK JR FHD 
-http://ppvx.xyz:80/368729/368729/862318
-#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR HD" tvg-logo="https://i.imgur.com/UW72UP3.png" group-title="CANAIS | INFANTIS",NICK JR HD
-http://ppvx.xyz:80/368729/368729/856744
-#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR SD" tvg-logo="https://i.imgur.com/UW72UP3.png" group-title="CANAIS | INFANTIS",NICK JR SD
-http://ppvx.xyz:80/368729/368729/857176
-#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR [H265] " tvg-logo="https://i.imgur.com/UW72UP3.png" group-title="CANAIS | INFANTIS",NICK JR [H265] 
-http://ppvx.xyz:80/368729/368729/856972
-#EXTINF:-1 tvg-name="NICKELODEON FHD " tvg-logo="https://i.imgur.com/U1XnvRq.png" group-title="CANAIS | INFANTIS",NICKELODEON FHD 
-http://ppvx.xyz:80/368729/368729/862317
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="https://i.imgur.com/U1XnvRq.png" group-title="CANAIS | INFANTIS",NICKELODEON HD
-http://ppvx.xyz:80/368729/368729/856743
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON SD" tvg-logo="https://i.imgur.com/U1XnvRq.png" group-title="CANAIS | INFANTIS",NICKELODEON SD
-http://ppvx.xyz:80/368729/368729/857177
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON [H265]" tvg-logo="https://i.imgur.com/U1XnvRq.png" group-title="CANAIS | INFANTIS",NICKELODEON [H265]
-http://ppvx.xyz:80/368729/368729/856971
-#EXTINF:-1 tvg-name="RETRO CARTOON" tvg-logo="https://i.imgur.com/hKe8OuX.png" group-title="CANAIS | INFANTIS",RETRO CARTOON
-http://ppvx.xyz:80/368729/368729/876375
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://i.imgur.com/kzBwVLm.png" group-title="CANAIS | INFANTIS",TOONCAST HD
-http://ppvx.xyz:80/368729/368729/856838
-#EXTINF:-1 tvg-name="TV CINE" tvg-logo="https://i.ibb.co/Mcny5TQ/unnamed.png" group-title="CANAIS | INFANTIS",TV CINE
-http://ppvx.xyz:80/368729/368729/876368
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM H265" tvg-logo="https://i.imgur.com/gFJjJ8u.png" group-title="CANAIS | INFANTIS",TV RA TIM BUM H265
-http://ppvx.xyz:80/368729/368729/879085
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RATIMBUM HD" tvg-logo="https://i.imgur.com/gFJjJ8u.png" group-title="CANAIS | INFANTIS",TV RATIMBUM HD
-http://ppvx.xyz:80/368729/368729/856774
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RATIMBUM SD" tvg-logo="https://i.imgur.com/gFJjJ8u.png" group-title="CANAIS | INFANTIS",TV RATIMBUM SD
-http://ppvx.xyz:80/368729/368729/857231
-#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO SD" tvg-logo="https://i.imgur.com/hB8pCu1.png" group-title="CANAIS | INFANTIS",ZOOMOO SD
-http://ppvx.xyz:80/368729/368729/879144
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1  FHD " tvg-logo="https://i.imgur.com/1dKnSXj.png" group-title="CANAIS | VARIEDADES",ARTE 1  FHD 
-http://ppvx.xyz:80/368729/368729/862363
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 H265" tvg-logo="https://i.imgur.com/1dKnSXj.png" group-title="CANAIS | VARIEDADES",ARTE 1 H265
-http://ppvx.xyz:80/368729/368729/879077
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://i.imgur.com/1dKnSXj.png" group-title="CANAIS | VARIEDADES",ARTE 1 HD
-http://ppvx.xyz:80/368729/368729/856844
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD " tvg-logo="https://i.imgur.com/3inGYNL.png" group-title="CANAIS | VARIEDADES",BIS FHD 
-http://ppvx.xyz:80/368729/368729/862368
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="https://i.imgur.com/3inGYNL.png" group-title="CANAIS | VARIEDADES",BIS HD
-http://ppvx.xyz:80/368729/368729/856692
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD" tvg-logo="https://i.imgur.com/3inGYNL.png" group-title="CANAIS | VARIEDADES",BIS SD
-http://ppvx.xyz:80/368729/368729/857112
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS [H265]" tvg-logo="https://i.imgur.com/3inGYNL.png" group-title="CANAIS | VARIEDADES",BIS [H265]
-http://ppvx.xyz:80/368729/368729/856918
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD " tvg-logo="https://i.imgur.com/VFUqLY2.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL FHD 
-http://ppvx.xyz:80/368729/368729/862345
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://i.imgur.com/VFUqLY2.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL HD
-http://ppvx.xyz:80/368729/368729/856697
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://i.imgur.com/VFUqLY2.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL SD
-http://ppvx.xyz:80/368729/368729/857121
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL [H265]" tvg-logo="https://i.imgur.com/VFUqLY2.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL [H265]
-http://ppvx.xyz:80/368729/368729/856925
-#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! H265" tvg-logo="https://i.imgur.com/vRfOC9Z.png" group-title="CANAIS | VARIEDADES",CURTA! H265
-http://ppvx.xyz:80/368729/368729/879078
-#EXTINF:-1 tvg-id="DOGTV.br" tvg-name="DOG TV" tvg-logo="https://i.imgur.com/sfpVDnt.png" group-title="CANAIS | VARIEDADES",DOG TV
-http://ppvx.xyz:80/368729/368729/876537
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD " tvg-logo="https://i.imgur.com/qxfLv9r.png" group-title="CANAIS | VARIEDADES",E! FHD 
-http://ppvx.xyz:80/368729/368729/862351
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="https://i.imgur.com/qxfLv9r.png" group-title="CANAIS | VARIEDADES",E! HD
-http://ppvx.xyz:80/368729/368729/856708
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="https://i.imgur.com/qxfLv9r.png" group-title="CANAIS | VARIEDADES",E! SD
-http://ppvx.xyz:80/368729/368729/857130
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! [H265]" tvg-logo="https://i.imgur.com/qxfLv9r.png" group-title="CANAIS | VARIEDADES",E! [H265]
-http://ppvx.xyz:80/368729/368729/856936
-#EXTINF:-1 tvg-id="Fashion TV" tvg-name="FASHION TV [H265]" tvg-logo="https://i.imgur.com/F0rRKao.png" group-title="CANAIS | VARIEDADES",FASHION TV [H265]
-http://ppvx.xyz:80/368729/368729/862361
-#EXTINF:-1 tvg-id="film-arts" tvg-name="FILM & ARTS SD" tvg-logo="https://i.imgur.com/qXuboaZ.png" group-title="CANAIS | VARIEDADES",FILM & ARTS SD
-http://ppvx.xyz:80/368729/368729/857137
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD  NETWORK FHD " tvg-logo="https://i.imgur.com/u6ilW0S.png" group-title="CANAIS | VARIEDADES",FOOD  NETWORK FHD 
-http://ppvx.xyz:80/368729/368729/862350
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://i.imgur.com/u6ilW0S.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK HD
-http://ppvx.xyz:80/368729/368729/856713
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD" tvg-logo="https://i.imgur.com/u6ilW0S.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK SD
-http://ppvx.xyz:80/368729/368729/857139
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK [H265]" tvg-logo="https://i.imgur.com/u6ilW0S.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK [H265]
-http://ppvx.xyz:80/368729/368729/856942
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FHD " tvg-logo="https://i.imgur.com/q7F7LPD.png" group-title="CANAIS | VARIEDADES",GNT FHD 
-http://ppvx.xyz:80/368729/368729/862349
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="https://i.imgur.com/q7F7LPD.png" group-title="CANAIS | VARIEDADES",GNT HD
-http://ppvx.xyz:80/368729/368729/856724
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="https://i.imgur.com/q7F7LPD.png" group-title="CANAIS | VARIEDADES",GNT SD
-http://ppvx.xyz:80/368729/368729/857153
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT [H265]" tvg-logo="https://i.imgur.com/q7F7LPD.png" group-title="CANAIS | VARIEDADES",GNT [H265]
-http://ppvx.xyz:80/368729/368729/856951
-#EXTINF:-1 tvg-id="loading" tvg-name="LOADING HD" tvg-logo="https://i.imgur.com/Mz3L6ZK.png" group-title="CANAIS | VARIEDADES",LOADING HD
-http://ppvx.xyz:80/368729/368729/856847
-#EXTINF:-1 tvg-id="loading" tvg-name="LOADING SD" tvg-logo="https://i.imgur.com/Mz3L6ZK.png" group-title="CANAIS | VARIEDADES",LOADING SD
-http://ppvx.xyz:80/368729/368729/857045
-#EXTINF:-1 tvg-id="loading" tvg-name="LOANDING FHD " tvg-logo="https://i.imgur.com/Mz3L6ZK.png" group-title="CANAIS | VARIEDADES",LOANDING FHD 
-http://ppvx.xyz:80/368729/368729/862366
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS NA TELA FHD [H265]" tvg-logo="https://i.imgur.com/LZ6CU5c.png" group-title="CANAIS | VARIEDADES",MAIS NA TELA FHD [H265]
-http://ppvx.xyz:80/368729/368729/879080
-#EXTINF:-1 tvg-name="MTV 00s H265" tvg-logo="https://i.imgur.com/rwh3pws.png" group-title="CANAIS | VARIEDADES",MTV 00s H265
-http://ppvx.xyz:80/368729/368729/879086
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FHD " tvg-logo="https://i.imgur.com/WZhuIdj.png" group-title="CANAIS | VARIEDADES",MTV FHD 
-http://ppvx.xyz:80/368729/368729/862341
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="https://i.imgur.com/WZhuIdj.png" group-title="CANAIS | VARIEDADES",MTV HD
-http://ppvx.xyz:80/368729/368729/856738
-#EXTINF:-1 tvg-name="MTV LIVE H265" tvg-logo="https://i.imgur.com/FeRf5EY.png" group-title="CANAIS | VARIEDADES",MTV LIVE H265
-http://ppvx.xyz:80/368729/368729/879093
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD" tvg-logo="https://i.imgur.com/WZhuIdj.png" group-title="CANAIS | VARIEDADES",MTV SD
-http://ppvx.xyz:80/368729/368729/857168
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV [H265] " tvg-logo="https://i.imgur.com/WZhuIdj.png" group-title="CANAIS | VARIEDADES",MTV [H265] 
-http://ppvx.xyz:80/368729/368729/856966
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW FHD " tvg-logo="https://i.imgur.com/gaol5T0.png" group-title="CANAIS | VARIEDADES",MULTISHOW FHD 
-http://ppvx.xyz:80/368729/368729/862347
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD" tvg-logo="https://i.imgur.com/gaol5T0.png" group-title="CANAIS | VARIEDADES",MULTISHOW HD
-http://ppvx.xyz:80/368729/368729/856739
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD" tvg-logo="https://i.imgur.com/gaol5T0.png" group-title="CANAIS | VARIEDADES",MULTISHOW SD
-http://ppvx.xyz:80/368729/368729/857169
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW [H265] " tvg-logo="https://i.imgur.com/gaol5T0.png" group-title="CANAIS | VARIEDADES",MULTISHOW [H265] 
-http://ppvx.xyz:80/368729/368729/856967
-#EXTINF:-1 tvg-id="Music Box Brasil HD" tvg-name="MUSIC BOX BRAZIL H265" tvg-logo="https://i.imgur.com/cuHirvC.png" group-title="CANAIS | VARIEDADES",MUSIC BOX BRAZIL H265
-http://ppvx.xyz:80/368729/368729/879081
-#EXTINF:-1 tvg-id="Music Box Brasil HD" tvg-name="MUSIC BOX BRAZIL HD" tvg-logo="https://i.imgur.com/cuHirvC.png" group-title="CANAIS | VARIEDADES",MUSIC BOX BRAZIL HD
-http://ppvx.xyz:80/368729/368729/857171
-#EXTINF:-1 tvg-id="Music Box Brasil HD" tvg-name="MUSIC BOX BRAZIL SD" tvg-logo="https://i.imgur.com/cuHirvC.png" group-title="CANAIS | VARIEDADES",MUSIC BOX BRAZIL SD
-http://ppvx.xyz:80/368729/368729/857170
-#EXTINF:-1 tvg-id="Polishop.br" tvg-name="POLISHOP TV SD" tvg-logo="https://i.imgur.com/l6QiB1Z.png" group-title="CANAIS | VARIEDADES",POLISHOP TV SD
-http://ppvx.xyz:80/368729/368729/857182
-#EXTINF:-1 tvg-name="PRIME BOX BRAZIL H265" tvg-logo="https://i.imgur.com/9L7lwdN.png" group-title="CANAIS | VARIEDADES",PRIME BOX BRAZIL H265
-http://ppvx.xyz:80/368729/368729/879083
-#EXTINF:-1 tvg-id="Polishop.br" tvg-name="SHOP TIME SD" tvg-logo="https://i.imgur.com/gZrh4Px.png" group-title="CANAIS | VARIEDADES",SHOP TIME SD
-http://ppvx.xyz:80/368729/368729/856864
-#EXTINF:-1 tvg-id="terra.viva.br" tvg-name="TERRA VIVA SD" tvg-logo="https://i.imgur.com/vPQtEhm.png" group-title="CANAIS | VARIEDADES",TERRA VIVA SD
-http://ppvx.xyz:80/368729/368729/857217
-#EXTINF:-1 tvg-id="Travel Box Brazil" tvg-name="TRAVEL BOX BRASIL [H265]" tvg-logo="https://i.imgur.com/12NiJeq.png" group-title="CANAIS | VARIEDADES",TRAVEL BOX BRASIL [H265]
-http://ppvx.xyz:80/368729/368729/862371
-#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRU TV HD" tvg-logo="https://i.imgur.com/vsOu5CN.png" group-title="CANAIS | VARIEDADES",TRU TV HD
-http://ppvx.xyz:80/368729/368729/856846
-#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRU TV SD" tvg-logo="https://i.imgur.com/vsOu5CN.png" group-title="CANAIS | VARIEDADES",TRU TV SD
-http://ppvx.xyz:80/368729/368729/857222
-#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUT TV FHD " tvg-logo="https://i.imgur.com/vsOu5CN.png" group-title="CANAIS | VARIEDADES",TRUT TV FHD 
-http://ppvx.xyz:80/368729/368729/862365
-#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV H265" tvg-logo="https://i.imgur.com/vsOu5CN.png" group-title="CANAIS | VARIEDADES",TRUTV H265
-http://ppvx.xyz:80/368729/368729/879109
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA  FHD" tvg-logo="https://i.imgur.com/xJBcvcI.png" group-title="CANAIS | VARIEDADES",VIVA  FHD
-http://ppvx.xyz:80/368729/368729/862352
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA H265" tvg-logo="https://i.imgur.com/xJBcvcI.png" group-title="CANAIS | VARIEDADES",VIVA H265
-http://ppvx.xyz:80/368729/368729/879087
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="https://i.imgur.com/xJBcvcI.png" group-title="CANAIS | VARIEDADES",VIVA HD
-http://ppvx.xyz:80/368729/368729/856778
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD" tvg-logo="https://i.imgur.com/xJBcvcI.png" group-title="CANAIS | VARIEDADES",VIVA SD
-http://ppvx.xyz:80/368729/368729/857240
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO TV FHD " tvg-logo="https://i.imgur.com/lRhTz6m.png" group-title="CANAIS | VARIEDADES",WOOHOO TV FHD 
-http://ppvx.xyz:80/368729/368729/862362
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO TV HD" tvg-logo="https://i.imgur.com/lRhTz6m.png" group-title="CANAIS | VARIEDADES",WOOHOO TV HD
-http://ppvx.xyz:80/368729/368729/856843
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO TV SD" tvg-logo="https://i.imgur.com/lRhTz6m.png" group-title="CANAIS | VARIEDADES",WOOHOO TV SD
-http://ppvx.xyz:80/368729/368729/857242
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO TV [H265]" tvg-logo="https://i.imgur.com/lRhTz6m.png" group-title="CANAIS | VARIEDADES",WOOHOO TV [H265]
-http://ppvx.xyz:80/368729/368729/857006
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD [L]" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS | LEGENDADOS",AXN HD [L]
-http://ppvx.xyz:80/368729/368729/876562
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD [L]" tvg-logo="https://i.imgur.com/ctgIH07.png" group-title="CANAIS | LEGENDADOS",AXN SD [L]
-http://ppvx.xyz:80/368729/368729/876563
-#EXTINF:-1 tvg-name="CANAL SONY HD [L]" tvg-logo="https://i.imgur.com/tw58wz3.png" group-title="CANAIS | LEGENDADOS",CANAL SONY HD [L]
-http://ppvx.xyz:80/368729/368729/876596
-#EXTINF:-1 tvg-name="CANAL SONY SD [L]" tvg-logo="https://i.imgur.com/tw58wz3.png" group-title="CANAIS | LEGENDADOS",CANAL SONY SD [L]
-http://ppvx.xyz:80/368729/368729/876597
-#EXTINF:-1 tvg-name="FX HD [L]" tvg-logo="https://i.imgur.com/6j1dJ29.png" group-title="CANAIS | LEGENDADOS",FX HD [L]
-http://ppvx.xyz:80/368729/368729/876584
-#EXTINF:-1 tvg-name="FX SD [L]" tvg-logo="https://i.imgur.com/6j1dJ29.png" group-title="CANAIS | LEGENDADOS",FX SD [L]
-http://ppvx.xyz:80/368729/368729/876585
-#EXTINF:-1 tvg-name="HBO HD [L]" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS | LEGENDADOS",HBO HD [L]
-http://ppvx.xyz:80/368729/368729/876566
-#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD [L]" tvg-logo="https://i.imgur.com/7mf7Dyx.png" group-title="CANAIS | LEGENDADOS",HBO MUNDI SD [L]
-http://ppvx.xyz:80/368729/368729/876571
-#EXTINF:-1 tvg-name="HBO PLUS HD [L]" tvg-logo="https://i.imgur.com/bmZ8rxt.png" group-title="CANAIS | LEGENDADOS",HBO PLUS HD [L]
-http://ppvx.xyz:80/368729/368729/876568
-#EXTINF:-1 tvg-name="HBO PLUS SD [L]" tvg-logo="https://i.imgur.com/bmZ8rxt.png" group-title="CANAIS | LEGENDADOS",HBO PLUS SD [L]
-http://ppvx.xyz:80/368729/368729/876569
-#EXTINF:-1 tvg-name="HBO POP HD [L]" tvg-logo="https://i.imgur.com/0oXzc81.png" group-title="CANAIS | LEGENDADOS",HBO POP HD [L]
-http://ppvx.xyz:80/368729/368729/876586
-#EXTINF:-1 tvg-name="HBO POP SD [L]" tvg-logo="https://i.imgur.com/0oXzc81.png" group-title="CANAIS | LEGENDADOS",HBO POP SD [L]
-http://ppvx.xyz:80/368729/368729/876587
-#EXTINF:-1 tvg-name="HBO SD [L]" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS | LEGENDADOS",HBO SD [L]
-http://ppvx.xyz:80/368729/368729/876567
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD [L]" tvg-logo="https://i.imgur.com/zvcpVnD.png" group-title="CANAIS | LEGENDADOS",HBO XTREME SD [L]
-http://ppvx.xyz:80/368729/368729/876570
-#EXTINF:-1 tvg-name="MEGAPIX HD [L]" tvg-logo="https://i.imgur.com/9iXOzlq.png" group-title="CANAIS | LEGENDADOS",MEGAPIX HD [L]
-http://ppvx.xyz:80/368729/368729/876588
-#EXTINF:-1 tvg-name="MEGAPIX SD [L]" tvg-logo="https://i.imgur.com/9iXOzlq.png" group-title="CANAIS | LEGENDADOS",MEGAPIX SD [L]
-http://ppvx.xyz:80/368729/368729/876589
-#EXTINF:-1 tvg-name="SPACE HD [L]" tvg-logo="https://i.imgur.com/rLuaRDb.png" group-title="CANAIS | LEGENDADOS",SPACE HD [L]
-http://ppvx.xyz:80/368729/368729/876590
-#EXTINF:-1 tvg-name="SPACE SD [L]" tvg-logo="https://i.imgur.com/rLuaRDb.png" group-title="CANAIS | LEGENDADOS",SPACE SD [L]
-http://ppvx.xyz:80/368729/368729/876591
-#EXTINF:-1 tvg-name="STAR CHANNEL HD [L]" tvg-logo="https://i.imgur.com/O9w4VCR.png" group-title="CANAIS | LEGENDADOS",STAR CHANNEL HD [L]
-http://ppvx.xyz:80/368729/368729/876564
-#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL SD [L]" tvg-logo="https://i.imgur.com/O9w4VCR.png" group-title="CANAIS | LEGENDADOS",STAR CHANNEL SD [L]
-http://ppvx.xyz:80/368729/368729/876565
-#EXTINF:-1 tvg-name="TELECINE ACTION HD [L]" tvg-logo="https://i.imgur.com/Xdl0FU1.png" group-title="CANAIS | LEGENDADOS",TELECINE ACTION HD [L]
-http://ppvx.xyz:80/368729/368729/876572
-#EXTINF:-1 tvg-name="TELECINE ACTION SD [L]" tvg-logo="https://i.imgur.com/Xdl0FU1.png" group-title="CANAIS | LEGENDADOS",TELECINE ACTION SD [L]
-http://ppvx.xyz:80/368729/368729/876573
-#EXTINF:-1 tvg-name="TELECINE CULT HD [L]" tvg-logo="https://i.imgur.com/UI5Z3cf.png" group-title="CANAIS | LEGENDADOS",TELECINE CULT HD [L]
-http://ppvx.xyz:80/368729/368729/876599
-#EXTINF:-1 tvg-name="TELECINE CULT SD [L]" tvg-logo="https://i.imgur.com/UI5Z3cf.png" group-title="CANAIS | LEGENDADOS",TELECINE CULT SD [L]
-http://ppvx.xyz:80/368729/368729/876598
-#EXTINF:-1 tvg-name="TELECINE FUN HD [L]" tvg-logo="https://i.imgur.com/9uzg3hN.png" group-title="CANAIS | LEGENDADOS",TELECINE FUN HD [L]
-http://ppvx.xyz:80/368729/368729/876574
-#EXTINF:-1 tvg-name="TELECINE FUN SD [L]" tvg-logo="https://i.imgur.com/9uzg3hN.png" group-title="CANAIS | LEGENDADOS",TELECINE FUN SD [L]
-http://ppvx.xyz:80/368729/368729/876575
-#EXTINF:-1 tvg-name="TELECINE PIPOCA HD [L]" tvg-logo="https://i.imgur.com/uLUN3d9.png" group-title="CANAIS | LEGENDADOS",TELECINE PIPOCA HD [L]
-http://ppvx.xyz:80/368729/368729/876576
-#EXTINF:-1 tvg-name="TELECINE PIPOCA SD [L]" tvg-logo="https://i.imgur.com/uLUN3d9.png" group-title="CANAIS | LEGENDADOS",TELECINE PIPOCA SD [L]
-http://ppvx.xyz:80/368729/368729/876577
-#EXTINF:-1 tvg-name="TELECINE PREMIUM HD [L]" tvg-logo="https://i.imgur.com/VjdttBW.png" group-title="CANAIS | LEGENDADOS",TELECINE PREMIUM HD [L]
-http://ppvx.xyz:80/368729/368729/876578
-#EXTINF:-1 tvg-name="TELECINE PREMIUM SD [L]" tvg-logo="https://i.imgur.com/VjdttBW.png" group-title="CANAIS | LEGENDADOS",TELECINE PREMIUM SD [L]
-http://ppvx.xyz:80/368729/368729/876579
-#EXTINF:-1 tvg-name="TELECINE TOUCH HD [L]" tvg-logo="https://i.imgur.com/f5TPZe4.png" group-title="CANAIS | LEGENDADOS",TELECINE TOUCH HD [L]
-http://ppvx.xyz:80/368729/368729/876580
-#EXTINF:-1 tvg-name="TELECINE TOUCH SD [L]" tvg-logo="https://i.imgur.com/f5TPZe4.png" group-title="CANAIS | LEGENDADOS",TELECINE TOUCH SD [L]
-http://ppvx.xyz:80/368729/368729/876581
-#EXTINF:-1 tvg-name="TNT HD [L]" tvg-logo="https://i.imgur.com/s6k93DU.png" group-title="CANAIS | LEGENDADOS",TNT HD [L]
-http://ppvx.xyz:80/368729/368729/876582
-#EXTINF:-1 tvg-name="TNT SD [L]" tvg-logo="https://i.imgur.com/s6k93DU.png" group-title="CANAIS | LEGENDADOS",TNT SD [L]
-http://ppvx.xyz:80/368729/368729/876583
-#EXTINF:-1 tvg-name="TNT SERIES HD [L]" tvg-logo="https://i.imgur.com/300ycto.png" group-title="CANAIS | LEGENDADOS",TNT SERIES HD [L]
-http://ppvx.xyz:80/368729/368729/876592
-#EXTINF:-1 tvg-name="TNT SERIES SD [L]" tvg-logo="https://i.imgur.com/300ycto.png" group-title="CANAIS | LEGENDADOS",TNT SERIES SD [L]
-http://ppvx.xyz:80/368729/368729/876593
-#EXTINF:-1 tvg-name="WARNER CHANNEL HD [L]" tvg-logo="https://i.imgur.com/xbg9PhB.png" group-title="CANAIS | LEGENDADOS",WARNER CHANNEL HD [L]
-http://ppvx.xyz:80/368729/368729/876594
-#EXTINF:-1 tvg-name="WARNER CHANNEL SD [L]" tvg-logo="https://i.imgur.com/xbg9PhB.png" group-title="CANAIS | LEGENDADOS",WARNER CHANNEL SD [L]
-http://ppvx.xyz:80/368729/368729/876595
-#EXTINF:-1 tvg-id="band.satelite.br" tvg-name="BAND INTERNACIONAL SD" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | BAND",BAND INTERNACIONAL SD
-http://ppvx.xyz:80/368729/368729/876258
-#EXTINF:-1 tvg-id="Band Campinas HD" tvg-name="BAND MAIS CAMPINAS FHD" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | BAND",BAND MAIS CAMPINAS FHD
-http://ppvx.xyz:80/368729/368729/876256
-#EXTINF:-1 tvg-id="band.campinas.br" tvg-name="BAND MAIS CAMPINAS HD" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | BAND",BAND MAIS CAMPINAS HD
-http://ppvx.xyz:80/368729/368729/876257
-#EXTINF:-1 tvg-id="Band Belém" tvg-name="BAND RBA BELÉM HD" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | BAND",BAND RBA BELÉM HD
-http://ppvx.xyz:80/368729/368729/876223
-#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP FHD " tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | BAND",BAND SP FHD 
-http://ppvx.xyz:80/368729/368729/862355
-#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP FHD [H265]" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | BAND",BAND SP FHD [H265]
-http://ppvx.xyz:80/368729/368729/876253
-#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP FHD*" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | BAND",BAND SP FHD*
-http://ppvx.xyz:80/368729/368729/876252
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | BAND",BAND SP HD
-http://ppvx.xyz:80/368729/368729/876254
-#EXTINF:-1 tvg-id="band.sao.paulo.br" tvg-name="BAND SP SD" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | BAND",BAND SP SD
-http://ppvx.xyz:80/368729/368729/876255
-#EXTINF:-1 tvg-name="BAND MINAS HD" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | BAND",BAND MINAS HD
-http://ppvx.xyz:80/368729/368729/880798
-#EXTINF:-1 tvg-name="BAND MINAS FHD" tvg-logo="https://i.imgur.com/H8G45iZ.png" group-title="CANAIS | BAND",BAND MINAS FHD
-http://ppvx.xyz:80/368729/368729/880799
-#EXTINF:-1 tvg-id="Band News" tvg-name="BAND NEWS FHD" tvg-logo="https://i.imgur.com/lIwPTDV.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS FHD
-http://ppvx.xyz:80/368729/368729/862353
-#EXTINF:-1 tvg-id="Band News" tvg-name="BAND NEWS HD" tvg-logo="https://i.imgur.com/lIwPTDV.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD
-http://ppvx.xyz:80/368729/368729/856806
-#EXTINF:-1 tvg-id="Band News" tvg-name="BAND NEWS SD" tvg-logo="https://i.imgur.com/lIwPTDV.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS SD
-http://ppvx.xyz:80/368729/368729/857110
-#EXTINF:-1 tvg-id="Band News" tvg-name="BAND NEWS [H265]" tvg-logo="https://i.imgur.com/lIwPTDV.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS [H265]
-http://ppvx.xyz:80/368729/368729/856916
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL FHD" tvg-logo="https://i.imgur.com/TXUGFuN.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL FHD
-http://ppvx.xyz:80/368729/368729/862339
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL HD" tvg-logo="https://i.imgur.com/TXUGFuN.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD
-http://ppvx.xyz:80/368729/368729/856805
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL SD" tvg-logo="https://i.imgur.com/TXUGFuN.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL SD
-http://ppvx.xyz:80/368729/368729/857248
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN BRASIL [H265]" tvg-logo="https://i.imgur.com/TXUGFuN.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL [H265]
-http://ppvx.xyz:80/368729/368729/857008
-#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN ESPANHOL SD" tvg-logo="https://i.imgur.com/X8znyfx.png" group-title="CANAIS | NOTÍCIAS",CNN ESPANHOL SD
-http://ppvx.xyz:80/368729/368729/856875
-#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN INTERNACIONAL SD" tvg-logo="https://i.imgur.com/WfYB35W.png" group-title="CANAIS | NOTÍCIAS",CNN INTERNACIONAL SD
-http://ppvx.xyz:80/368729/368729/856874
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS FHD" tvg-logo="https://i.imgur.com/Mk27aNQ.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS FHD
-http://ppvx.xyz:80/368729/368729/862340
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://i.imgur.com/Mk27aNQ.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS HD
-http://ppvx.xyz:80/368729/368729/856721
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS SD" tvg-logo="https://i.imgur.com/Mk27aNQ.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS SD
-http://ppvx.xyz:80/368729/368729/857148
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS [H265]" tvg-logo="https://i.imgur.com/Mk27aNQ.png" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS [H265]
-http://ppvx.xyz:80/368729/368729/856949
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS FHD" tvg-logo="https://i.imgur.com/T1qFlzc.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS FHD
-http://ppvx.xyz:80/368729/368729/862354
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS H265" tvg-logo="https://i.imgur.com/T1qFlzc.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS H265
-http://ppvx.xyz:80/368729/368729/879106
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://i.imgur.com/T1qFlzc.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS HD
-http://ppvx.xyz:80/368729/368729/856807
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD " tvg-logo="https://i.imgur.com/0OZ0ReM.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD 
-http://ppvx.xyz:80/368729/368729/862256
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.imgur.com/0OZ0ReM.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD
-http://ppvx.xyz:80/368729/368729/856691
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD" tvg-logo="https://i.imgur.com/0OZ0ReM.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD
-http://ppvx.xyz:80/368729/368729/857111
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS [H265]" tvg-logo="https://i.imgur.com/0OZ0ReM.png" group-title="CANAIS | ESPORTES",BAND SPORTS [H265]
-http://ppvx.xyz:80/368729/368729/856917
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD " tvg-logo="https://i.imgur.com/vndT82p.png" group-title="CANAIS | ESPORTES",COMBATE FHD 
-http://ppvx.xyz:80/368729/368729/862272
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="https://i.imgur.com/vndT82p.png" group-title="CANAIS | ESPORTES",COMBATE HD
-http://ppvx.xyz:80/368729/368729/856696
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD" tvg-logo="https://i.imgur.com/vndT82p.png" group-title="CANAIS | ESPORTES",COMBATE SD
-http://ppvx.xyz:80/368729/368729/857120
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE [H265]" tvg-logo="https://i.imgur.com/vndT82p.png" group-title="CANAIS | ESPORTES",COMBATE [H265]
-http://ppvx.xyz:80/368729/368729/856924
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD " tvg-logo="https://i.imgur.com/6tJCxTm.png" group-title="CANAIS | ESPORTES",ESPN 2 FHD 
-http://ppvx.xyz:80/368729/368729/862260
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD" tvg-logo="https://i.imgur.com/6tJCxTm.png" group-title="CANAIS | ESPORTES",ESPN 2 HD
-http://ppvx.xyz:80/368729/368729/856709
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD" tvg-logo="https://i.imgur.com/6tJCxTm.png" group-title="CANAIS | ESPORTES",ESPN 2 SD
-http://ppvx.xyz:80/368729/368729/857135
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 [H265]" tvg-logo="https://i.imgur.com/6tJCxTm.png" group-title="CANAIS | ESPORTES",ESPN 2 [H265]
-http://ppvx.xyz:80/368729/368729/856939
-#EXTINF:-1 tvg-id="espn.brasil.br" tvg-name="ESPN BRASIL FHD " tvg-logo="https://i.imgur.com/LJuuOMf.png" group-title="CANAIS | ESPORTES",ESPN BRASIL FHD 
-http://ppvx.xyz:80/368729/368729/862257
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="https://i.imgur.com/LJuuOMf.png" group-title="CANAIS | ESPORTES",ESPN BRASIL HD
-http://ppvx.xyz:80/368729/368729/856710
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="https://i.imgur.com/LJuuOMf.png" group-title="CANAIS | ESPORTES",ESPN BRASIL SD
-http://ppvx.xyz:80/368729/368729/857136
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL [H265]" tvg-logo="https://i.imgur.com/LJuuOMf.png" group-title="CANAIS | ESPORTES",ESPN BRASIL [H265]
-http://ppvx.xyz:80/368729/368729/856940
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD " tvg-logo="https://i.imgur.com/xMfxpFk.png" group-title="CANAIS | ESPORTES",ESPN EXTRA FHD 
-http://ppvx.xyz:80/368729/368729/862258
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://i.imgur.com/xMfxpFk.png" group-title="CANAIS | ESPORTES",ESPN EXTRA HD
-http://ppvx.xyz:80/368729/368729/856712
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA SD" tvg-logo="https://i.imgur.com/xMfxpFk.png" group-title="CANAIS | ESPORTES",ESPN EXTRA SD
-http://ppvx.xyz:80/368729/368729/876221
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA [H265]" tvg-logo="https://i.imgur.com/xMfxpFk.png" group-title="CANAIS | ESPORTES",ESPN EXTRA [H265]
-http://ppvx.xyz:80/368729/368729/856937
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHD " tvg-logo="https://i.imgur.com/kd3IBDz.png" group-title="CANAIS | ESPORTES",ESPN FHD 
-http://ppvx.xyz:80/368729/368729/862259
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/kd3IBDz.png" group-title="CANAIS | ESPORTES",ESPN HD
-http://ppvx.xyz:80/368729/368729/856711
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD" tvg-logo="https://i.imgur.com/kd3IBDz.png" group-title="CANAIS | ESPORTES",ESPN SD
-http://ppvx.xyz:80/368729/368729/857134
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN [H265]" tvg-logo="https://i.imgur.com/kd3IBDz.png" group-title="CANAIS | ESPORTES",ESPN [H265]
-http://ppvx.xyz:80/368729/368729/856938
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV FHD" tvg-logo="https://i.imgur.com/mmJtU42.png" group-title="CANAIS | ESPORTES",FISH TV FHD
-http://ppvx.xyz:80/368729/368729/856941
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV H265" tvg-logo="https://i.imgur.com/mmJtU42.png" group-title="CANAIS | ESPORTES",FISH TV H265
-http://ppvx.xyz:80/368729/368729/879090
-#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV HD" tvg-logo="https://i.imgur.com/mmJtU42.png" group-title="CANAIS | ESPORTES",FISH TV HD
-http://ppvx.xyz:80/368729/368729/857138
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD " tvg-logo="https://i.imgur.com/uvjIrfv.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 FHD 
-http://ppvx.xyz:80/368729/368729/862261
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://i.imgur.com/uvjIrfv.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 HD
-http://ppvx.xyz:80/368729/368729/856718
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://i.imgur.com/uvjIrfv.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 SD
-http://ppvx.xyz:80/368729/368729/857143
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 [H265]" tvg-logo="https://i.imgur.com/uvjIrfv.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 [H265]
-http://ppvx.xyz:80/368729/368729/856947
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD " tvg-logo="https://i.imgur.com/Cu7yweR.png" group-title="CANAIS | ESPORTES",FOX SPORTS FHD 
-http://ppvx.xyz:80/368729/368729/862262
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS HD" tvg-logo="https://i.imgur.com/Cu7yweR.png" group-title="CANAIS | ESPORTES",FOX SPORTS HD
-http://ppvx.xyz:80/368729/368729/862270
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD" tvg-logo="https://i.imgur.com/Cu7yweR.png" group-title="CANAIS | ESPORTES",FOX SPORTS SD
-http://ppvx.xyz:80/368729/368729/857142
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS [H265]" tvg-logo="https://i.imgur.com/Cu7yweR.png" group-title="CANAIS | ESPORTES",FOX SPORTS [H265]
-http://ppvx.xyz:80/368729/368729/856946
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF FHD " tvg-logo="https://i.imgur.com/GFgqNpF.png" group-title="CANAIS | ESPORTES",OFF FHD 
-http://ppvx.xyz:80/368729/368729/862346
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://i.imgur.com/GFgqNpF.png" group-title="CANAIS | ESPORTES",OFF HD
-http://ppvx.xyz:80/368729/368729/856745
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD" tvg-logo="https://i.imgur.com/GFgqNpF.png" group-title="CANAIS | ESPORTES",OFF SD
-http://ppvx.xyz:80/368729/368729/857178
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF [H265]" tvg-logo="https://i.imgur.com/GFgqNpF.png" group-title="CANAIS | ESPORTES",OFF [H265]
-http://ppvx.xyz:80/368729/368729/856973
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD " tvg-logo="https://i.imgur.com/TvuhwNi.png" group-title="CANAIS | ESPORTES",SPORTV 2 FHD 
-http://ppvx.xyz:80/368729/368729/862265
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.imgur.com/gIjU7yY.png" group-title="CANAIS | ESPORTES",SPORTV 2 HD
-http://ppvx.xyz:80/368729/368729/856757
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD" tvg-logo="https://i.imgur.com/gIjU7yY.png" group-title="CANAIS | ESPORTES",SPORTV 2 SD
-http://ppvx.xyz:80/368729/368729/857205
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 [H265]" tvg-logo="https://i.imgur.com/TvuhwNi.png" group-title="CANAIS | ESPORTES",SPORTV 2 [H265]
-http://ppvx.xyz:80/368729/368729/856985
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD " tvg-logo="https://i.imgur.com/sVFoutQ.png" group-title="CANAIS | ESPORTES",SPORTV 3 FHD 
-http://ppvx.xyz:80/368729/368729/862266
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://i.imgur.com/sVFoutQ.png" group-title="CANAIS | ESPORTES",SPORTV 3 HD
-http://ppvx.xyz:80/368729/368729/856758
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD" tvg-logo="https://i.imgur.com/sVFoutQ.png" group-title="CANAIS | ESPORTES",SPORTV 3 SD
-http://ppvx.xyz:80/368729/368729/857206
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 [H265]" tvg-logo="https://i.imgur.com/sVFoutQ.png" group-title="CANAIS | ESPORTES",SPORTV 3 [H265]
-http://ppvx.xyz:80/368729/368729/856986
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD " tvg-logo="https://i.imgur.com/TvuhwNi.png" group-title="CANAIS | ESPORTES",SPORTV FHD 
-http://ppvx.xyz:80/368729/368729/862264
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://i.imgur.com/TvuhwNi.png" group-title="CANAIS | ESPORTES",SPORTV HD
-http://ppvx.xyz:80/368729/368729/856759
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD" tvg-logo="https://i.imgur.com/TvuhwNi.png" group-title="CANAIS | ESPORTES",SPORTV SD
-http://ppvx.xyz:80/368729/368729/857204
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV [H265]" tvg-logo="https://i.imgur.com/TvuhwNi.png" group-title="CANAIS | ESPORTES",SPORTV [H265]
-http://ppvx.xyz:80/368729/368729/856987
-#EXTINF:-1 tvg-name="STAR +1" tvg-logo="https://i.imgur.com/xxEIAg1.png" group-title="CANAIS | ESPORTES",STAR +1
-http://ppvx.xyz:80/368729/368729/876324
-#EXTINF:-1 tvg-name="STAR+ 2" tvg-logo="https://i.imgur.com/xxEIAg1.png" group-title="CANAIS | ESPORTES",STAR+ 2
-http://ppvx.xyz:80/368729/368729/879160
-#EXTINF:-1 tvg-name="STAR+ 3" tvg-logo="https://i.imgur.com/xxEIAg1.png" group-title="CANAIS | ESPORTES",STAR+ 3
-http://ppvx.xyz:80/368729/368729/879159
-#EXTINF:-1 tvg-name="STAR+ 4" tvg-logo="https://i.imgur.com/xxEIAg1.png" group-title="CANAIS | ESPORTES",STAR+ 4
-http://ppvx.xyz:80/368729/368729/879158
-#EXTINF:-1 tvg-name="STAR+ 5" tvg-logo="https://i.imgur.com/xxEIAg1.png" group-title="CANAIS | ESPORTES",STAR+ 5
-http://ppvx.xyz:80/368729/368729/879157
-#EXTINF:-1 tvg-name="STAR+ 6" tvg-logo="https://i.imgur.com/xxEIAg1.png" group-title="CANAIS | ESPORTES",STAR+ 6
-http://ppvx.xyz:80/368729/368729/879156
-#EXTINF:-1 tvg-id="boa.vontade.br" tvg-name="BOA VONTADE H265" tvg-logo="https://i.imgur.com/WlrG7Es.png" group-title="CANAIS | RELIGIOSOS",BOA VONTADE H265
-http://ppvx.xyz:80/368729/368729/879098
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANCAO NOVA SD" tvg-logo="https://i.imgur.com/1M78zPj.png" group-title="CANAIS | RELIGIOSOS",CANCAO NOVA SD
-http://ppvx.xyz:80/368729/368729/857117
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA" tvg-logo="https://i.imgur.com/1M78zPj.png" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA
-http://ppvx.xyz:80/368729/368729/876500
-#EXTINF:-1 tvg-name="CANÇÃO NOVA HD" tvg-logo="https://i.imgur.com/1M78zPj.png" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA HD
-http://ppvx.xyz:80/368729/368729/862054
-#EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="NOVO TEMPO HD" tvg-logo="https://i.imgur.com/4w0UWOA.png" group-title="CANAIS | RELIGIOSOS",NOVO TEMPO HD
-http://ppvx.xyz:80/368729/368729/856809
-#EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="NOVO TEMPO SD" tvg-logo="https://i.imgur.com/4w0UWOA.png" group-title="CANAIS | RELIGIOSOS",NOVO TEMPO SD
-http://ppvx.xyz:80/368729/368729/857246
-#EXTINF:-1 tvg-name="REDE GENESIS" tvg-logo="https://i.imgur.com/JRLuY1V.png" group-title="CANAIS | RELIGIOSOS",REDE GENESIS
-http://ppvx.xyz:80/368729/368729/876476
-#EXTINF:-1 tvg-name="REDE GOSPEL BRASIL FHD" tvg-logo="https://i.imgur.com/3u0S7eF.png" group-title="CANAIS | RELIGIOSOS",REDE GOSPEL BRASIL FHD
-http://ppvx.xyz:80/368729/368729/876498
-#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA FHD" tvg-logo="https://i.imgur.com/38ysEWi.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA FHD
-http://ppvx.xyz:80/368729/368729/876557
-#EXTINF:-1 tvg-id="tv.aparecida.br" tvg-name="REDE VIDA H265" tvg-logo="https://i.imgur.com/38ysEWi.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA H265
-http://ppvx.xyz:80/368729/368729/879084
-#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA HD" tvg-logo="https://i.imgur.com/38ysEWi.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA HD
-http://ppvx.xyz:80/368729/368729/876529
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE VIDA SD" tvg-logo="https://i.imgur.com/38ysEWi.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA SD
-http://ppvx.xyz:80/368729/368729/857198
-#EXTINF:-1 tvg-name="TV APARECIDA H265" tvg-logo="https://i.imgur.com/xbBhpzR.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA H265
-http://ppvx.xyz:80/368729/368729/879110
-#EXTINF:-1 tvg-name="TV APARECIDA HD" tvg-logo="https://i.imgur.com/xbBhpzR.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA HD
-http://ppvx.xyz:80/368729/368729/857224
-#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA HD*" tvg-logo="https://i.imgur.com/xbBhpzR.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA HD*
-http://ppvx.xyz:80/368729/368729/879152
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="TV EVANGELIZAR SD" tvg-logo="https://i.imgur.com/efCUPfT.png" group-title="CANAIS | RELIGIOSOS",TV EVANGELIZAR SD
-http://ppvx.xyz:80/368729/368729/857251
-#EXTINF:-1 tvg-name="TV GOSPEL CEARÁ" tvg-logo="https://i.imgur.com/uwqmYKE.png" group-title="CANAIS | RELIGIOSOS",TV GOSPEL CEARÁ
-http://ppvx.xyz:80/368729/368729/879075
-#EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="TV NOVO TEMPO H265" tvg-logo="https://i.imgur.com/4w0UWOA.png" group-title="CANAIS | RELIGIOSOS",TV NOVO TEMPO H265
-http://ppvx.xyz:80/368729/368729/879096
-#EXTINF:-1 tvg-name="TV PAI ETERNO HD" tvg-logo="https://i.imgur.com/wvtPHOQ.png" group-title="CANAIS | RELIGIOSOS",TV PAI ETERNO HD
-http://ppvx.xyz:80/368729/368729/879155
-#EXTINF:-1 tvg-name="TV PAI ETERNO SD" tvg-logo="https://i.imgur.com/wvtPHOQ.png" group-title="CANAIS | RELIGIOSOS",TV PAI ETERNO SD
-http://ppvx.xyz:80/368729/368729/879145
-#EXTINF:-1 tvg-name="TV SUPER GOSPEL HD" tvg-logo="https://i.imgur.com/jstFhui.png" group-title="CANAIS | RELIGIOSOS",TV SUPER GOSPEL HD
-http://ppvx.xyz:80/368729/368729/862484
-#EXTINF:-1 tvg-name="CARIOCA 01 2021" tvg-logo="https://i.imgur.com/NXVBwQW.png" group-title="CANAIS | PPV",CARIOCA 01 2021
-http://ppvx.xyz:80/368729/368729/876437
-#EXTINF:-1 tvg-name="CARIOCA 02 2021" tvg-logo="https://i.imgur.com/NXVBwQW.png" group-title="CANAIS | PPV",CARIOCA 02 2021
-http://ppvx.xyz:80/368729/368729/876436
-#EXTINF:-1 tvg-name="CARIOCA 03 2021" tvg-logo="https://i.imgur.com/NXVBwQW.png" group-title="CANAIS | PPV",CARIOCA 03 2021
-http://ppvx.xyz:80/368729/368729/876435
-#EXTINF:-1 tvg-name="CATARINENSE 01" tvg-logo="https://i.imgur.com/d133u1T.png" group-title="CANAIS | PPV",CATARINENSE 01
-http://ppvx.xyz:80/368729/368729/876458
-#EXTINF:-1 tvg-name="CATARINENSE 02" tvg-logo="https://i.imgur.com/d133u1T.png" group-title="CANAIS | PPV",CATARINENSE 02
-http://ppvx.xyz:80/368729/368729/876459
-#EXTINF:-1 tvg-name="CONMEBOL TV 1" tvg-logo="https://i.imgur.com/gOsKfSY.png" group-title="CANAIS | PPV",CONMEBOL TV 1
-http://ppvx.xyz:80/368729/368729/876444
-#EXTINF:-1 tvg-name="CONMEBOL TV 2" tvg-logo="https://i.imgur.com/gOsKfSY.png" group-title="CANAIS | PPV",CONMEBOL TV 2
-http://ppvx.xyz:80/368729/368729/876443
-#EXTINF:-1 tvg-name="CONMEBOL TV 3" tvg-logo="https://i.imgur.com/gOsKfSY.png" group-title="CANAIS | PPV",CONMEBOL TV 3
-http://ppvx.xyz:80/368729/368729/876442
-#EXTINF:-1 tvg-name="CONMEBOL TV 4" tvg-logo="https://i.imgur.com/gOsKfSY.png" group-title="CANAIS | PPV",CONMEBOL TV 4
-http://ppvx.xyz:80/368729/368729/876441
-#EXTINF:-1 tvg-name="COPA LIBERTADORES (FACEBOOK WATCH)" tvg-logo="https://i.imgur.com/3bpEAAi.png" group-title="CANAIS | PPV",COPA LIBERTADORES (FACEBOOK WATCH)
-http://ppvx.xyz:80/368729/368729/876452
-#EXTINF:-1 tvg-name="COPA NORDESTE 1" tvg-logo="https://i.imgur.com/zJSeK49.png" group-title="CANAIS | PPV",COPA NORDESTE 1
-http://ppvx.xyz:80/368729/368729/876454
-#EXTINF:-1 tvg-name="COPA NORDESTE 2" tvg-logo="https://i.imgur.com/zJSeK49.png" group-title="CANAIS | PPV",COPA NORDESTE 2
-http://ppvx.xyz:80/368729/368729/876455
-#EXTINF:-1 tvg-name="COPA NORDESTE 3" tvg-logo="https://i.imgur.com/zJSeK49.png" group-title="CANAIS | PPV",COPA NORDESTE 3
-http://ppvx.xyz:80/368729/368729/876456
-#EXTINF:-1 tvg-name="COPA NORDESTE 4" tvg-logo="https://i.imgur.com/zJSeK49.png" group-title="CANAIS | PPV",COPA NORDESTE 4
-http://ppvx.xyz:80/368729/368729/876434
-#EXTINF:-1 tvg-name="COPA NORDESTE 5" tvg-logo="https://i.imgur.com/zJSeK49.png" group-title="CANAIS | PPV",COPA NORDESTE 5
-http://ppvx.xyz:80/368729/368729/876433
-#EXTINF:-1 tvg-name="COPA NORDESTE 6" tvg-logo="https://i.imgur.com/zJSeK49.png" group-title="CANAIS | PPV",COPA NORDESTE 6
-http://ppvx.xyz:80/368729/368729/876432
-#EXTINF:-1 tvg-name="COPA NORDESTE 7" tvg-logo="https://i.imgur.com/zJSeK49.png" group-title="CANAIS | PPV",COPA NORDESTE 7
-http://ppvx.xyz:80/368729/368729/876431
-#EXTINF:-1 tvg-name="COPA NORDESTE 8" tvg-logo="https://i.imgur.com/zJSeK49.png" group-title="CANAIS | PPV",COPA NORDESTE 8
-http://ppvx.xyz:80/368729/368729/876430
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 01 HD" tvg-logo="https://i.imgur.com/sqd6LyM.png" group-title="CANAIS | PPV",DAZN 01 HD
-http://ppvx.xyz:80/368729/368729/857016
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 02 HD" tvg-logo="https://i.imgur.com/sqd6LyM.png" group-title="CANAIS | PPV",DAZN 02 HD
-http://ppvx.xyz:80/368729/368729/857017
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 03 HD" tvg-logo="https://i.imgur.com/sqd6LyM.png" group-title="CANAIS | PPV",DAZN 03 HD
-http://ppvx.xyz:80/368729/368729/857018
-#EXTINF:-1 tvg-id="DAZN.br" tvg-name="DAZN 04 HD" tvg-logo="https://i.imgur.com/sqd6LyM.png" group-title="CANAIS | PPV",DAZN 04 HD
-http://ppvx.xyz:80/368729/368729/856824
-#EXTINF:-1 tvg-name="DAZN 05 HD" tvg-logo="https://i.imgur.com/sqd6LyM.png" group-title="CANAIS | PPV",DAZN 05 HD
-http://ppvx.xyz:80/368729/368729/876370
-#EXTINF:-1 tvg-name="DAZN 06 HD" tvg-logo="https://i.imgur.com/sqd6LyM.png" group-title="CANAIS | PPV",DAZN 06 HD
-http://ppvx.xyz:80/368729/368729/876371
-#EXTINF:-1 tvg-name="ESTADIO TNT SPORTS HD*" tvg-logo="https://i.imgur.com/YERkSUS.png" group-title="CANAIS | PPV",ESTADIO TNT SPORTS HD*
-http://ppvx.xyz:80/368729/368729/876450
-#EXTINF:-1 tvg-name="ESTADIO TNT SPORTS SD*" tvg-logo="https://i.imgur.com/YERkSUS.png" group-title="CANAIS | PPV",ESTADIO TNT SPORTS SD*
-http://ppvx.xyz:80/368729/368729/876451
-#EXTINF:-1 tvg-name="GLOBOESPORTE.COM" tvg-logo="https://i.imgur.com/NwueabP.png" group-title="CANAIS | PPV",GLOBOESPORTE.COM
-http://ppvx.xyz:80/368729/368729/876453
-#EXTINF:-1 tvg-id="Estadiotntsports.br" tvg-name="TNT SPORTS 01" tvg-logo="https://i.imgur.com/YERkSUS.png" group-title="CANAIS | PPV",TNT SPORTS 01
-http://ppvx.xyz:80/368729/368729/862077
-#EXTINF:-1 tvg-id="Estadiotntsports.br" tvg-name="TNT SPORTS 02" tvg-logo="https://i.imgur.com/YERkSUS.png" group-title="CANAIS | PPV",TNT SPORTS 02
-http://ppvx.xyz:80/368729/368729/862078
-#EXTINF:-1 tvg-id="Estadiotntsports.br" tvg-name="TNT SPORTS 03" tvg-logo="https://i.imgur.com/YERkSUS.png" group-title="CANAIS | PPV",TNT SPORTS 03
-http://ppvx.xyz:80/368729/368729/862026
-#EXTINF:-1 tvg-id="Estadiotntsports.br" tvg-name="TNT SPORTS 04" tvg-logo="https://i.imgur.com/YERkSUS.png" group-title="CANAIS | PPV",TNT SPORTS 04
-http://ppvx.xyz:80/368729/368729/862027
-#EXTINF:-1 tvg-id="Estadiotntsports.br" tvg-name="TNT SPORTS 05" tvg-logo="https://i.imgur.com/YERkSUS.png" group-title="CANAIS | PPV",TNT SPORTS 05
-http://ppvx.xyz:80/368729/368729/862110
-#EXTINF:-1 tvg-id="Estadiotntsports.br" tvg-name="TNT SPORTS 06" tvg-logo="https://i.imgur.com/YERkSUS.png" group-title="CANAIS | PPV",TNT SPORTS 06
-http://ppvx.xyz:80/368729/368729/862029
-#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 1 [H265]" tvg-logo="https://i.imgur.com/Bn1WcRI.png" group-title="CANAIS | CINE SKY",CINE SKY 1 [H265]
-http://ppvx.xyz:80/368729/368729/857354
-#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 2 [H265]" tvg-logo="https://i.imgur.com/Bn1WcRI.png" group-title="CANAIS | CINE SKY",CINE SKY 2 [H265]
-http://ppvx.xyz:80/368729/368729/857355
-#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 3  [H265]" tvg-logo="https://i.imgur.com/Bn1WcRI.png" group-title="CANAIS | CINE SKY",CINE SKY 3  [H265]
-http://ppvx.xyz:80/368729/368729/857356
-#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 4 [H265]" tvg-logo="https://i.imgur.com/Bn1WcRI.png" group-title="CANAIS | CINE SKY",CINE SKY 4 [H265]
-http://ppvx.xyz:80/368729/368729/857357
-#EXTINF:-1 tvg-id="Cine SKY" tvg-name="CINE SKY 5 [H265]" tvg-logo="https://i.imgur.com/Bn1WcRI.png" group-title="CANAIS | CINE SKY",CINE SKY 5 [H265]
-http://ppvx.xyz:80/368729/368729/857358
-#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO BRASILIA FHD
-http://ppvx.xyz:80/368729/368729/876057
-#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO BRASILIA HD
-http://ppvx.xyz:80/368729/368729/876011
-#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO BRASILIA SD
-http://ppvx.xyz:80/368729/368729/876010
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO CAMPINAS H265" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO CAMPINAS H265
-http://ppvx.xyz:80/368729/368729/879100
-#EXTINF:-1 tvg-name="GLOBO EPTV ARARAQUARA SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV ARARAQUARA SD
-http://ppvx.xyz:80/368729/368729/876117
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV CAMPINAS FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV CAMPINAS FHD
-http://ppvx.xyz:80/368729/368729/876058
-#EXTINF:-1 tvg-id="eptv.campinas.br" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV CAMPINAS HD
-http://ppvx.xyz:80/368729/368729/876013
-#EXTINF:-1 tvg-id="GloboEPTVCampinas.br" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV CAMPINAS SD
-http://ppvx.xyz:80/368729/368729/876012
-#EXTINF:-1 tvg-name="GLOBO EPTV RIBEIRÃO PRETO FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV RIBEIRÃO PRETO FHD
-http://ppvx.xyz:80/368729/368729/876077
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV RIBEIRÃO PRETO HD
-http://ppvx.xyz:80/368729/368729/876014
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO EPTV RIBEIRÃO PRETO SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV RIBEIRÃO PRETO SD
-http://ppvx.xyz:80/368729/368729/876015
-#EXTINF:-1 tvg-name="GLOBO EPTV SAO CARLOS FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV SAO CARLOS FHD
-http://ppvx.xyz:80/368729/368729/876126
-#EXTINF:-1 tvg-name="GLOBO EPTV SAO CARLOS HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV SAO CARLOS HD
-http://ppvx.xyz:80/368729/368729/876127
-#EXTINF:-1 tvg-name="GLOBO EPTV SUL DE MINAS FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV SUL DE MINAS FHD
-http://ppvx.xyz:80/368729/368729/876220
-#EXTINF:-1 tvg-id="EPTVSuldeMinas" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV SUL DE MINAS HD
-http://ppvx.xyz:80/368729/368729/876219
-#EXTINF:-1 tvg-id="EPTVSuldeMinas" tvg-name="GLOBO EPTV SUL DE MINAS SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV SUL DE MINAS SD
-http://ppvx.xyz:80/368729/368729/876218
-#EXTINF:-1 tvg-name="GLOBO EPTV SÃO CARLOS SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO EPTV SÃO CARLOS SD
-http://ppvx.xyz:80/368729/368729/876116
-#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GLOBO INTER TV ALTO LITORAL FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO INTER TV ALTO LITORAL FHD
-http://ppvx.xyz:80/368729/368729/876078
-#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GLOBO INTER TV ALTO LITORAL HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO INTER TV ALTO LITORAL HD
-http://ppvx.xyz:80/368729/368729/876079
-#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GLOBO INTER TV ALTO LITORAL SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO INTER TV ALTO LITORAL SD
-http://ppvx.xyz:80/368729/368729/876080
-#EXTINF:-1 tvg-name="GLOBO INTER TV CABUGI NATAL FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO INTER TV CABUGI NATAL FHD
-http://ppvx.xyz:80/368729/368729/876145
-#EXTINF:-1 tvg-name="GLOBO INTER TV CABUGI NATAL HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO INTER TV CABUGI NATAL HD
-http://ppvx.xyz:80/368729/368729/876146
-#EXTINF:-1 tvg-name="GLOBO INTER TV CABUGI NATAL SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO INTER TV CABUGI NATAL SD
-http://ppvx.xyz:80/368729/368729/876114
-#EXTINF:-1 tvg-name="GLOBO INTER TV DOS VALES FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO INTER TV DOS VALES FHD
-http://ppvx.xyz:80/368729/368729/876081
-#EXTINF:-1 tvg-name="GLOBO INTER TV DOS VALES HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO INTER TV DOS VALES HD
-http://ppvx.xyz:80/368729/368729/876082
-#EXTINF:-1 tvg-name="GLOBO INTER TV DOS VALES SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO INTER TV DOS VALES SD
-http://ppvx.xyz:80/368729/368729/876083
-#EXTINF:-1 tvg-name="GLOBO INTER TV GRANDE MINAS FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO INTER TV GRANDE MINAS FHD
-http://ppvx.xyz:80/368729/368729/876084
-#EXTINF:-1 tvg-name="GLOBO INTER TV GRANDE MINAS HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO INTER TV GRANDE MINAS HD
-http://ppvx.xyz:80/368729/368729/876085
-#EXTINF:-1 tvg-name="GLOBO INTER TV GRANDE MINAS SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO INTER TV GRANDE MINAS SD
-http://ppvx.xyz:80/368729/368729/876086
-#EXTINF:-1 tvg-name="GLOBO INTER TV SERRA MAR FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO INTER TV SERRA MAR FHD
-http://ppvx.xyz:80/368729/368729/876087
-#EXTINF:-1 tvg-name="GLOBO INTER TV SERRA MAR HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO INTER TV SERRA MAR HD
-http://ppvx.xyz:80/368729/368729/876088
-#EXTINF:-1 tvg-name="GLOBO INTER TV SERRA MAR SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO INTER TV SERRA MAR SD
-http://ppvx.xyz:80/368729/368729/876089
-#EXTINF:-1 tvg-name="GLOBO INTERNACIONAL" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO INTERNACIONAL
-http://ppvx.xyz:80/368729/368729/876041
-#EXTINF:-1 tvg-id="0" tvg-name="GLOBO MINAS FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO MINAS FHD
-http://ppvx.xyz:80/368729/368729/876059
-#EXTINF:-1 tvg-name="GLOBO MINAS H265" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO MINAS H265
-http://ppvx.xyz:80/368729/368729/879101
-#EXTINF:-1 tvg-id="0" tvg-name="GLOBO MINAS HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO MINAS HD
-http://ppvx.xyz:80/368729/368729/876017
-#EXTINF:-1 tvg-id="0" tvg-name="GLOBO MINAS SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO MINAS SD
-http://ppvx.xyz:80/368729/368729/876016
-#EXTINF:-1 tvg-name="GLOBO NORDESTE FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO NORDESTE FHD
-http://ppvx.xyz:80/368729/368729/876060
-#EXTINF:-1 tvg-name="GLOBO NORDESTE H265" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO NORDESTE H265
-http://ppvx.xyz:80/368729/368729/879102
-#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO NORDESTE HD
-http://ppvx.xyz:80/368729/368729/876019
-#EXTINF:-1 tvg-name="GLOBO NORDESTE SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO NORDESTE SD
-http://ppvx.xyz:80/368729/368729/876018
-#EXTINF:-1 tvg-name="GLOBO NSC TV BLUMENAU FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC TV BLUMENAU FHD
-http://ppvx.xyz:80/368729/368729/876090
-#EXTINF:-1 tvg-name="GLOBO NSC TV BLUMENAU HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC TV BLUMENAU HD
-http://ppvx.xyz:80/368729/368729/876091
-#EXTINF:-1 tvg-name="GLOBO NSC TV BLUMENAU SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC TV BLUMENAU SD
-http://ppvx.xyz:80/368729/368729/876092
-#EXTINF:-1 tvg-name="GLOBO NSC TV CENTRO-OESTE FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC TV CENTRO-OESTE FHD
-http://ppvx.xyz:80/368729/368729/876206
-#EXTINF:-1 tvg-name="GLOBO NSC TV CENTRO-OESTE HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC TV CENTRO-OESTE HD
-http://ppvx.xyz:80/368729/368729/876205
-#EXTINF:-1 tvg-name="GLOBO NSC TV CENTRO-OESTE SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC TV CENTRO-OESTE SD
-http://ppvx.xyz:80/368729/368729/876204
-#EXTINF:-1 tvg-name="GLOBO NSC TV CHAPECO FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC TV CHAPECO FHD
-http://ppvx.xyz:80/368729/368729/876042
-#EXTINF:-1 tvg-name="GLOBO NSC TV CHAPECO HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC TV CHAPECO HD
-http://ppvx.xyz:80/368729/368729/876043
-#EXTINF:-1 tvg-name="GLOBO NSC TV CHAPECO SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC TV CHAPECO SD
-http://ppvx.xyz:80/368729/368729/876044
-#EXTINF:-1 tvg-name="GLOBO NSC TV CRICIUMA FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC TV CRICIUMA FHD
-http://ppvx.xyz:80/368729/368729/876209
-#EXTINF:-1 tvg-name="GLOBO NSC TV CRICIUMA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC TV CRICIUMA HD
-http://ppvx.xyz:80/368729/368729/876208
-#EXTINF:-1 tvg-name="GLOBO NSC TV CRICIUMA SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC TV CRICIUMA SD
-http://ppvx.xyz:80/368729/368729/876207
-#EXTINF:-1 tvg-name="GLOBO NSC TV FLORIANOPOLIS FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC TV FLORIANOPOLIS FHD
-http://ppvx.xyz:80/368729/368729/876061
-#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO NSC TV FLORIANOPOLIS HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC TV FLORIANOPOLIS HD
-http://ppvx.xyz:80/368729/368729/876021
-#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO NSC TV FLORIANOPOLIS SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC TV FLORIANOPOLIS SD
-http://ppvx.xyz:80/368729/368729/876020
-#EXTINF:-1 tvg-name="GLOBO NSC TV JOINVILLE FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC TV JOINVILLE FHD
-http://ppvx.xyz:80/368729/368729/876096
-#EXTINF:-1 tvg-name="GLOBO NSC TV JOINVILLE HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC TV JOINVILLE HD
-http://ppvx.xyz:80/368729/368729/876097
-#EXTINF:-1 tvg-name="GLOBO NSC TV JOINVILLE SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO NSC TV JOINVILLE SD
-http://ppvx.xyz:80/368729/368729/876098
-#EXTINF:-1 tvg-name="GLOBO PORTO ALEGRE H265" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO PORTO ALEGRE H265
-http://ppvx.xyz:80/368729/368729/879103
-#EXTINF:-1 tvg-name="GLOBO RBS PORTO ALEGRE FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS PORTO ALEGRE FHD
-http://ppvx.xyz:80/368729/368729/876062
-#EXTINF:-1 tvg-name="GLOBO RBS TV CAXIAS DO SUL FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS TV CAXIAS DO SUL FHD
-http://ppvx.xyz:80/368729/368729/876093
-#EXTINF:-1 tvg-name="GLOBO RBS TV CAXIAS DO SUL HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS TV CAXIAS DO SUL HD
-http://ppvx.xyz:80/368729/368729/876094
-#EXTINF:-1 tvg-name="GLOBO RBS TV CAXIAS DO SUL SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS TV CAXIAS DO SUL SD
-http://ppvx.xyz:80/368729/368729/876095
-#EXTINF:-1 tvg-name="GLOBO RBS TV PASSO FUNDO FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS TV PASSO FUNDO FHD
-http://ppvx.xyz:80/368729/368729/876120
-#EXTINF:-1 tvg-name="GLOBO RBS TV PASSO FUNDO HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS TV PASSO FUNDO HD
-http://ppvx.xyz:80/368729/368729/876121
-#EXTINF:-1 tvg-name="GLOBO RBS TV PASSO FUNDO SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS TV PASSO FUNDO SD
-http://ppvx.xyz:80/368729/368729/876122
-#EXTINF:-1 tvg-name="GLOBO RBS TV PELOTAS FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS TV PELOTAS FHD
-http://ppvx.xyz:80/368729/368729/876099
-#EXTINF:-1 tvg-name="GLOBO RBS TV PELOTAS HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS TV PELOTAS HD
-http://ppvx.xyz:80/368729/368729/876100
-#EXTINF:-1 tvg-name="GLOBO RBS TV PELOTAS SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS TV PELOTAS SD
-http://ppvx.xyz:80/368729/368729/876101
-#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS TV PORTO ALEGRE HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS TV PORTO ALEGRE HD
-http://ppvx.xyz:80/368729/368729/876023
-#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="GLOBO RBS TV PORTO ALEGRE SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS TV PORTO ALEGRE SD
-http://ppvx.xyz:80/368729/368729/876022
-#EXTINF:-1 tvg-name="GLOBO RBS TV SANTA MARIA FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS TV SANTA MARIA FHD
-http://ppvx.xyz:80/368729/368729/876203
-#EXTINF:-1 tvg-name="GLOBO RBS TV SANTA MARIA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS TV SANTA MARIA HD
-http://ppvx.xyz:80/368729/368729/876202
-#EXTINF:-1 tvg-name="GLOBO RBS TV SANTA MARIA SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RBS TV SANTA MARIA SD
-http://ppvx.xyz:80/368729/368729/876201
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO RIBEIRAO PRETO H265" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RIBEIRAO PRETO H265
-http://ppvx.xyz:80/368729/368729/879104
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RJ FHD
-http://ppvx.xyz:80/368729/368729/876026
-#EXTINF:-1 tvg-name="GLOBO RJ H265" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RJ H265
-http://ppvx.xyz:80/368729/368729/879091
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RJ HD
-http://ppvx.xyz:80/368729/368729/876025
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RJ SD
-http://ppvx.xyz:80/368729/368729/876024
-#EXTINF:-1 tvg-name="GLOBO RPC CASCAVEL FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC CASCAVEL FHD
-http://ppvx.xyz:80/368729/368729/876142
-#EXTINF:-1 tvg-name="GLOBO RPC CASCAVEL HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC CASCAVEL HD
-http://ppvx.xyz:80/368729/368729/876143
-#EXTINF:-1 tvg-name="GLOBO RPC CASCAVEL SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC CASCAVEL SD
-http://ppvx.xyz:80/368729/368729/876144
-#EXTINF:-1 tvg-name="GLOBO RPC CURITIBA FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC CURITIBA FHD
-http://ppvx.xyz:80/368729/368729/876029
-#EXTINF:-1 tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC CURITIBA HD
-http://ppvx.xyz:80/368729/368729/876028
-#EXTINF:-1 tvg-name="GLOBO RPC CURITIBA SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC CURITIBA SD
-http://ppvx.xyz:80/368729/368729/876027
-#EXTINF:-1 tvg-name="GLOBO RPC FOZ DO IGUACU FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC FOZ DO IGUACU FHD
-http://ppvx.xyz:80/368729/368729/876046
-#EXTINF:-1 tvg-name="GLOBO RPC FOZ DO IGUACU HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC FOZ DO IGUACU HD
-http://ppvx.xyz:80/368729/368729/876047
-#EXTINF:-1 tvg-name="GLOBO RPC FOZ DO IGUACU SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC FOZ DO IGUACU SD
-http://ppvx.xyz:80/368729/368729/876045
-#EXTINF:-1 tvg-name="GLOBO RPC LONDRINA FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC LONDRINA FHD
-http://ppvx.xyz:80/368729/368729/876123
-#EXTINF:-1 tvg-name="GLOBO RPC LONDRINA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC LONDRINA HD
-http://ppvx.xyz:80/368729/368729/876124
-#EXTINF:-1 tvg-name="GLOBO RPC LONDRINA SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC LONDRINA SD
-http://ppvx.xyz:80/368729/368729/876125
-#EXTINF:-1 tvg-name="GLOBO RPC MARINGA FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC MARINGA FHD
-http://ppvx.xyz:80/368729/368729/876007
-#EXTINF:-1 tvg-name="GLOBO RPC MARINGA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC MARINGA HD
-http://ppvx.xyz:80/368729/368729/876008
-#EXTINF:-1 tvg-name="GLOBO RPC MARINGA SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC MARINGA SD
-http://ppvx.xyz:80/368729/368729/876009
-#EXTINF:-1 tvg-name="GLOBO RPC TV PARANAVAI FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC TV PARANAVAI FHD
-http://ppvx.xyz:80/368729/368729/876194
-#EXTINF:-1 tvg-name="GLOBO RPC TV PARANAVAI HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC TV PARANAVAI HD
-http://ppvx.xyz:80/368729/368729/876193
-#EXTINF:-1 tvg-name="GLOBO RPC TV PARANAVAI SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC TV PARANAVAI SD
-http://ppvx.xyz:80/368729/368729/876192
-#EXTINF:-1 tvg-name="GLOBO RPC TV PONTA GROSSA FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC TV PONTA GROSSA FHD
-http://ppvx.xyz:80/368729/368729/876200
-#EXTINF:-1 tvg-name="GLOBO RPC TV PONTA GROSSA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC TV PONTA GROSSA HD
-http://ppvx.xyz:80/368729/368729/876199
-#EXTINF:-1 tvg-name="GLOBO RPC TV PONTA GROSSA SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO RPC TV PONTA GROSSA SD
-http://ppvx.xyz:80/368729/368729/876198
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO SP FHD
-http://ppvx.xyz:80/368729/368729/876032
-#EXTINF:-1 tvg-name="GLOBO SP H265" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO SP H265
-http://ppvx.xyz:80/368729/368729/879092
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO SP HD
-http://ppvx.xyz:80/368729/368729/876031
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO SP SD
-http://ppvx.xyz:80/368729/368729/876030
-#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GLOBO TV ANHANGUERA FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV ANHANGUERA FHD
-http://ppvx.xyz:80/368729/368729/876063
-#EXTINF:-1 tvg-id="GloboAnhangueraGoias.br" tvg-name="GLOBO TV ANHANGUERA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV ANHANGUERA HD
-http://ppvx.xyz:80/368729/368729/876034
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV ANHANGUERA SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV ANHANGUERA SD
-http://ppvx.xyz:80/368729/368729/876033
-#EXTINF:-1 tvg-name="GLOBO TV ASA BRANCA FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV ASA BRANCA FHD
-http://ppvx.xyz:80/368729/368729/876197
-#EXTINF:-1 tvg-name="GLOBO TV ASA BRANCA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV ASA BRANCA HD
-http://ppvx.xyz:80/368729/368729/876196
-#EXTINF:-1 tvg-name="GLOBO TV ASA BRANCA SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV ASA BRANCA SD
-http://ppvx.xyz:80/368729/368729/876195
-#EXTINF:-1 tvg-name="GLOBO TV BAHIA FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV BAHIA FHD
-http://ppvx.xyz:80/368729/368729/876064
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO TV BAHIA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV BAHIA HD
-http://ppvx.xyz:80/368729/368729/876036
-#EXTINF:-1 tvg-name="GLOBO TV BAHIA SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV BAHIA SD
-http://ppvx.xyz:80/368729/368729/876035
-#EXTINF:-1 tvg-name="GLOBO TV CABO BRANCO FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV CABO BRANCO FHD
-http://ppvx.xyz:80/368729/368729/876102
-#EXTINF:-1 tvg-name="GLOBO TV CABO BRANCO HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV CABO BRANCO HD
-http://ppvx.xyz:80/368729/368729/876103
-#EXTINF:-1 tvg-name="GLOBO TV CABO BRANCO SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV CABO BRANCO SD
-http://ppvx.xyz:80/368729/368729/876104
-#EXTINF:-1 tvg-name="GLOBO TV CENTRO AMERICA CUIABA FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV CENTRO AMERICA CUIABA FHD
-http://ppvx.xyz:80/368729/368729/876188
-#EXTINF:-1 tvg-name="GLOBO TV CENTRO AMERICA CUIABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV CENTRO AMERICA CUIABA HD
-http://ppvx.xyz:80/368729/368729/876187
-#EXTINF:-1 tvg-name="GLOBO TV CENTRO AMERICA CUIABA SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV CENTRO AMERICA CUIABA SD
-http://ppvx.xyz:80/368729/368729/876115
-#EXTINF:-1 tvg-name="GLOBO TV CLUBE TERESINA FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV CLUBE TERESINA FHD
-http://ppvx.xyz:80/368729/368729/876049
-#EXTINF:-1 tvg-name="GLOBO TV CLUBE TERESINA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV CLUBE TERESINA HD
-http://ppvx.xyz:80/368729/368729/876050
-#EXTINF:-1 tvg-name="GLOBO TV CLUBE TERESINA SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV CLUBE TERESINA SD
-http://ppvx.xyz:80/368729/368729/876048
-#EXTINF:-1 tvg-name="GLOBO TV DIARIO MOGI DAS CRUZES FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV DIARIO MOGI DAS CRUZES FHD
-http://ppvx.xyz:80/368729/368729/876164
-#EXTINF:-1 tvg-name="GLOBO TV DIARIO MOGI DAS CRUZES HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV DIARIO MOGI DAS CRUZES HD
-http://ppvx.xyz:80/368729/368729/876163
-#EXTINF:-1 tvg-name="GLOBO TV DIARIO MOGI DAS CRUZES SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV DIARIO MOGI DAS CRUZES SD
-http://ppvx.xyz:80/368729/368729/876162
-#EXTINF:-1 tvg-name="GLOBO TV FRONTEIRA P. PRUDENTE FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV FRONTEIRA P. PRUDENTE FHD
-http://ppvx.xyz:80/368729/368729/876173
-#EXTINF:-1 tvg-name="GLOBO TV FRONTEIRA P. PRUDENTE HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV FRONTEIRA P. PRUDENTE HD
-http://ppvx.xyz:80/368729/368729/876172
-#EXTINF:-1 tvg-name="GLOBO TV FRONTEIRA P. PRUDENTE SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV FRONTEIRA P. PRUDENTE SD
-http://ppvx.xyz:80/368729/368729/876171
-#EXTINF:-1 tvg-id="0" tvg-name="GLOBO TV GAZETA ALAGOAS FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV GAZETA ALAGOAS FHD
-http://ppvx.xyz:80/368729/368729/876073
-#EXTINF:-1 tvg-id="0" tvg-name="GLOBO TV GAZETA ALAGOAS HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV GAZETA ALAGOAS HD
-http://ppvx.xyz:80/368729/368729/876074
-#EXTINF:-1 tvg-id="0" tvg-name="GLOBO TV GAZETA ALAGOAS SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV GAZETA ALAGOAS SD
-http://ppvx.xyz:80/368729/368729/876072
-#EXTINF:-1 tvg-id="0" tvg-name="GLOBO TV GAZETA SUL ES FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV GAZETA SUL ES FHD
-http://ppvx.xyz:80/368729/368729/876075
-#EXTINF:-1 tvg-id="0" tvg-name="GLOBO TV GAZETA SUL ES HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV GAZETA SUL ES HD
-http://ppvx.xyz:80/368729/368729/876076
-#EXTINF:-1 tvg-name="GLOBO TV GAZETA SUL FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV GAZETA SUL FHD
-http://ppvx.xyz:80/368729/368729/876191
-#EXTINF:-1 tvg-name="GLOBO TV GAZETA SUL HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV GAZETA SUL HD
-http://ppvx.xyz:80/368729/368729/876211
-#EXTINF:-1 tvg-name="GLOBO TV GAZETA SUL SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV GAZETA SUL SD
-http://ppvx.xyz:80/368729/368729/876210
-#EXTINF:-1 tvg-name="GLOBO TV GAZETA VITÓRIA FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV GAZETA VITÓRIA FHD
-http://ppvx.xyz:80/368729/368729/876052
-#EXTINF:-1 tvg-name="GLOBO TV GAZETA VITÓRIA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV GAZETA VITÓRIA HD
-http://ppvx.xyz:80/368729/368729/876053
-#EXTINF:-1 tvg-name="GLOBO TV GAZETA VITÓRIA SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV GAZETA VITÓRIA SD
-http://ppvx.xyz:80/368729/368729/876051
-#EXTINF:-1 tvg-name="GLOBO TV INTEGRACAO UBERABA FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV INTEGRACAO UBERABA FHD
-http://ppvx.xyz:80/368729/368729/876150
-#EXTINF:-1 tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV INTEGRACAO UBERABA HD
-http://ppvx.xyz:80/368729/368729/876151
-#EXTINF:-1 tvg-name="GLOBO TV INTEGRACAO UBERABA SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV INTEGRACAO UBERABA SD
-http://ppvx.xyz:80/368729/368729/876152
-#EXTINF:-1 tvg-name="GLOBO TV INTEGRACAO UBERLANDIA FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV INTEGRACAO UBERLANDIA FHD
-http://ppvx.xyz:80/368729/368729/876179
-#EXTINF:-1 tvg-name="GLOBO TV INTEGRACAO UBERLANDIA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV INTEGRACAO UBERLANDIA HD
-http://ppvx.xyz:80/368729/368729/876178
-#EXTINF:-1 tvg-name="GLOBO TV INTEGRACAO UBERLANDIA SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV INTEGRACAO UBERLANDIA SD
-http://ppvx.xyz:80/368729/368729/876177
-#EXTINF:-1 tvg-name="GLOBO TV INTEGRAÇÃO ARAXA FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV INTEGRAÇÃO ARAXA FHD
-http://ppvx.xyz:80/368729/368729/876217
-#EXTINF:-1 tvg-name="GLOBO TV INTEGRAÇÃO ARAXA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV INTEGRAÇÃO ARAXA HD
-http://ppvx.xyz:80/368729/368729/876216
-#EXTINF:-1 tvg-name="GLOBO TV INTEGRAÇÃO ARAXA SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV INTEGRAÇÃO ARAXA SD
-http://ppvx.xyz:80/368729/368729/876215
-#EXTINF:-1 tvg-name="GLOBO TV INTEGRAÇÃO JUIZ DE FORA FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV INTEGRAÇÃO JUIZ DE FORA FHD
-http://ppvx.xyz:80/368729/368729/876214
-#EXTINF:-1 tvg-name="GLOBO TV INTEGRAÇÃO JUIZ DE FORA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV INTEGRAÇÃO JUIZ DE FORA HD
-http://ppvx.xyz:80/368729/368729/876213
-#EXTINF:-1 tvg-name="GLOBO TV INTEGRAÇÃO JUIZ DE FORA SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV INTEGRAÇÃO JUIZ DE FORA SD
-http://ppvx.xyz:80/368729/368729/876212
-#EXTINF:-1 tvg-name="GLOBO TV LIBERAL BELEM FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV LIBERAL BELEM FHD
-http://ppvx.xyz:80/368729/368729/876186
-#EXTINF:-1 tvg-name="GLOBO TV LIBERAL BELEM HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV LIBERAL BELEM HD
-http://ppvx.xyz:80/368729/368729/876185
-#EXTINF:-1 tvg-name="GLOBO TV LIBERAL BELEM SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV LIBERAL BELEM SD
-http://ppvx.xyz:80/368729/368729/876112
-#EXTINF:-1 tvg-name="GLOBO TV MIRANTE COCAIS FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV MIRANTE COCAIS FHD
-http://ppvx.xyz:80/368729/368729/876147
-#EXTINF:-1 tvg-name="GLOBO TV MIRANTE COCAIS HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV MIRANTE COCAIS HD
-http://ppvx.xyz:80/368729/368729/876148
-#EXTINF:-1 tvg-name="GLOBO TV MIRANTE COCAIS SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV MIRANTE COCAIS SD
-http://ppvx.xyz:80/368729/368729/876149
-#EXTINF:-1 tvg-name="GLOBO TV MIRANTE SAO LUIS FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV MIRANTE SAO LUIS FHD
-http://ppvx.xyz:80/368729/368729/876065
-#EXTINF:-1 tvg-name="GLOBO TV MIRANTE SAO LUIS HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV MIRANTE SAO LUIS HD
-http://ppvx.xyz:80/368729/368729/876066
-#EXTINF:-1 tvg-name="GLOBO TV MIRANTE SAO LUIS SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV MIRANTE SAO LUIS SD
-http://ppvx.xyz:80/368729/368729/876067
-#EXTINF:-1 tvg-name="GLOBO TV MORENA CAMPO GRANDE FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV MORENA CAMPO GRANDE FHD
-http://ppvx.xyz:80/368729/368729/876068
-#EXTINF:-1 tvg-name="GLOBO TV MORENA CAMPO GRANDE HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV MORENA CAMPO GRANDE HD
-http://ppvx.xyz:80/368729/368729/876069
-#EXTINF:-1 tvg-name="GLOBO TV MORENA CAMPO GRANDE SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV MORENA CAMPO GRANDE SD
-http://ppvx.xyz:80/368729/368729/876070
-#EXTINF:-1 tvg-name="GLOBO TV REDE AMAZONICA BOA VISTA FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV REDE AMAZONICA BOA VISTA FHD
-http://ppvx.xyz:80/368729/368729/876170
-#EXTINF:-1 tvg-name="GLOBO TV REDE AMAZONICA BOA VISTA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV REDE AMAZONICA BOA VISTA HD
-http://ppvx.xyz:80/368729/368729/876169
-#EXTINF:-1 tvg-name="GLOBO TV REDE AMAZONICA BOA VISTA SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV REDE AMAZONICA BOA VISTA SD
-http://ppvx.xyz:80/368729/368729/876168
-#EXTINF:-1 tvg-name="GLOBO TV REDE AMAZONICA MACAPA FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV REDE AMAZONICA MACAPA FHD
-http://ppvx.xyz:80/368729/368729/876139
-#EXTINF:-1 tvg-name="GLOBO TV REDE AMAZONICA MACAPA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV REDE AMAZONICA MACAPA HD
-http://ppvx.xyz:80/368729/368729/876140
-#EXTINF:-1 tvg-name="GLOBO TV REDE AMAZONICA MACAPA SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV REDE AMAZONICA MACAPA SD
-http://ppvx.xyz:80/368729/368729/876141
-#EXTINF:-1 tvg-name="GLOBO TV REDE AMAZONICA MANAUS FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV REDE AMAZONICA MANAUS FHD
-http://ppvx.xyz:80/368729/368729/876184
-#EXTINF:-1 tvg-name="GLOBO TV REDE AMAZONICA MANAUS HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV REDE AMAZONICA MANAUS HD
-http://ppvx.xyz:80/368729/368729/876183
-#EXTINF:-1 tvg-name="GLOBO TV REDE AMAZONICA MANAUS SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV REDE AMAZONICA MANAUS SD
-http://ppvx.xyz:80/368729/368729/876119
-#EXTINF:-1 tvg-name="GLOBO TV REDE AMAZONICA PORTO VELHO FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV REDE AMAZONICA PORTO VELHO FHD
-http://ppvx.xyz:80/368729/368729/876176
-#EXTINF:-1 tvg-name="GLOBO TV REDE AMAZONICA PORTO VELHO HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV REDE AMAZONICA PORTO VELHO HD
-http://ppvx.xyz:80/368729/368729/876175
-#EXTINF:-1 tvg-name="GLOBO TV REDE AMAZONICA PORTO VELHO SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV REDE AMAZONICA PORTO VELHO SD
-http://ppvx.xyz:80/368729/368729/876174
-#EXTINF:-1 tvg-name="GLOBO TV REDE AMAZONICA RIO BRANCO FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV REDE AMAZONICA RIO BRANCO FHD
-http://ppvx.xyz:80/368729/368729/876161
-#EXTINF:-1 tvg-name="GLOBO TV REDE AMAZONICA RIO BRANCO HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV REDE AMAZONICA RIO BRANCO HD
-http://ppvx.xyz:80/368729/368729/876160
-#EXTINF:-1 tvg-name="GLOBO TV REDE AMAZONICA RIO BRANCO SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV REDE AMAZONICA RIO BRANCO SD
-http://ppvx.xyz:80/368729/368729/876159
-#EXTINF:-1 tvg-name="GLOBO TV RIO SUL FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV RIO SUL FHD
-http://ppvx.xyz:80/368729/368729/876105
-#EXTINF:-1 tvg-name="GLOBO TV RIO SUL HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV RIO SUL HD
-http://ppvx.xyz:80/368729/368729/876106
-#EXTINF:-1 tvg-name="GLOBO TV RIO SUL SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV RIO SUL SD
-http://ppvx.xyz:80/368729/368729/876107
-#EXTINF:-1 tvg-name="GLOBO TV SANTA CRUZ FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV SANTA CRUZ FHD
-http://ppvx.xyz:80/368729/368729/876108
-#EXTINF:-1 tvg-name="GLOBO TV SANTA CRUZ HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV SANTA CRUZ HD
-http://ppvx.xyz:80/368729/368729/876109
-#EXTINF:-1 tvg-name="GLOBO TV SANTA CRUZ SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV SANTA CRUZ SD
-http://ppvx.xyz:80/368729/368729/876110
-#EXTINF:-1 tvg-name="GLOBO TV SERGIPE FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV SERGIPE FHD
-http://ppvx.xyz:80/368729/368729/876055
-#EXTINF:-1 tvg-name="GLOBO TV SERGIPE HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV SERGIPE HD
-http://ppvx.xyz:80/368729/368729/876056
-#EXTINF:-1 tvg-name="GLOBO TV SERGIPE SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV SERGIPE SD
-http://ppvx.xyz:80/368729/368729/876054
-#EXTINF:-1 tvg-name="GLOBO TV SUBAE FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV SUBAE FHD
-http://ppvx.xyz:80/368729/368729/876153
-#EXTINF:-1 tvg-name="GLOBO TV SUBAE HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV SUBAE HD
-http://ppvx.xyz:80/368729/368729/876154
-#EXTINF:-1 tvg-name="GLOBO TV SUBAE SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV SUBAE SD
-http://ppvx.xyz:80/368729/368729/876155
-#EXTINF:-1 tvg-name="GLOBO TV SUDOESTE FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV SUDOESTE FHD
-http://ppvx.xyz:80/368729/368729/876156
-#EXTINF:-1 tvg-name="GLOBO TV SUDOESTE HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV SUDOESTE HD
-http://ppvx.xyz:80/368729/368729/876157
-#EXTINF:-1 tvg-name="GLOBO TV SUDOESTE SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV SUDOESTE SD
-http://ppvx.xyz:80/368729/368729/876158
-#EXTINF:-1 tvg-name="GLOBO TV TEM BAURU FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TEM BAURU FHD
-http://ppvx.xyz:80/368729/368729/876130
-#EXTINF:-1 tvg-name="GLOBO TV TEM BAURU HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TEM BAURU HD
-http://ppvx.xyz:80/368729/368729/876131
-#EXTINF:-1 tvg-name="GLOBO TV TEM BAURU SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TEM BAURU SD
-http://ppvx.xyz:80/368729/368729/876111
-#EXTINF:-1 tvg-name="GLOBO TV TEM ITAPETININGA FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TEM ITAPETININGA FHD
-http://ppvx.xyz:80/368729/368729/876167
-#EXTINF:-1 tvg-name="GLOBO TV TEM ITAPETININGA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TEM ITAPETININGA HD
-http://ppvx.xyz:80/368729/368729/876166
-#EXTINF:-1 tvg-name="GLOBO TV TEM ITAPETININGA SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TEM ITAPETININGA SD
-http://ppvx.xyz:80/368729/368729/876165
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM S. J. DO RIO PRETO HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TEM S. J. DO RIO PRETO HD
-http://ppvx.xyz:80/368729/368729/876037
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM S. J. DO RIO PRETO SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TEM S. J. DO RIO PRETO SD
-http://ppvx.xyz:80/368729/368729/876038
-#EXTINF:-1 tvg-name="GLOBO TV TEM S. J. RIO PRETO FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TEM S. J. RIO PRETO FHD
-http://ppvx.xyz:80/368729/368729/876071
-#EXTINF:-1 tvg-name="GLOBO TV TEM SOROCABA FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TEM SOROCABA FHD
-http://ppvx.xyz:80/368729/368729/876128
-#EXTINF:-1 tvg-name="GLOBO TV TEM SOROCABA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TEM SOROCABA HD
-http://ppvx.xyz:80/368729/368729/876129
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TEM SOROCABA SD
-http://ppvx.xyz:80/368729/368729/876113
-#EXTINF:-1 tvg-name="GLOBO TV TRIBUNA SANTOS FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TRIBUNA SANTOS FHD
-http://ppvx.xyz:80/368729/368729/876132
-#EXTINF:-1 tvg-name="GLOBO TV TRIBUNA SANTOS HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TRIBUNA SANTOS HD
-http://ppvx.xyz:80/368729/368729/876133
-#EXTINF:-1 tvg-name="GLOBO TV TRIBUNA SANTOS SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV TRIBUNA SANTOS SD
-http://ppvx.xyz:80/368729/368729/876039
-#EXTINF:-1 tvg-name="GLOBO TV VANGUARDA S. J. DOS CAMPOS FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV VANGUARDA S. J. DOS CAMPOS FHD
-http://ppvx.xyz:80/368729/368729/876134
-#EXTINF:-1 tvg-name="GLOBO TV VANGUARDA S. J. DOS CAMPOS HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV VANGUARDA S. J. DOS CAMPOS HD
-http://ppvx.xyz:80/368729/368729/876135
-#EXTINF:-1 tvg-name="GLOBO TV VANGUARDA S. J. DOS CAMPOS SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV VANGUARDA S. J. DOS CAMPOS SD
-http://ppvx.xyz:80/368729/368729/876040
-#EXTINF:-1 tvg-name="GLOBO TV VANGUARDA TAUBATE FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV VANGUARDA TAUBATE FHD
-http://ppvx.xyz:80/368729/368729/876182
-#EXTINF:-1 tvg-name="GLOBO TV VANGUARDA TAUBATE HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV VANGUARDA TAUBATE HD
-http://ppvx.xyz:80/368729/368729/876181
-#EXTINF:-1 tvg-name="GLOBO TV VANGUARDA TAUBATE SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV VANGUARDA TAUBATE SD
-http://ppvx.xyz:80/368729/368729/876180
-#EXTINF:-1 tvg-name="GLOBO TV VERDES MARES CARIRI FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV VERDES MARES CARIRI FHD
-http://ppvx.xyz:80/368729/368729/876136
-#EXTINF:-1 tvg-name="GLOBO TV VERDES MARES CARIRI HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV VERDES MARES CARIRI HD
-http://ppvx.xyz:80/368729/368729/876137
-#EXTINF:-1 tvg-name="GLOBO TV VERDES MARES CARIRI SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV VERDES MARES CARIRI SD
-http://ppvx.xyz:80/368729/368729/876138
-#EXTINF:-1 tvg-name="GLOBO TV VERDES MARES FORTALEZA FHD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV VERDES MARES FORTALEZA FHD
-http://ppvx.xyz:80/368729/368729/876190
-#EXTINF:-1 tvg-name="GLOBO TV VERDES MARES FORTALEZA HD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV VERDES MARES FORTALEZA HD
-http://ppvx.xyz:80/368729/368729/876189
-#EXTINF:-1 tvg-name="GLOBO TV VERDES MARES FORTALEZA SD" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",GLOBO TV VERDES MARES FORTALEZA SD
-http://ppvx.xyz:80/368729/368729/876118
-#EXTINF:-1 tvg-name="REDE GLOBO SP HD*" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",REDE GLOBO SP HD*
-http://ppvx.xyz:80/368729/368729/876463
-#EXTINF:-1 tvg-name="REDE GLOBO SP SD*" tvg-logo="https://i.imgur.com/xE53HT2.png" group-title="CANAIS | REDE GLOBO",REDE GLOBO SP SD*
-http://ppvx.xyz:80/368729/368729/876462
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 FHD " tvg-logo="https://i.imgur.com/AOPvVwx.png" group-title="CANAIS | HBO",HBO 2 FHD 
-http://ppvx.xyz:80/368729/368729/862281
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD" tvg-logo="https://i.imgur.com/AOPvVwx.png" group-title="CANAIS | HBO",HBO 2 HD
-http://ppvx.xyz:80/368729/368729/856725
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 SD" tvg-logo="https://i.imgur.com/AOPvVwx.png" group-title="CANAIS | HBO",HBO 2 SD
-http://ppvx.xyz:80/368729/368729/857158
-#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 [H265]" tvg-logo="https://i.imgur.com/AOPvVwx.png" group-title="CANAIS | HBO",HBO 2 [H265]
-http://ppvx.xyz:80/368729/368729/856956
-#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY FHD " tvg-logo="https://i.imgur.com/stIdwgi.png" group-title="CANAIS | HBO",HBO FAMILY FHD 
-http://ppvx.xyz:80/368729/368729/862283
-#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY HD" tvg-logo="https://i.imgur.com/stIdwgi.png" group-title="CANAIS | HBO",HBO FAMILY HD
-http://ppvx.xyz:80/368729/368729/856726
-#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY SD" tvg-logo="https://i.imgur.com/stIdwgi.png" group-title="CANAIS | HBO",HBO FAMILY SD
-http://ppvx.xyz:80/368729/368729/857155
-#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILY [H265]" tvg-logo="https://i.imgur.com/stIdwgi.png" group-title="CANAIS | HBO",HBO FAMILY [H265]
-http://ppvx.xyz:80/368729/368729/856952
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD " tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS | HBO",HBO FHD 
-http://ppvx.xyz:80/368729/368729/862280
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS | HBO",HBO HD
-http://ppvx.xyz:80/368729/368729/856727
-#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI HD" tvg-logo="https://i.imgur.com/7mf7Dyx.png" group-title="CANAIS | HBO",HBO MUNDI HD
-http://ppvx.xyz:80/368729/368729/856734
-#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI SD" tvg-logo="https://i.imgur.com/7mf7Dyx.png" group-title="CANAIS | HBO",HBO MUNDI SD
-http://ppvx.xyz:80/368729/368729/875915
-#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI [H265]" tvg-logo="https://i.imgur.com/7mf7Dyx.png" group-title="CANAIS | HBO",HBO MUNDI [H265]
-http://ppvx.xyz:80/368729/368729/856962
-#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS FHD " tvg-logo="https://i.imgur.com/bmZ8rxt.png" group-title="CANAIS | HBO",HBO PLUS FHD 
-http://ppvx.xyz:80/368729/368729/862282
-#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS HD" tvg-logo="https://i.imgur.com/bmZ8rxt.png" group-title="CANAIS | HBO",HBO PLUS HD
-http://ppvx.xyz:80/368729/368729/856728
-#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS SD" tvg-logo="https://i.imgur.com/bmZ8rxt.png" group-title="CANAIS | HBO",HBO PLUS SD
-http://ppvx.xyz:80/368729/368729/857156
-#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS [H265]" tvg-logo="https://i.imgur.com/bmZ8rxt.png" group-title="CANAIS | HBO",HBO PLUS [H265]
-http://ppvx.xyz:80/368729/368729/856954
-#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP FHD " tvg-logo="https://i.imgur.com/0oXzc81.png" group-title="CANAIS | HBO",HBO POP FHD 
-http://ppvx.xyz:80/368729/368729/862287
-#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP HD" tvg-logo="https://i.imgur.com/0oXzc81.png" group-title="CANAIS | HBO",HBO POP HD
-http://ppvx.xyz:80/368729/368729/856736
-#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP SD" tvg-logo="https://i.imgur.com/0oXzc81.png" group-title="CANAIS | HBO",HBO POP SD
-http://ppvx.xyz:80/368729/368729/862107
-#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP [H265]" tvg-logo="https://i.imgur.com/0oXzc81.png" group-title="CANAIS | HBO",HBO POP [H265]
-http://ppvx.xyz:80/368729/368729/856964
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS | HBO",HBO SD
-http://ppvx.xyz:80/368729/368729/857154
-#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE FHD " tvg-logo="https://i.imgur.com/owPPwh1.png" group-title="CANAIS | HBO",HBO SIGNATURE FHD 
-http://ppvx.xyz:80/368729/368729/862284
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.imgur.com/owPPwh1.png" group-title="CANAIS | HBO",HBO SIGNATURE HD
-http://ppvx.xyz:80/368729/368729/856729
-#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://i.imgur.com/owPPwh1.png" group-title="CANAIS | HBO",HBO SIGNATURE SD
-http://ppvx.xyz:80/368729/368729/857157
-#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE [H265]" tvg-logo="https://i.imgur.com/owPPwh1.png" group-title="CANAIS | HBO",HBO SIGNATURE [H265]
-http://ppvx.xyz:80/368729/368729/856955
-#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME FHD " tvg-logo="https://i.imgur.com/zvcpVnD.png" group-title="CANAIS | HBO",HBO XTREME FHD 
-http://ppvx.xyz:80/368729/368729/862286
-#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME HD" tvg-logo="https://i.imgur.com/zvcpVnD.png" group-title="CANAIS | HBO",HBO XTREME HD
-http://ppvx.xyz:80/368729/368729/856735
-#EXTINF:-1 tvg-name="HBO XTREME SD" tvg-logo="https://i.imgur.com/zvcpVnD.png" group-title="CANAIS | HBO",HBO XTREME SD
-http://ppvx.xyz:80/368729/368729/875916
-#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME [H265]" tvg-logo="https://i.imgur.com/zvcpVnD.png" group-title="CANAIS | HBO",HBO XTREME [H265]
-http://ppvx.xyz:80/368729/368729/856963
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO [H265]" tvg-logo="https://i.imgur.com/QTbPdG5.png" group-title="CANAIS | HBO",HBO [H265]
-http://ppvx.xyz:80/368729/368729/856953
-#EXTINF:-1 tvg-name="HBO MAX 1" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | HBO MAX",HBO MAX 1
-http://ppvx.xyz:80/368729/368729/876388
-#EXTINF:-1 tvg-name="HBO MAX 2" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | HBO MAX",HBO MAX 2
-http://ppvx.xyz:80/368729/368729/876387
-#EXTINF:-1 tvg-name="HBO MAX 3" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | HBO MAX",HBO MAX 3
-http://ppvx.xyz:80/368729/368729/876386
-#EXTINF:-1 tvg-name="HBO MAX 4" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | HBO MAX",HBO MAX 4
-http://ppvx.xyz:80/368729/368729/876385
-#EXTINF:-1 tvg-name="HBO MAX 5" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | HBO MAX",HBO MAX 5
-http://ppvx.xyz:80/368729/368729/876384
-#EXTINF:-1 tvg-name="HBO MAX 6" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | HBO MAX",HBO MAX 6
-http://ppvx.xyz:80/368729/368729/876383
-#EXTINF:-1 tvg-name="HBO MAX CHAMPIONS LEAGUE ALT" tvg-logo="https://i.imgur.com/iDOdj9b.png" group-title="CANAIS | HBO MAX",HBO MAX CHAMPIONS LEAGUE ALT
-http://ppvx.xyz:80/368729/368729/880845
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 2 FHD
-http://ppvx.xyz:80/368729/368729/876265
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD [H265]" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 2 FHD [H265]
-http://ppvx.xyz:80/368729/368729/876266
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 2 HD
-http://ppvx.xyz:80/368729/368729/876267
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 2 SD
-http://ppvx.xyz:80/368729/368729/876268
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 3 FHD
-http://ppvx.xyz:80/368729/368729/876269
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD [H265]" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 3 FHD [H265]
-http://ppvx.xyz:80/368729/368729/876270
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 3 HD
-http://ppvx.xyz:80/368729/368729/876271
-#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 3 SD
-http://ppvx.xyz:80/368729/368729/876272
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 4 FHD
-http://ppvx.xyz:80/368729/368729/876273
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD [H265]" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 4 FHD [H265]
-http://ppvx.xyz:80/368729/368729/876274
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 4 HD
-http://ppvx.xyz:80/368729/368729/876275
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 4 SD
-http://ppvx.xyz:80/368729/368729/876276
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 5 FHD
-http://ppvx.xyz:80/368729/368729/876277
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 FHD [H265]" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 5 FHD [H265]
-http://ppvx.xyz:80/368729/368729/876278
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 HD" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 5 HD
-http://ppvx.xyz:80/368729/368729/876279
-#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="PREMIERE 5 SD" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 5 SD
-http://ppvx.xyz:80/368729/368729/876280
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 6 FHD
-http://ppvx.xyz:80/368729/368729/876281
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 FHD [H265]" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 6 FHD [H265]
-http://ppvx.xyz:80/368729/368729/876282
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 6 HD
-http://ppvx.xyz:80/368729/368729/876283
-#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="PREMIERE 6 SD" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 6 SD
-http://ppvx.xyz:80/368729/368729/876284
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 7 FHD
-http://ppvx.xyz:80/368729/368729/876285
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 FHD [H265]" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 7 FHD [H265]
-http://ppvx.xyz:80/368729/368729/876286
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 7 HD
-http://ppvx.xyz:80/368729/368729/876287
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SD" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 7 SD
-http://ppvx.xyz:80/368729/368729/876288
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 SD" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE 7 SD
-http://ppvx.xyz:80/368729/368729/876289
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES FHD
-http://ppvx.xyz:80/368729/368729/876261
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD [H265]" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES FHD [H265]
-http://ppvx.xyz:80/368729/368729/876262
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES HD
-http://ppvx.xyz:80/368729/368729/876263
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE CLUBES SD
-http://ppvx.xyz:80/368729/368729/876264
-#EXTINF:-1 tvg-name="PREMIERE INTERNACIONAL" tvg-logo="https://i.imgur.com/kUPUyf2.png" group-title="CANAIS | PREMIERE",PREMIERE INTERNACIONAL
-http://ppvx.xyz:80/368729/368729/876290
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD BA HD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD BA HD
-http://ppvx.xyz:80/368729/368729/876246
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD BA SD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD BA SD
-http://ppvx.xyz:80/368729/368729/876247
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD BELEM HD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD BELEM HD
-http://ppvx.xyz:80/368729/368729/876238
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD BELEM SD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD BELEM SD
-http://ppvx.xyz:80/368729/368729/876239
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD CAMPINAS (TV THATHI) FHD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD CAMPINAS (TV THATHI) FHD
-http://ppvx.xyz:80/368729/368729/876236
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD CAMPINAS (TV THATHI) HD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD CAMPINAS (TV THATHI) HD
-http://ppvx.xyz:80/368729/368729/876237
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD DF SD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD DF SD
-http://ppvx.xyz:80/368729/368729/876249
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD GO HD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD GO HD
-http://ppvx.xyz:80/368729/368729/876240
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD GO SD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD GO SD
-http://ppvx.xyz:80/368729/368729/876241
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD MG HD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD MG HD
-http://ppvx.xyz:80/368729/368729/876244
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD MG SD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD MG SD
-http://ppvx.xyz:80/368729/368729/876245
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD MINAS FHD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD MINAS FHD
-http://ppvx.xyz:80/368729/368729/856825
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD RJ HD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD RJ HD
-http://ppvx.xyz:80/368729/368729/876242
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD RJ SD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD RJ SD
-http://ppvx.xyz:80/368729/368729/876243
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD RS HD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD RS HD
-http://ppvx.xyz:80/368729/368729/876250
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD RS SD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD RS SD
-http://ppvx.xyz:80/368729/368729/876251
-#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORD SP FHD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD SP FHD
-http://ppvx.xyz:80/368729/368729/876231
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SP FHD [H265]" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD SP FHD [H265]
-http://ppvx.xyz:80/368729/368729/876232
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SP HD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD SP HD
-http://ppvx.xyz:80/368729/368729/876233
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SP HD [Alternativo]" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD SP HD [Alternativo]
-http://ppvx.xyz:80/368729/368729/876234
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SP SD" tvg-logo="https://i.imgur.com/CVqgeup.png" group-title="CANAIS | RECORD",RECORD SP SD
-http://ppvx.xyz:80/368729/368729/876235
-#EXTINF:-1 tvg-name="RÁDIO 105 FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO 105 FM
-http://ppvx.xyz:80/368729/368729/856894
-#EXTINF:-1 tvg-name="RÁDIO ABC COUNTRY FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO ABC COUNTRY FM
-http://ppvx.xyz:80/368729/368729/856911
-#EXTINF:-1 tvg-name="RÁDIO ANTENA 1 FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO ANTENA 1 FM
-http://ppvx.xyz:80/368729/368729/856893
-#EXTINF:-1 tvg-name="RÁDIO CBN FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO CBN FM
-https://play.braudio.com.br/ondas/7288
-#EXTINF:-1 tvg-name="RÁDIO COCA COLA FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO COCA COLA FM
-http://ppvx.xyz:80/368729/368729/856897
-#EXTINF:-1 tvg-name="RÁDIO COUNTRY FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO COUNTRY FM
-http://ppvx.xyz:80/368729/368729/856908
-#EXTINF:-1 tvg-name="RÁDIO GAZETA FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO GAZETA FM
-http://ppvx.xyz:80/368729/368729/856904
-#EXTINF:-1 tvg-name="RÁDIO GERAÇÃO FUNK FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO GERAÇÃO FUNK FM
-http://ppvx.xyz:80/368729/368729/856907
-#EXTINF:-1 tvg-name="RÁDIO JOVEM PAM SP FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO JOVEM PAM SP FM
-http://ppvx.xyz:80/368729/368729/856892
-#EXTINF:-1 tvg-name="RÁDIO JOVEM POP FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO JOVEM POP FM
-http://ppvx.xyz:80/368729/368729/856912
-#EXTINF:-1 tvg-name="RÁDIO MIX RJ FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO MIX RJ FM
-http://ppvx.xyz:80/368729/368729/856902
-#EXTINF:-1 tvg-name="RÁDIO MIX SP FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO MIX SP FM
-http://ppvx.xyz:80/368729/368729/856899
-#EXTINF:-1 tvg-name="RÁDIO SAMBA E PAGODE FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO SAMBA E PAGODE FM
-http://ppvx.xyz:80/368729/368729/856909
-#EXTINF:-1 tvg-name="RÁDIO SERTANEJA RAIZ FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO SERTANEJA RAIZ FM
-http://ppvx.xyz:80/368729/368729/856898
-#EXTINF:-1 tvg-name="RÁDIO TERRA GO FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO TERRA GO FM
-http://ppvx.xyz:80/368729/368729/856910
-#EXTINF:-1 tvg-name="RÁDIO TRANSAMERICA FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO TRANSAMERICA FM
-http://ppvx.xyz:80/368729/368729/856905
-#EXTINF:-1 tvg-name="RÁDIO TROPICAL FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO TROPICAL FM
-http://ppvx.xyz:80/368729/368729/856906
-#EXTINF:-1 tvg-name="RÁDIO VILA MIX FM" tvg-logo="https://i.imgur.com/LepXwRM.png" group-title="CANAIS | RÁDIOS",RÁDIO VILA MIX FM
-http://ppvx.xyz:80/368729/368729/856896
-#EXTINF:-1 tvg-name="RADIO GOSPEL FM CEARA" group-title="CANAIS | RÁDIOS",RADIO GOSPEL FM CEARA
-http://ppvx.xyz:80/368729/368729/879076
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | SBT",SBT FHD
-http://ppvx.xyz:80/368729/368729/876224
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD [H265]" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | SBT",SBT FHD [H265]
-http://ppvx.xyz:80/368729/368729/876225
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | SBT",SBT HD
-http://ppvx.xyz:80/368729/368729/876226
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | SBT",SBT SD
-http://ppvx.xyz:80/368729/368729/876227
-#EXTINF:-1 tvg-id="SBT São Paulo" tvg-name="SBT SP INTERIOR" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | SBT",SBT SP INTERIOR
-http://ppvx.xyz:80/368729/368729/876230
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT VTV CAMPINAS FHD" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | SBT",SBT VTV CAMPINAS FHD
-http://ppvx.xyz:80/368729/368729/876228
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT VTV CAMPINAS HD" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS | SBT",SBT VTV CAMPINAS HD
-http://ppvx.xyz:80/368729/368729/876229
-#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL FHD " tvg-logo="https://i.imgur.com/O9w4VCR.png" group-title="CANAIS | REDE STAR",STAR CHANNEL FHD 
-http://ppvx.xyz:80/368729/368729/862323
-#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL HD" tvg-logo="https://i.imgur.com/O9w4VCR.png" group-title="CANAIS | REDE STAR",STAR CHANNEL HD
-http://ppvx.xyz:80/368729/368729/861215
-#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL SD" tvg-logo="https://i.imgur.com/O9w4VCR.png" group-title="CANAIS | REDE STAR",STAR CHANNEL SD
-http://ppvx.xyz:80/368729/368729/862103
-#EXTINF:-1 tvg-id="fox.br" tvg-name="STAR CHANNEL [H265]" tvg-logo="https://i.imgur.com/O9w4VCR.png" group-title="CANAIS | REDE STAR",STAR CHANNEL [H265]
-http://ppvx.xyz:80/368729/368729/862058
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 FHD " tvg-logo="https://i.imgur.com/RUvDWx1.png" group-title="CANAIS | REDE STAR",STAR HITS 2 FHD 
-http://ppvx.xyz:80/368729/368729/862326
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 HD" tvg-logo="https://i.imgur.com/RUvDWx1.png" group-title="CANAIS | REDE STAR",STAR HITS 2 HD
-http://ppvx.xyz:80/368729/368729/861204
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 SD" tvg-logo="https://i.imgur.com/RUvDWx1.png" group-title="CANAIS | REDE STAR",STAR HITS 2 SD
-http://ppvx.xyz:80/368729/368729/861202
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="STAR HITS 2 [H265]" tvg-logo="https://i.imgur.com/RUvDWx1.png" group-title="CANAIS | REDE STAR",STAR HITS 2 [H265]
-http://ppvx.xyz:80/368729/368729/862060
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS FHD " tvg-logo="https://i.imgur.com/sfwKkzm.png" group-title="CANAIS | REDE STAR",STAR HITS FHD 
-http://ppvx.xyz:80/368729/368729/862325
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS HD" tvg-logo="https://i.imgur.com/sfwKkzm.png" group-title="CANAIS | REDE STAR",STAR HITS HD
-http://ppvx.xyz:80/368729/368729/861210
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS SD" tvg-logo="https://i.imgur.com/sfwKkzm.png" group-title="CANAIS | REDE STAR",STAR HITS SD
-http://ppvx.xyz:80/368729/368729/861207
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="STAR HITS [H265]" tvg-logo="https://i.imgur.com/sfwKkzm.png" group-title="CANAIS | REDE STAR",STAR HITS [H265]
-http://ppvx.xyz:80/368729/368729/862059
-#EXTINF:-1 tvg-id="fox.life.br" tvg-name="STAR LIFE FHD " tvg-logo="https://i.imgur.com/mJccSSR.png" group-title="CANAIS | REDE STAR",STAR LIFE FHD 
-http://ppvx.xyz:80/368729/368729/862324
-#EXTINF:-1 tvg-id="fox.life.br" tvg-name="STAR LIFE HD" tvg-logo="https://i.imgur.com/mJccSSR.png" group-title="CANAIS | REDE STAR",STAR LIFE HD
-http://ppvx.xyz:80/368729/368729/861199
-#EXTINF:-1 tvg-id="fox.life.br" tvg-name="STAR LIFE SD" tvg-logo="https://i.imgur.com/mJccSSR.png" group-title="CANAIS | REDE STAR",STAR LIFE SD
-http://ppvx.xyz:80/368729/368729/862104
-#EXTINF:-1 tvg-id="fox.life.br" tvg-name="STAR LIFE [H265]" tvg-logo="https://i.imgur.com/mJccSSR.png" group-title="CANAIS | REDE STAR",STAR LIFE [H265]
-http://ppvx.xyz:80/368729/368729/875981
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD " tvg-logo="https://i.imgur.com/Xdl0FU1.png" group-title="CANAIS | TELECINE",TELECINE ACTION FHD 
-http://ppvx.xyz:80/368729/368729/862275
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://i.imgur.com/Xdl0FU1.png" group-title="CANAIS | TELECINE",TELECINE ACTION HD
-http://ppvx.xyz:80/368729/368729/856763
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://i.imgur.com/Xdl0FU1.png" group-title="CANAIS | TELECINE",TELECINE ACTION SD
-http://ppvx.xyz:80/368729/368729/857211
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION [H265]" tvg-logo="https://i.imgur.com/Xdl0FU1.png" group-title="CANAIS | TELECINE",TELECINE ACTION [H265]
-http://ppvx.xyz:80/368729/368729/856991
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD " tvg-logo="https://i.imgur.com/UI5Z3cf.png" group-title="CANAIS | TELECINE",TELECINE CULT FHD 
-http://ppvx.xyz:80/368729/368729/862279
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://i.imgur.com/UI5Z3cf.png" group-title="CANAIS | TELECINE",TELECINE CULT HD
-http://ppvx.xyz:80/368729/368729/856764
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD" tvg-logo="https://i.imgur.com/UI5Z3cf.png" group-title="CANAIS | TELECINE",TELECINE CULT SD
-http://ppvx.xyz:80/368729/368729/857212
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT [H265]" tvg-logo="https://i.imgur.com/UI5Z3cf.png" group-title="CANAIS | TELECINE",TELECINE CULT [H265]
-http://ppvx.xyz:80/368729/368729/856992
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD " tvg-logo="https://i.imgur.com/9uzg3hN.png" group-title="CANAIS | TELECINE",TELECINE FUN FHD 
-http://ppvx.xyz:80/368729/368729/862278
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://i.imgur.com/9uzg3hN.png" group-title="CANAIS | TELECINE",TELECINE FUN HD
-http://ppvx.xyz:80/368729/368729/856765
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD" tvg-logo="https://i.imgur.com/9uzg3hN.png" group-title="CANAIS | TELECINE",TELECINE FUN SD
-http://ppvx.xyz:80/368729/368729/857213
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN [H265]" tvg-logo="https://i.imgur.com/9uzg3hN.png" group-title="CANAIS | TELECINE",TELECINE FUN [H265]
-http://ppvx.xyz:80/368729/368729/856993
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD " tvg-logo="https://i.imgur.com/uLUN3d9.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA FHD 
-http://ppvx.xyz:80/368729/368729/862277
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://i.imgur.com/uLUN3d9.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA HD
-http://ppvx.xyz:80/368729/368729/856766
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://i.imgur.com/uLUN3d9.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA SD
-http://ppvx.xyz:80/368729/368729/857214
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA [H265]" tvg-logo="https://i.imgur.com/uLUN3d9.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA [H265]
-http://ppvx.xyz:80/368729/368729/856994
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD " tvg-logo="https://i.imgur.com/VjdttBW.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM FHD 
-http://ppvx.xyz:80/368729/368729/862274
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://i.imgur.com/VjdttBW.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM HD
-http://ppvx.xyz:80/368729/368729/856767
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://i.imgur.com/VjdttBW.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM SD
-http://ppvx.xyz:80/368729/368729/857215
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM [H265]" tvg-logo="https://i.imgur.com/VjdttBW.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM [H265]
-http://ppvx.xyz:80/368729/368729/856995
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD " tvg-logo="https://i.imgur.com/f5TPZe4.png" group-title="CANAIS | TELECINE",TELECINE TOUCH FHD 
-http://ppvx.xyz:80/368729/368729/862276
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://i.imgur.com/f5TPZe4.png" group-title="CANAIS | TELECINE",TELECINE TOUCH HD
-http://ppvx.xyz:80/368729/368729/856768
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://i.imgur.com/f5TPZe4.png" group-title="CANAIS | TELECINE",TELECINE TOUCH SD
-http://ppvx.xyz:80/368729/368729/857216
-#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH [H265]" tvg-logo="https://i.imgur.com/f5TPZe4.png" group-title="CANAIS | TELECINE",TELECINE TOUCH [H265]
-http://ppvx.xyz:80/368729/368729/856996
-#EXTINF:-1 tvg-name="1 - Harry Potter E A Pedra Filosofal 4K" tvg-logo="http://b5.vc:80/images/qnw9610ojLT0jU3lMSZOAFttt1e_big.jpg" group-title="FILMES | 4K",1 - Harry Potter E A Pedra Filosofal 4K
-http://ppvx.xyz:80/movie/368729/368729/855582.mp4
-#EXTINF:-1 tvg-name="15h17 - Trem Para Paris 4K" tvg-logo="http://b5.vc:80/images/bLfcN4pTbG78sxS4rQGciJCoNAb_big.jpg" group-title="FILMES | 4K",15h17 - Trem Para Paris 4K
-http://ppvx.xyz:80/movie/368729/368729/855580.mp4
-#EXTINF:-1 tvg-name="1917 4K" tvg-logo="http://b5.vc:80/images/8KkyXE7Hd9MPOOkORxkMM6SUXAB_big.jpg" group-title="FILMES | 4K",1917 4K
-http://ppvx.xyz:80/movie/368729/368729/855581.mp4
-#EXTINF:-1 tvg-name="2 - Harry Potter E A Camera Secreta 4K" tvg-logo="http://b5.vc:80/images/811j0Jf2D0mK1U6RxXJoZgOB29n_big.jpg" group-title="FILMES | 4K",2 - Harry Potter E A Camera Secreta 4K
-http://ppvx.xyz:80/movie/368729/368729/855583.mp4
-#EXTINF:-1 tvg-name="3 - Harry Potter E O Prisioneiro De Azkaban 4K" tvg-logo="http://b5.vc:80/images/1HdMUghqlgOIvbsU9ZtO40IPRzl_big.jpg" group-title="FILMES | 4K",3 - Harry Potter E O Prisioneiro De Azkaban 4K
-http://ppvx.xyz:80/movie/368729/368729/855584.mp4
-#EXTINF:-1 tvg-name="4 - Harry Potter E O Calice De Fogo 4K" tvg-logo="http://b5.vc:80/images/5oWB3hjzyECRBAjgWkmZinxl9qA_big.jpg" group-title="FILMES | 4K",4 - Harry Potter E O Calice De Fogo 4K
-http://ppvx.xyz:80/movie/368729/368729/855585.mp4
-#EXTINF:-1 tvg-name="5 - Harry Potter E A Ordem Da Fenix 4K" tvg-logo="http://b5.vc:80/images/tIf9aUyNljda9MG1pjlOLHCZ3b0_big.jpg" group-title="FILMES | 4K",5 - Harry Potter E A Ordem Da Fenix 4K
-http://ppvx.xyz:80/movie/368729/368729/855586.mp4
-#EXTINF:-1 tvg-name="6 - Harry Potter E O Enigma Do Principe 4K" tvg-logo="http://b5.vc:80/images/hTQQ5l9mxA3Rob8PTyvrNNGuj6y_big.jpg" group-title="FILMES | 4K",6 - Harry Potter E O Enigma Do Principe 4K
-http://ppvx.xyz:80/movie/368729/368729/855587.mp4
-#EXTINF:-1 tvg-name="7 - Harry Potter e as Reliquias da Morte - Parte 1 4K" tvg-logo="http://b5.vc:80/images/67FVFOTaeBUQnimhCWpUkDawDct_big.jpg" group-title="FILMES | 4K",7 - Harry Potter e as Reliquias da Morte - Parte 1 4K
-http://ppvx.xyz:80/movie/368729/368729/855588.mp4
-#EXTINF:-1 tvg-name="8 - Harry Potter e as Reliquias da Morte - Parte 2 4K" tvg-logo="http://b5.vc:80/images/yD3VosOVW8WxPUzBDpEdzfv5pGx_big.jpg" group-title="FILMES | 4K",8 - Harry Potter e as Reliquias da Morte - Parte 2 4K
-http://ppvx.xyz:80/movie/368729/368729/855589.mp4
-#EXTINF:-1 tvg-name="A Casa 4K" tvg-logo="http://b5.vc:80/images/xp2UO1n3LmeS0sXc7iUtROeeOuY_big.jpg" group-title="FILMES | 4K",A Casa 4K
-http://ppvx.xyz:80/movie/368729/368729/855590.mp4
-#EXTINF:-1 tvg-name="A Cor Que Caiu Do Espaco 4K" tvg-logo="http://b5.vc:80/images/xulMdGldIZY4AD5Wbtqf5GcK0b1_big.jpg" group-title="FILMES | 4K",A Cor Que Caiu Do Espaco 4K
-http://ppvx.xyz:80/movie/368729/368729/855591.mp4
-#EXTINF:-1 tvg-name="A Dama E O Vagabundo 4K [HDR]" tvg-logo="http://b5.vc:80/images/qXgDAfHX4eBFUZnOG4C6cn0pbuT_big.jpg" group-title="FILMES | 4K",A Dama E O Vagabundo 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855592.mp4
-#EXTINF:-1 tvg-name="A Extraordinária Garota Chamada Estrela 4K [HDR]" tvg-logo="http://b5.vc:80/images/zYvD1TZfGF2RHe1078MULl78nsV_big.jpg" group-title="FILMES | 4K",A Extraordinária Garota Chamada Estrela 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855593.mp4
-#EXTINF:-1 tvg-name="A Freira 4K" tvg-logo="http://b5.vc:80/images/4MG9XyyzLvON5iqCp8l8eVI8QiF_big.jpg" group-title="FILMES | 4K",A Freira 4K
-http://ppvx.xyz:80/movie/368729/368729/855594.mp4
-#EXTINF:-1 tvg-name="A Mula 4K" tvg-logo="http://b5.vc:80/images/kE9pO1utmOD5nQAcn7tyoUAldkX_big.jpg" group-title="FILMES | 4K",A Mula 4K
-http://ppvx.xyz:80/movie/368729/368729/855595.mp4
-#EXTINF:-1 tvg-name="A Terra e o Sangue 4K" tvg-logo="http://b5.vc:80/images/qje1KVE0ceIaAzo3KT3zRzR53f4_big.jpg" group-title="FILMES | 4K",A Terra e o Sangue 4K
-http://ppvx.xyz:80/movie/368729/368729/855596.mp4
-#EXTINF:-1 tvg-name="A Vida Em Um Ano 4K [HDR]" tvg-logo="http://b5.vc:80/images/dfmbwqkalJRfYqFSwNhRn4QYK30_big.jpg" group-title="FILMES | 4K",A Vida Em Um Ano 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855597.mkv
-#EXTINF:-1 tvg-name="A Vida Invisivel 4K [HDR]" tvg-logo="http://b5.vc:80/images/8kjxNXuMe62OclMZiznwVjBImgZ_big.jpg" group-title="FILMES | 4K",A Vida Invisivel 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855598.mp4
-#EXTINF:-1 tvg-name="A Última Coisa que Ele Queria 4K" tvg-logo="http://b5.vc:80/images/wulTQYc4Ac970mwf5F5ewhNSBtE_big.jpg" group-title="FILMES | 4K",A Última Coisa que Ele Queria 4K
-http://ppvx.xyz:80/movie/368729/368729/855599.mp4
-#EXTINF:-1 tvg-name="Abominável 4K" tvg-logo="http://b5.vc:80/images/oC89hsRFoF4OcrgYIKysDD7M6XO_big.jpg" group-title="FILMES | 4K",Abominável 4K
-http://ppvx.xyz:80/movie/368729/368729/855600.mp4
-#EXTINF:-1 tvg-name="Abominável 4K [HDR]" tvg-logo="http://b5.vc:80/images/oC89hsRFoF4OcrgYIKysDD7M6XO_big.jpg" group-title="FILMES | 4K",Abominável 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855601.mp4
-#EXTINF:-1 tvg-name="Ad Astra - Rumo às Estrelas 4K" tvg-logo="http://b5.vc:80/images/wigZBAmNrIhxp2FNGOROUAeHvdh_big.jpg" group-title="FILMES | 4K",Ad Astra - Rumo às Estrelas 4K
-http://ppvx.xyz:80/movie/368729/368729/855603.mp4
-#EXTINF:-1 tvg-name="Ad Astra - Rumo às Estrelas 4K [HDR]" tvg-logo="http://b5.vc:80/images/wigZBAmNrIhxp2FNGOROUAeHvdh_big.jpg" group-title="FILMES | 4K",Ad Astra - Rumo às Estrelas 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855602.mp4
-#EXTINF:-1 tvg-name="Adoráveis Mulheres 4K [HDR]" tvg-logo="http://b5.vc:80/images/oXRJlVPJO8GqPPpJwbomQEpAi3N_big.jpg" group-title="FILMES | 4K",Adoráveis Mulheres 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855604.mp4
-#EXTINF:-1 tvg-name="Aladdin 4K" tvg-logo="http://b5.vc:80/images/1d8HShFOmSWDwvqtvPEZqzlZbYl_big.jpg" group-title="FILMES | 4K",Aladdin 4K
-http://ppvx.xyz:80/movie/368729/368729/855605.mp4
-#EXTINF:-1 tvg-name="Aladdin 4K [HDR]" tvg-logo="http://b5.vc:80/images/1d8HShFOmSWDwvqtvPEZqzlZbYl_big.jpg" group-title="FILMES | 4K",Aladdin 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855606.mp4
-#EXTINF:-1 tvg-name="Alita Anjo de Combate 4K" tvg-logo="http://b5.vc:80/images/i7eGbUjw721W02ofWEJt4zpiJDp_big.jpg" group-title="FILMES | 4K",Alita Anjo de Combate 4K
-http://ppvx.xyz:80/movie/368729/368729/855607.mp4
-#EXTINF:-1 tvg-name="Alita Anjo de Combate 4K [HDR]" tvg-logo="http://b5.vc:80/images/i7eGbUjw721W02ofWEJt4zpiJDp_big.jpg" group-title="FILMES | 4K",Alita Anjo de Combate 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855608.mp4
-#EXTINF:-1 tvg-name="Altos Negócios 4K" tvg-logo="http://b5.vc:80/images/7ngM2zOxhJsYA7g15L3WFRTOgjZ_big.jpg" group-title="FILMES | 4K",Altos Negócios 4K
-http://ppvx.xyz:80/movie/368729/368729/855609.mp4
-#EXTINF:-1 tvg-name="Amor e Monstros 4K" tvg-logo="http://b5.vc:80/images/hnz5wRqeYKlugGbC7RZxC7DAiED_big.jpg" group-title="FILMES | 4K",Amor e Monstros 4K
-http://ppvx.xyz:80/movie/368729/368729/855610.mp4
-#EXTINF:-1 tvg-name="Angry Birds 2: O Filme 4K" tvg-logo="http://b5.vc:80/images/pMqAjEyj234escPleCthcmh84ka_big.jpg" group-title="FILMES | 4K",Angry Birds 2: O Filme 4K
-http://ppvx.xyz:80/movie/368729/368729/855611.mp4
-#EXTINF:-1 tvg-name="Angry Birds 2: O Filme 4K [HDR]" tvg-logo="http://b5.vc:80/images/pMqAjEyj234escPleCthcmh84ka_big.jpg" group-title="FILMES | 4K",Angry Birds 2: O Filme 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855612.mp4
-#EXTINF:-1 tvg-name="Animais Fantasticos Os Crimes de Grindelwald 4K" tvg-logo="http://b5.vc:80/images/dcIfTb2nNWnyV9WHL2jh0HEjNw2_big.jpg" group-title="FILMES | 4K",Animais Fantasticos Os Crimes de Grindelwald 4K
-http://ppvx.xyz:80/movie/368729/368729/855613.mp4
-#EXTINF:-1 tvg-name="Anna O Perigo Tem Nome 4K" tvg-logo="http://b5.vc:80/images/aJxG6anQWToaedaHiRxDIS4Wecs_big.jpg" group-title="FILMES | 4K",Anna O Perigo Tem Nome 4K
-http://ppvx.xyz:80/movie/368729/368729/855614.mp4
-#EXTINF:-1 tvg-name="Anna O Perigo Tem Nome 4K [HDR]" tvg-logo="http://b5.vc:80/images/aJxG6anQWToaedaHiRxDIS4Wecs_big.jpg" group-title="FILMES | 4K",Anna O Perigo Tem Nome 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855615.mp4
-#EXTINF:-1 tvg-name="Annabelle 3: De Volta Para Casa 4K" tvg-logo="http://b5.vc:80/images/m8h2gz4El6bvYpDjyQhb7R49rSp_big.jpg" group-title="FILMES | 4K",Annabelle 3: De Volta Para Casa 4K
-http://ppvx.xyz:80/movie/368729/368729/855616.mp4
-#EXTINF:-1 tvg-name="Annabelle 3: De Volta Para Casa 4K [HDR]" tvg-logo="http://b5.vc:80/images/m8h2gz4El6bvYpDjyQhb7R49rSp_big.jpg" group-title="FILMES | 4K",Annabelle 3: De Volta Para Casa 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855617.mp4
-#EXTINF:-1 tvg-name="Anônimo 4K" tvg-logo="http://x00.so:80/images/woPYFGKwVULILbO7q44HmsNY0kO_big.jpg" group-title="FILMES | 4K",Anônimo 4K
-http://ppvx.xyz:80/movie/368729/368729/855618.mp4
-#EXTINF:-1 tvg-name="Apollo 11 4K [HDR]" tvg-logo="http://b5.vc:80/images/woLMRroHyoTGoXyxdEeBJEYBFtu_big.jpg" group-title="FILMES | 4K",Apollo 11 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855619.mp4
-#EXTINF:-1 tvg-name="Aquaman 4K" tvg-logo="http://b5.vc:80/images/oB367uFcyU2uhGkFqo5RB4Evdji_big.jpg" group-title="FILMES | 4K",Aquaman 4K
-http://ppvx.xyz:80/movie/368729/368729/855620.mp4
-#EXTINF:-1 tvg-name="Artemis Fowl O Mundo Secreto 4K [HDR]" tvg-logo="http://b5.vc:80/images/avb3THg1FTxBc79h2QECsuwjujY_big.jpg" group-title="FILMES | 4K",Artemis Fowl O Mundo Secreto 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855621.mp4
-#EXTINF:-1 tvg-name="As Golpistas 4K [HDR]" tvg-logo="http://b5.vc:80/images/kbgjEUhsCtb9cNM5sXY5mtItgtW_big.jpg" group-title="FILMES | 4K",As Golpistas 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855622.mp4
-#EXTINF:-1 tvg-name="As Panteras 4K" tvg-logo="http://b5.vc:80/images/9jdMSIPbwK0wgjuOQz0AvkYQ4M3_big.jpg" group-title="FILMES | 4K",As Panteras 4K
-http://ppvx.xyz:80/movie/368729/368729/855623.mp4
-#EXTINF:-1 tvg-name="As Panteras 4K [HDR]" tvg-logo="http://b5.vc:80/images/9jdMSIPbwK0wgjuOQz0AvkYQ4M3_big.jpg" group-title="FILMES | 4K",As Panteras 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855624.mp4
-#EXTINF:-1 tvg-name="As Viuvas 4K" tvg-logo="http://b5.vc:80/images/gWKs9H9AEFQQmoEUGfCdvKkHRj6_big.jpg" group-title="FILMES | 4K",As Viuvas 4K
-http://ppvx.xyz:80/movie/368729/368729/855625.mp4
-#EXTINF:-1 tvg-name="Asterix e o Segredo da Poção Mágica 4K [HDR]" tvg-logo="http://b5.vc:80/images/y0zfYNjoXQKDoHlYJqIvGx9Hkvx_big.jpg" group-title="FILMES | 4K",Asterix e o Segredo da Poção Mágica 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855626.mp4
-#EXTINF:-1 tvg-name="Ate O Ultimo Homem 4K [HDR]" tvg-logo="http://b5.vc:80/images/88sCL8OQMoieKpHClqRCCbcgH6w_big.jpg" group-title="FILMES | 4K",Ate O Ultimo Homem 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855627.mp4
-#EXTINF:-1 tvg-name="Aves de Rapina: Arlequina e sua Emancipação Fantabulosa 4K" tvg-logo="http://b5.vc:80/images/A50Ngq9lh9aCTGHC6kttrppHNoF_big.jpg" group-title="FILMES | 4K",Aves de Rapina: Arlequina e sua Emancipação Fantabulosa 4K
-http://ppvx.xyz:80/movie/368729/368729/855628.mp4
-#EXTINF:-1 tvg-name="Bad Boys Para Sempre 4K" tvg-logo="http://b5.vc:80/images/sTKl7J5OWnsZSTRiKPIvPx4ngBG_big.jpg" group-title="FILMES | 4K",Bad Boys Para Sempre 4K
-http://ppvx.xyz:80/movie/368729/368729/855629.mp4
-#EXTINF:-1 tvg-name="Batman O Cavaleiro das Trevas 4K" tvg-logo="http://b5.vc:80/images/iGZX91hIqM9Uu0KGhd4MUaJ0Rtm_big.jpg" group-title="FILMES | 4K",Batman O Cavaleiro das Trevas 4K
-http://ppvx.xyz:80/movie/368729/368729/855630.mp4
-#EXTINF:-1 tvg-name="Bird Box 4K" tvg-logo="http://b5.vc:80/images/akAO6r0ZuPB98VwQsN0SGIkE4z_big.jpg" group-title="FILMES | 4K",Bird Box 4K
-http://ppvx.xyz:80/movie/368729/368729/855631.mp4
-#EXTINF:-1 tvg-name="BlacKkKlansman - O Infiltrado 4K" tvg-logo="http://b5.vc:80/images/iqP3m9EdoDvSzi6lPMmpjOX6vLY_big.jpg" group-title="FILMES | 4K",BlacKkKlansman - O Infiltrado 4K
-http://ppvx.xyz:80/movie/368729/368729/855632.mp4
-#EXTINF:-1 tvg-name="Blade Runner 2049 4K" tvg-logo="http://b5.vc:80/images/qWD9E0Wgn8w6nMMutCNFAUiSHrX_big.jpg" group-title="FILMES | 4K",Blade Runner 2049 4K
-http://ppvx.xyz:80/movie/368729/368729/855633.mp4
-#EXTINF:-1 tvg-name="Bliss: Em Busca da Felicidade 4K [HDR]" tvg-logo="http://b5.vc:80/images/b7BllsQkD6nTkAdtd28UVCmKqVi_big.jpg" group-title="FILMES | 4K",Bliss: Em Busca da Felicidade 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855634.mkv
-#EXTINF:-1 tvg-name="Bloodshot 4K" tvg-logo="http://b5.vc:80/images/5Z7AJiQhocA20MkI5JXZ6OjTxEW_big.jpg" group-title="FILMES | 4K",Bloodshot 4K
-http://ppvx.xyz:80/movie/368729/368729/855635.mp4
-#EXTINF:-1 tvg-name="Bloodshot 4K [HDR]" tvg-logo="http://b5.vc:80/images/5Z7AJiQhocA20MkI5JXZ6OjTxEW_big.jpg" group-title="FILMES | 4K",Bloodshot 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855636.mp4
-#EXTINF:-1 tvg-name="Bohemian Rhapsody 4K" tvg-logo="http://b5.vc:80/images/oL3T7lc9NgB3tHP0lhSlyVsRMV2_big.jpg" group-title="FILMES | 4K",Bohemian Rhapsody 4K
-http://ppvx.xyz:80/movie/368729/368729/855637.mp4
-#EXTINF:-1 tvg-name="Brahms: Boneco do Mal II 4K" tvg-logo="http://b5.vc:80/images/g9WA3biUqXVUU4snaB2f6O24F01_big.jpg" group-title="FILMES | 4K",Brahms: Boneco do Mal II 4K
-http://ppvx.xyz:80/movie/368729/368729/855638.mp4
-#EXTINF:-1 tvg-name="Bumblebee 4K" tvg-logo="http://b5.vc:80/images/u2IZcVw0tclP7UOusTVtI5J6rmx_big.jpg" group-title="FILMES | 4K",Bumblebee 4K
-http://ppvx.xyz:80/movie/368729/368729/855639.mp4
-#EXTINF:-1 tvg-name="Campo do Medo 4K" tvg-logo="http://b5.vc:80/images/wG0tORn6XqSwjN2tBAZJrFTh7n0_big.jpg" group-title="FILMES | 4K",Campo do Medo 4K
-http://ppvx.xyz:80/movie/368729/368729/855640.mp4
-#EXTINF:-1 tvg-name="Capita Marvel 4K" tvg-logo="http://b5.vc:80/images/hVgLHgnsO46oSHJy5I4ekhqtoYv_big.jpg" group-title="FILMES | 4K",Capita Marvel 4K
-http://ppvx.xyz:80/movie/368729/368729/855641.mp4
-#EXTINF:-1 tvg-name="Cinquenta Tons de Liberdade 4K" tvg-logo="http://b5.vc:80/images/uqhknzsgBy3AtkizqdKpONr2rrQ_big.jpg" group-title="FILMES | 4K",Cinquenta Tons de Liberdade 4K
-http://ppvx.xyz:80/movie/368729/368729/855642.mp4
-#EXTINF:-1 tvg-name="Clouds 4K" tvg-logo="http://b5.vc:80/images/euWiWsHhPeSGFsIO5ArzCkGeskG_big.jpg" group-title="FILMES | 4K",Clouds 4K
-http://ppvx.xyz:80/movie/368729/368729/855643.mp4
-#EXTINF:-1 tvg-name="Coffee And Kareem 4K" tvg-logo="http://b5.vc:80/images/jFzPMOJrjZfwCxllm3IIEKN7ceF_big.jpg" group-title="FILMES | 4K",Coffee And Kareem 4K
-http://ppvx.xyz:80/movie/368729/368729/855644.mp4
-#EXTINF:-1 tvg-name="Com Amor Simon 4K [HDR]" tvg-logo="http://b5.vc:80/images/qwGowTpFQTgCcByfoP2xzXVReGl_big.jpg" group-title="FILMES | 4K",Com Amor Simon 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855645.mp4
-#EXTINF:-1 tvg-name="Como Treinar o Seu Dragão 3 4K" tvg-logo="http://b5.vc:80/images/5uqxMHM7YLKk6yni4bOE0D6DVz8_big.jpg" group-title="FILMES | 4K",Como Treinar o Seu Dragão 3 4K
-http://ppvx.xyz:80/movie/368729/368729/855646.mp4
-#EXTINF:-1 tvg-name="Consequencias 4K" tvg-logo="http://b5.vc:80/images/u92tB5bowfcEynSpAWOQ4OTbmd1_big.jpg" group-title="FILMES | 4K",Consequencias 4K
-http://ppvx.xyz:80/movie/368729/368729/855647.mp4
-#EXTINF:-1 tvg-name="Convencao Das Bruxas 4K [HDR]" tvg-logo="http://b5.vc:80/images/orrJiQs30G6zSkT8is4QOAtRpFM_big.jpg" group-title="FILMES | 4K",Convencao Das Bruxas 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855648.mp4
-#EXTINF:-1 tvg-name="Coringa 4K" tvg-logo="http://b5.vc:80/images/xLxgVxFWvb9hhUyCDDXxRPPnFck_big.jpg" group-title="FILMES | 4K",Coringa 4K
-http://ppvx.xyz:80/movie/368729/368729/855649.mp4
-#EXTINF:-1 tvg-name="Creed II 4K" tvg-logo="http://b5.vc:80/images/qPQFWrLoQYyGxmeBgmpX901Q0mF_big.jpg" group-title="FILMES | 4K",Creed II 4K
-http://ppvx.xyz:80/movie/368729/368729/855650.mp4
-#EXTINF:-1 tvg-name="Cruella 4K [HDR]" tvg-logo="http://x00.so:80/images/ljPHd7WiPVKmuXi1hgQUpZQslbC_big.jpg" group-title="FILMES | 4K",Cruella 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855651.mp4
-#EXTINF:-1 tvg-name="Deadpool 2 4K" tvg-logo="http://b5.vc:80/images/6CABdPx68rYoLdvXhIJkilOj6XZ_big.jpg" group-title="FILMES | 4K",Deadpool 2 4K
-http://ppvx.xyz:80/movie/368729/368729/855652.mp4
-#EXTINF:-1 tvg-name="Deixe o Partir 4K [HDR]" tvg-logo="http://b5.vc:80/images/cjeMm5GOymDlnruhf7s1YpvMI0h_big.jpg" group-title="FILMES | 4K",Deixe o Partir 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855653.mp4
-#EXTINF:-1 tvg-name="Desejo de Matar 4K" tvg-logo="http://b5.vc:80/images/yo2FRPhsifn044quPVyMtYlnoyZ_big.jpg" group-title="FILMES | 4K",Desejo de Matar 4K
-http://ppvx.xyz:80/movie/368729/368729/855654.mp4
-#EXTINF:-1 tvg-name="Destruição Final: O Último Refúgio 4K" tvg-logo="http://b5.vc:80/images/sJecw4UYpvTgKE2zS9le44Nwuag_big.jpg" group-title="FILMES | 4K",Destruição Final: O Último Refúgio 4K
-http://ppvx.xyz:80/movie/368729/368729/855655.mp4
-#EXTINF:-1 tvg-name="Dois Irmãos - Uma Jornada Fantástica 4K" tvg-logo="http://b5.vc:80/images/jsi2UM64Mhr6NmY1LKeeCuZOaCo_big.jpg" group-title="FILMES | 4K",Dois Irmãos - Uma Jornada Fantástica 4K
-http://ppvx.xyz:80/movie/368729/368729/855656.mp4
-#EXTINF:-1 tvg-name="Dolittle 4K" tvg-logo="http://b5.vc:80/images/tsa2NZ3QzR6zHg2e20yJfSOhUnS_big.jpg" group-title="FILMES | 4K",Dolittle 4K
-http://ppvx.xyz:80/movie/368729/368729/855657.mp4
-#EXTINF:-1 tvg-name="Doutor Estranho 4K" tvg-logo="http://b5.vc:80/images/t0amAZ8KJFxBQZOxOnWlKVT4STi_big.jpg" group-title="FILMES | 4K",Doutor Estranho 4K
-http://ppvx.xyz:80/movie/368729/368729/855658.mp4
-#EXTINF:-1 tvg-name="Doutor Sono 4K [HDR]" tvg-logo="http://b5.vc:80/images/1Sp02vj2faWSF72OqIM9E7HuSG9_big.jpg" group-title="FILMES | 4K",Doutor Sono 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855659.mp4
-#EXTINF:-1 tvg-name="Entre Facas e Segredos 4K [HDR]" tvg-logo="http://b5.vc:80/images/y9bPnWN7M0SmDvh4Nns0R4Jc2Jn_big.jpg" group-title="FILMES | 4K",Entre Facas e Segredos 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855660.mp4
-#EXTINF:-1 tvg-name="Estrada Sem Lei 4K" tvg-logo="http://b5.vc:80/images/57EBMNewtrm5AB2JQp1SH949UMq_big.jpg" group-title="FILMES | 4K",Estrada Sem Lei 4K
-http://ppvx.xyz:80/movie/368729/368729/855661.mp4
-#EXTINF:-1 tvg-name="Extraordinario 4K [HDR]" tvg-logo="http://b5.vc:80/images/mGoTUHAcma2sY0rQ7iQiFZoPF1R_big.jpg" group-title="FILMES | 4K",Extraordinario 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855662.mp4
-#EXTINF:-1 tvg-name="Ford Vs Ferrari 4K" tvg-logo="http://b5.vc:80/images/kGtBjcCQzeNmUia6FHRcqQHzHoS_big.jpg" group-title="FILMES | 4K",Ford Vs Ferrari 4K
-http://ppvx.xyz:80/movie/368729/368729/855663.mp4
-#EXTINF:-1 tvg-name="Ford Vs Ferrari 4K [HDR]" tvg-logo="http://b5.vc:80/images/kGtBjcCQzeNmUia6FHRcqQHzHoS_big.jpg" group-title="FILMES | 4K",Ford Vs Ferrari 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855664.mp4
-#EXTINF:-1 tvg-name="Frozen 2 4K [HDR]" tvg-logo="http://b5.vc:80/images/y2pvlZsqGcXKT4S7nUdvYfETG5r_big.jpg" group-title="FILMES | 4K",Frozen 2 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855665.mp4
-#EXTINF:-1 tvg-name="Fuja 4K" tvg-logo="http://b5.vc:80/images/3PFEWKFqfZZoxDpJNceL6XKzsGk_big.jpg" group-title="FILMES | 4K",Fuja 4K
-http://ppvx.xyz:80/movie/368729/368729/855666.mp4
-#EXTINF:-1 tvg-name="Furia em Alto Mar 4K" tvg-logo="http://b5.vc:80/images/ral7cnZBQZGFmGaJUxrpcY8Xj3l_big.jpg" group-title="FILMES | 4K",Furia em Alto Mar 4K
-http://ppvx.xyz:80/movie/368729/368729/855667.mp4
-#EXTINF:-1 tvg-name="Godzilla II Rei dos Monstros 4K" tvg-logo="http://b5.vc:80/images/2umU3r6V4V2gTmSnZJmH61nTorF_big.jpg" group-title="FILMES | 4K",Godzilla II Rei dos Monstros 4K
-http://ppvx.xyz:80/movie/368729/368729/855668.mp4
-#EXTINF:-1 tvg-name="Godzilla Vs Kong 4K [HDR]" tvg-logo="http://b5.vc:80/images/wllzjZxg4ynlAm5xmOICJ2uHOPJ_big.jpg" group-title="FILMES | 4K",Godzilla Vs Kong 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855669.mp4
-#EXTINF:-1 tvg-name="Goosebumps - Monstros e Arrepios 4K" tvg-logo="http://b5.vc:80/images/d1rkpUr64IY0ARTyWU6MrHJD2Wt_big.jpg" group-title="FILMES | 4K",Goosebumps - Monstros e Arrepios 4K
-http://ppvx.xyz:80/movie/368729/368729/855670.mp4
-#EXTINF:-1 tvg-name="Green Book O Guia 4K" tvg-logo="http://b5.vc:80/images/jaosA7NFPYBDueQ3X3SkADN6aS_big.jpg" group-title="FILMES | 4K",Green Book O Guia 4K
-http://ppvx.xyz:80/movie/368729/368729/855671.mp4
-#EXTINF:-1 tvg-name="Guardioes da Galaxia 4K" tvg-logo="http://b5.vc:80/images/xaY92XMToaSnBuvCui3LHzNGqZB_big.jpg" group-title="FILMES | 4K",Guardioes da Galaxia 4K
-http://ppvx.xyz:80/movie/368729/368729/855672.mp4
-#EXTINF:-1 tvg-name="Hala 4K" tvg-logo="http://b5.vc:80/images/uFD6hHJMZIaQmV0bmpc4M9IlM0q_big.jpg" group-title="FILMES | 4K",Hala 4K
-http://ppvx.xyz:80/movie/368729/368729/855673.mp4
-#EXTINF:-1 tvg-name="Hala 4K [HDR]" tvg-logo="http://b5.vc:80/images/uFD6hHJMZIaQmV0bmpc4M9IlM0q_big.jpg" group-title="FILMES | 4K",Hala 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855674.mp4
-#EXTINF:-1 tvg-name="Halloween 4K" tvg-logo="http://b5.vc:80/images/bXs0zkv2iGVViZEy78teg2ycDBm_big.jpg" group-title="FILMES | 4K",Halloween 4K
-http://ppvx.xyz:80/movie/368729/368729/855675.mp4
-#EXTINF:-1 tvg-name="Han Solo - Uma Historia Star Wars 4K" tvg-logo="http://b5.vc:80/images/oIh5sn4Bk7bQrw8ZPHl32y86H4M_big.jpg" group-title="FILMES | 4K",Han Solo - Uma Historia Star Wars 4K
-http://ppvx.xyz:80/movie/368729/368729/855676.mp4
-#EXTINF:-1 tvg-name="Hellboy 4K" tvg-logo="http://b5.vc:80/images/lmh8wXm6f3z7wcRqQ8NSXrB8tMQ_big.jpg" group-title="FILMES | 4K",Hellboy 4K
-http://ppvx.xyz:80/movie/368729/368729/855677.mp4
-#EXTINF:-1 tvg-name="Homem Aranha de Volta ao Lar 4K" tvg-logo="http://b5.vc:80/images/9Fgs1ewIZiBBTto1XDHeBN0D8ug_big.jpg" group-title="FILMES | 4K",Homem Aranha de Volta ao Lar 4K
-http://ppvx.xyz:80/movie/368729/368729/855678.mp4
-#EXTINF:-1 tvg-name="Homem Aranha no Aranhaverso 4K" tvg-logo="http://b5.vc:80/images/ybQSBSrINtjWsJQ6Ih8sva8HlEZ_big.jpg" group-title="FILMES | 4K",Homem Aranha no Aranhaverso 4K
-http://ppvx.xyz:80/movie/368729/368729/855679.mp4
-#EXTINF:-1 tvg-name="Homem Formiga e a Vespa 4K" tvg-logo="http://b5.vc:80/images/smRrzh8W4PfIYiqAEqc6U1D6Ekl_big.jpg" group-title="FILMES | 4K",Homem Formiga e a Vespa 4K
-http://ppvx.xyz:80/movie/368729/368729/855680.mp4
-#EXTINF:-1 tvg-name="Homem-Aranha: Longe de Casa 4K" tvg-logo="http://b5.vc:80/images/tX0o4AdHpidgniTWwfzK0dNTKrc_big.jpg" group-title="FILMES | 4K",Homem-Aranha: Longe de Casa 4K
-http://ppvx.xyz:80/movie/368729/368729/855681.mp4
-#EXTINF:-1 tvg-name="Hotel Artemis 4K" tvg-logo="http://b5.vc:80/images/lDj5AEPO121NJIMZBFXrMs7Y06A_big.jpg" group-title="FILMES | 4K",Hotel Artemis 4K
-http://ppvx.xyz:80/movie/368729/368729/855682.mp4
-#EXTINF:-1 tvg-name="Incredibles 2 4K" tvg-logo="http://b5.vc:80/images/y3EEb7o6NxK0pl0WsOswCos663y_big.jpg" group-title="FILMES | 4K",Incredibles 2 4K
-http://ppvx.xyz:80/movie/368729/368729/855683.mp4
-#EXTINF:-1 tvg-name="Interestelar 4K" tvg-logo="http://b5.vc:80/images/nCbkOyOMTEwlEV0LtCOvCnwEONA_big.jpg" group-title="FILMES | 4K",Interestelar 4K
-http://ppvx.xyz:80/movie/368729/368729/855684.mp4
-#EXTINF:-1 tvg-name="Invasao Ao Servico Secreto 4K [HDR]" tvg-logo="http://b5.vc:80/images/qinFqfMF2HrjplEK5uQliLyryAk_big.jpg" group-title="FILMES | 4K",Invasao Ao Servico Secreto 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855685.mp4
-#EXTINF:-1 tvg-name="Invocação do Mal 3: A Ordem do Demônio 4K [HDR]" tvg-logo="http://x00.so:80/images/8jBgDFFDYz8WHxiOBJ7GBiMM6Pe_big.jpg" group-title="FILMES | 4K",Invocação do Mal 3: A Ordem do Demônio 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855686.mp4
-#EXTINF:-1 tvg-name="Isi & Ossi 4K" tvg-logo="http://b5.vc:80/images/z7siFsEYnwCQfAezhupnjogPMoM_big.jpg" group-title="FILMES | 4K",Isi & Ossi 4K
-http://ppvx.xyz:80/movie/368729/368729/855687.mp4
-#EXTINF:-1 tvg-name="It Capitulo Dois 4K" tvg-logo="http://b5.vc:80/images/qjKvLv6Z2D9QWEOdnsrffguazHk_big.jpg" group-title="FILMES | 4K",It Capitulo Dois 4K
-http://ppvx.xyz:80/movie/368729/368729/855688.mp4
-#EXTINF:-1 tvg-name="It Capitulo Dois 4K [HDR]" tvg-logo="http://b5.vc:80/images/qjKvLv6Z2D9QWEOdnsrffguazHk_big.jpg" group-title="FILMES | 4K",It Capitulo Dois 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855689.mp4
-#EXTINF:-1 tvg-name="Jogador Numero 1 4K" tvg-logo="http://b5.vc:80/images/sN46sgCsWqwgHMu4mEtKJ19knVr_big.jpg" group-title="FILMES | 4K",Jogador Numero 1 4K
-http://ppvx.xyz:80/movie/368729/368729/855690.mp4
-#EXTINF:-1 tvg-name="John Wick 3 4K" tvg-logo="http://b5.vc:80/images/mOoERCQCGrgFHOrco7wLy6CAYfp_big.jpg" group-title="FILMES | 4K",John Wick 3 4K
-http://ppvx.xyz:80/movie/368729/368729/855691.mp4
-#EXTINF:-1 tvg-name="John Wick 3 4K [HDR]" tvg-logo="http://b5.vc:80/images/mOoERCQCGrgFHOrco7wLy6CAYfp_big.jpg" group-title="FILMES | 4K",John Wick 3 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855692.mp4
-#EXTINF:-1 tvg-name="Jojo Rabbit 4K" tvg-logo="http://b5.vc:80/images/vC7gB8h8KFTsraAoKsj0haHAljR_big.jpg" group-title="FILMES | 4K",Jojo Rabbit 4K
-http://ppvx.xyz:80/movie/368729/368729/855693.mp4
-#EXTINF:-1 tvg-name="Judas e o Messias " tvg-logo="https://image.tmdb.org/t/p/w154/oA4Hsn1G0sBI8U61BpX05GsrrfF.jpg" group-title="FILMES | 4K",Judas e o Messias 
-http://ppvx.xyz:80/movie/368729/368729/855806.mp4
-#EXTINF:-1 tvg-name="Jumanji: Próxima Fase 4K" tvg-logo="http://b5.vc:80/images/bBRDUTr6jgbD8I8A9DvVGrVbdfB_big.jpg" group-title="FILMES | 4K",Jumanji: Próxima Fase 4K
-http://ppvx.xyz:80/movie/368729/368729/855694.mp4
-#EXTINF:-1 tvg-name="Jumanji: Próxima Fase 4K [HDR]" tvg-logo="http://b5.vc:80/images/bBRDUTr6jgbD8I8A9DvVGrVbdfB_big.jpg" group-title="FILMES | 4K",Jumanji: Próxima Fase 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855695.mp4
-#EXTINF:-1 tvg-name="Jurassic World - Reino Ameacado 4K" tvg-logo="http://b5.vc:80/images/b3CuByY3v7qz9aq4rayIMeAMemy_big.jpg" group-title="FILMES | 4K",Jurassic World - Reino Ameacado 4K
-http://ppvx.xyz:80/movie/368729/368729/855696.mp4
-#EXTINF:-1 tvg-name="Liga da Justica 4K" tvg-logo="http://b5.vc:80/images/geyu6rplpbp7OUeOfB2uRVf1LpG_big.jpg" group-title="FILMES | 4K",Liga da Justica 4K
-http://ppvx.xyz:80/movie/368729/368729/855697.mp4
-#EXTINF:-1 tvg-name="Liga da Justiça de Zack Snyder 4K [HDR]" tvg-logo="http://b5.vc:80/images/v9XwEXYWpxt2rpkmFBiQ1zeyKUy_big.jpg" group-title="FILMES | 4K",Liga da Justiça de Zack Snyder 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855698.mp4
-#EXTINF:-1 tvg-name="Logan 4K" tvg-logo="http://b5.vc:80/images/f0CtZbae9cXj8bkWdCHzUHx5lsR_big.jpg" group-title="FILMES | 4K",Logan 4K
-http://ppvx.xyz:80/movie/368729/368729/855699.mp4
-#EXTINF:-1 tvg-name="Logan 4K" tvg-logo="http://b5.vc:80/images/f0CtZbae9cXj8bkWdCHzUHx5lsR_big.jpg" group-title="FILMES | 4K",Logan 4K
-http://ppvx.xyz:80/movie/368729/368729/855700.mp4
-#EXTINF:-1 tvg-name="Luca 4K" tvg-logo="http://x00.so:80/images/1lk7QISmTam2iOzzUAQYs6voeFg_big.jpg" group-title="FILMES | 4K",Luca 4K
-http://ppvx.xyz:80/movie/368729/368729/855701.mp4
-#EXTINF:-1 tvg-name="Luca 4K [HDR]" tvg-logo="http://x00.so:80/images/1lk7QISmTam2iOzzUAQYs6voeFg_big.jpg" group-title="FILMES | 4K",Luca 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855702.mp4
-#EXTINF:-1 tvg-name="Lucy 4K" tvg-logo="http://b5.vc:80/images/6f10Yn1vooCMhb6DrY6AvsK19Yh_big.jpg" group-title="FILMES | 4K",Lucy 4K
-http://ppvx.xyz:80/movie/368729/368729/855703.mp4
-#EXTINF:-1 tvg-name="Malévola: Dona do Mal 4K" tvg-logo="http://b5.vc:80/images/oP3TasnCKqSvGDv0sHLUhpioNVb_big.jpg" group-title="FILMES | 4K",Malévola: Dona do Mal 4K
-http://ppvx.xyz:80/movie/368729/368729/855704.mp4
-#EXTINF:-1 tvg-name="Malévola: Dona do Mal 4K [HDR]" tvg-logo="http://b5.vc:80/images/oP3TasnCKqSvGDv0sHLUhpioNVb_big.jpg" group-title="FILMES | 4K",Malévola: Dona do Mal 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855705.mp4
-#EXTINF:-1 tvg-name="Maquinas Mortais 4K" tvg-logo="http://b5.vc:80/images/sBdtAsZNVPMOOYcq8zh0XULqU9T_big.jpg" group-title="FILMES | 4K",Maquinas Mortais 4K
-http://ppvx.xyz:80/movie/368729/368729/855706.mp4
-#EXTINF:-1 tvg-name="Megatubarao 4K" tvg-logo="http://b5.vc:80/images/wrJkShDPK4TcV0nHix3HASEmkul_big.jpg" group-title="FILMES | 4K",Megatubarao 4K
-http://ppvx.xyz:80/movie/368729/368729/855707.mp4
-#EXTINF:-1 tvg-name="Mentiras Perigosas 4K" tvg-logo="http://b5.vc:80/images/3YDBuPDDIfxtYQpawlHjGL4hL8w_big.jpg" group-title="FILMES | 4K",Mentiras Perigosas 4K
-http://ppvx.xyz:80/movie/368729/368729/855708.mp4
-#EXTINF:-1 tvg-name="Meu Pai 4K [HDR]" tvg-logo="http://b5.vc:80/images/yDu3LhXfBdvgbvbJnahcGst73Ri_big.jpg" group-title="FILMES | 4K",Meu Pai 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855709.mp4
-#EXTINF:-1 tvg-name="MIB Homens de Preto Internacional 4K" tvg-logo="http://b5.vc:80/images/mxopI5VyShCeAlJf3X4Q1T40Bub_big.jpg" group-title="FILMES | 4K",MIB Homens de Preto Internacional 4K
-http://ppvx.xyz:80/movie/368729/368729/855710.mp4
-#EXTINF:-1 tvg-name="MIB Homens de Preto Internacional 4K [HDR]" tvg-logo="http://b5.vc:80/images/mxopI5VyShCeAlJf3X4Q1T40Bub_big.jpg" group-title="FILMES | 4K",MIB Homens de Preto Internacional 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855711.mp4
-#EXTINF:-1 tvg-name="Midway - Batalha em Alto Mar 4K [HDR]" tvg-logo="http://b5.vc:80/images/f2x8lIh0olfwqe5Jbwsw4Ojc5ie_big.jpg" group-title="FILMES | 4K",Midway - Batalha em Alto Mar 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855712.mp4
-#EXTINF:-1 tvg-name="Millenium A Garota na Teia de Aranha 4K" tvg-logo="http://b5.vc:80/images/gdOGc31t1DGEkiqPULVuFvTiXZn_big.jpg" group-title="FILMES | 4K",Millenium A Garota na Teia de Aranha 4K
-http://ppvx.xyz:80/movie/368729/368729/855713.mp4
-#EXTINF:-1 tvg-name="Missao Impossivel Fallout 4K" tvg-logo="http://b5.vc:80/images/kVv60GGRuh3kF6KI5Hn2T7QWWx0_big.jpg" group-title="FILMES | 4K",Missao Impossivel Fallout 4K
-http://ppvx.xyz:80/movie/368729/368729/855714.mp4
-#EXTINF:-1 tvg-name="Modo Avião 4K [HDR]" tvg-logo="http://b5.vc:80/images/hDZBhyl83F07syVhQ0q21NBZSCC_big.jpg" group-title="FILMES | 4K",Modo Avião 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855715.mp4
-#EXTINF:-1 tvg-name="Monster Hunter 4K" tvg-logo="http://b5.vc:80/images/2QhhILPAv7MKFd1q57ssQeEV2su_big.jpg" group-title="FILMES | 4K",Monster Hunter 4K
-http://ppvx.xyz:80/movie/368729/368729/855716.mp4
-#EXTINF:-1 tvg-name="Mortal Kombat 4K" tvg-logo="http://x00.so:80/images/ijvC2w2yANsfgLT3LMu2zFr0fxh_big.jpg" group-title="FILMES | 4K",Mortal Kombat 4K
-http://ppvx.xyz:80/movie/368729/368729/855717.mp4
-#EXTINF:-1 tvg-name="Mortal Kombat 4K [HDR]" tvg-logo="http://x00.so:80/images/ijvC2w2yANsfgLT3LMu2zFr0fxh_big.jpg" group-title="FILMES | 4K",Mortal Kombat 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855718.mp4
-#EXTINF:-1 tvg-name="Mulan 4K" tvg-logo="http://b5.vc:80/images/72I82eKXCadZWEYygV9GkJOQNEq_big.jpg" group-title="FILMES | 4K",Mulan 4K
-http://ppvx.xyz:80/movie/368729/368729/855719.mp4
-#EXTINF:-1 tvg-name="Mulher Maravilha 1984 4K [HDR]" tvg-logo="http://b5.vc:80/images/AweDlIiohqw4sjC7gCsPVd1zo77_big.jpg" group-title="FILMES | 4K",Mulher Maravilha 1984 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855720.mp4
-#EXTINF:-1 tvg-name="Mulher Maravilha 4K" tvg-logo="http://b5.vc:80/images/ujQthWB6c0ojlARk28NSTmqidbF_big.jpg" group-title="FILMES | 4K",Mulher Maravilha 4K
-http://ppvx.xyz:80/movie/368729/368729/855721.mp4
-#EXTINF:-1 tvg-name="Nasce uma Estrela 4K" tvg-logo="http://b5.vc:80/images/8SNAXrEBIt8U9eHiIdyCEqt7XME_big.jpg" group-title="FILMES | 4K",Nasce uma Estrela 4K
-http://ppvx.xyz:80/movie/368729/368729/855722.mp4
-#EXTINF:-1 tvg-name="No Olho do Furacao 4K" tvg-logo="http://b5.vc:80/images/wKugroGel7UUnM83Kcrn2afPTYB_big.jpg" group-title="FILMES | 4K",No Olho do Furacao 4K
-http://ppvx.xyz:80/movie/368729/368729/855723.mp4
-#EXTINF:-1 tvg-name="Nomadland 4K [HDR]" tvg-logo="http://b5.vc:80/images/jmFhRJ9ITiCdQIuU6EIQsClm5Hx_big.jpg" group-title="FILMES | 4K",Nomadland 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855724.mp4
-#EXTINF:-1 tvg-name="Nós 4K" tvg-logo="http://b5.vc:80/images/5ncjQfUDr0oRKnfpdAXobJFbnao_big.jpg" group-title="FILMES | 4K",Nós 4K
-http://ppvx.xyz:80/movie/368729/368729/855725.mp4
-#EXTINF:-1 tvg-name="O Banqueiro 4K [HDR]" tvg-logo="http://b5.vc:80/images/nwcHBtJBbL0ku0Lf3mpTHEwa69y_big.jpg" group-title="FILMES | 4K",O Banqueiro 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855726.mp4
-#EXTINF:-1 tvg-name="O Chamado da Floresta 4K" tvg-logo="http://b5.vc:80/images/1SIlV2p8355FAuKTGje9ZgtXujN_big.jpg" group-title="FILMES | 4K",O Chamado da Floresta 4K
-http://ppvx.xyz:80/movie/368729/368729/855727.mp4
-#EXTINF:-1 tvg-name="O Declínio 4K" tvg-logo="http://b5.vc:80/images/99Chy9sKuDqbav6rcjecCQI4Mzq_big.jpg" group-title="FILMES | 4K",O Declínio 4K
-http://ppvx.xyz:80/movie/368729/368729/855728.mp4
-#EXTINF:-1 tvg-name="O Exterminador do Futuro: Destino Sombrio 4K [HDR]" tvg-logo="http://b5.vc:80/images/3HsG5V6ZpKYgfwbFqXEYONbqtTt_big.jpg" group-title="FILMES | 4K",O Exterminador do Futuro: Destino Sombrio 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855729.mp4
-#EXTINF:-1 tvg-name="O Grande Ivan 4K [HDR]" tvg-logo="http://b5.vc:80/images/iLqOH0SSJ1hy3Y1POl5cr6H1RtL_big.jpg" group-title="FILMES | 4K",O Grande Ivan 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855730.mp4
-#EXTINF:-1 tvg-name="O Grande Mestre 4: A Batalha Final 4K" tvg-logo="http://b5.vc:80/images/7o7jvOGAIzu7nitHFGzoDjPqIJo_big.jpg" group-title="FILMES | 4K",O Grande Mestre 4: A Batalha Final 4K
-http://ppvx.xyz:80/movie/368729/368729/855731.mp4
-#EXTINF:-1 tvg-name="O Grinch 4K" tvg-logo="http://b5.vc:80/images/fDKfziciaKrdTzBZEnXH9tx6u2G_big.jpg" group-title="FILMES | 4K",O Grinch 4K
-http://ppvx.xyz:80/movie/368729/368729/855732.mp4
-#EXTINF:-1 tvg-name="O Homem Invisível 4K" tvg-logo="http://b5.vc:80/images/67gVCA33yHpFkFyqhDJrt21MvYI_big.jpg" group-title="FILMES | 4K",O Homem Invisível 4K
-http://ppvx.xyz:80/movie/368729/368729/855733.mp4
-#EXTINF:-1 tvg-name="O Mapa das Pequenas Coisas Perfeitas 4K [HDR]" tvg-logo="http://b5.vc:80/images/6y3ev0rJFbHA1hU22UPmmfzBjrG_big.jpg" group-title="FILMES | 4K",O Mapa das Pequenas Coisas Perfeitas 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855734.mp4
-#EXTINF:-1 tvg-name="O Menino que Queria Ser Rei 4K" tvg-logo="http://b5.vc:80/images/bu0BurnKgnobJoCEXUsHKxvlXd4_big.jpg" group-title="FILMES | 4K",O Menino que Queria Ser Rei 4K
-http://ppvx.xyz:80/movie/368729/368729/855735.mp4
-#EXTINF:-1 tvg-name="O Misterio do Relogio na Parede 4K" tvg-logo="http://b5.vc:80/images/nu63HA3CkIq245FphWi2zCObLVJ_big.jpg" group-title="FILMES | 4K",O Misterio do Relogio na Parede 4K
-http://ppvx.xyz:80/movie/368729/368729/855736.mp4
-#EXTINF:-1 tvg-name="O Primeiro Homem 4K" tvg-logo="http://b5.vc:80/images/bRQ0CKECt5B3aE8YqW9r6DvaxRY_big.jpg" group-title="FILMES | 4K",O Primeiro Homem 4K
-http://ppvx.xyz:80/movie/368729/368729/855737.mp4
-#EXTINF:-1 tvg-name="O Protetor 2 4K" tvg-logo="http://b5.vc:80/images/3arTw3WKvPAiaIq9gWORJjYFTC5_big.jpg" group-title="FILMES | 4K",O Protetor 2 4K
-http://ppvx.xyz:80/movie/368729/368729/855738.mp4
-#EXTINF:-1 tvg-name="O Quebra Nozes e os Quatro Reinos 4K" tvg-logo="http://b5.vc:80/images/qQziRQeYUIc9I3lVEcdwQJGy5dS_big.jpg" group-title="FILMES | 4K",O Quebra Nozes e os Quatro Reinos 4K
-http://ppvx.xyz:80/movie/368729/368729/855739.mp4
-#EXTINF:-1 tvg-name="O Rei Leão 4K" tvg-logo="http://b5.vc:80/images/wrHr8eEJYDAA7WYybyH162s4oZ4_big.jpg" group-title="FILMES | 4K",O Rei Leão 4K
-http://ppvx.xyz:80/movie/368729/368729/855740.mp4
-#EXTINF:-1 tvg-name="O Rei Leão 4K [HDR]" tvg-logo="http://b5.vc:80/images/wrHr8eEJYDAA7WYybyH162s4oZ4_big.jpg" group-title="FILMES | 4K",O Rei Leão 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855741.mp4
-#EXTINF:-1 tvg-name="O Retorno de Mary Poppins 4K" tvg-logo="http://b5.vc:80/images/8g1P4sxOitwFaf3UBeT8n4F5sBy_big.jpg" group-title="FILMES | 4K",O Retorno de Mary Poppins 4K
-http://ppvx.xyz:80/movie/368729/368729/855742.mp4
-#EXTINF:-1 tvg-name="O Som do Silencio 4K [HDR]" tvg-logo="http://b5.vc:80/images/gjKlQJlWtP61ZN4WKbcSVHzjqq8_big.jpg" group-title="FILMES | 4K",O Som do Silencio 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855743.mp4
-#EXTINF:-1 tvg-name="Os Croods 2: Uma Nova Era 4K [HDR]" tvg-logo="http://b5.vc:80/images/vRTScutueW9gLF3dSo2Za7o0v7n_big.jpg" group-title="FILMES | 4K",Os Croods 2: Uma Nova Era 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855744.mp4
-#EXTINF:-1 tvg-name="Os Novos Mutantes 4K" tvg-logo="http://b5.vc:80/images/6RcWaW43UWIJzhIp6bcmui2efd_big.jpg" group-title="FILMES | 4K",Os Novos Mutantes 4K
-http://ppvx.xyz:80/movie/368729/368729/855745.mp4
-#EXTINF:-1 tvg-name="Pantera Negra 4K" tvg-logo="http://b5.vc:80/images/2yQUnpc1BXgesJrfcdoRa6jTAnA_big.jpg" group-title="FILMES | 4K",Pantera Negra 4K
-http://ppvx.xyz:80/movie/368729/368729/855746.mp4
-#EXTINF:-1 tvg-name="Para Todos os Garotos: P.S. Ainda Amo Você 4K [HDR]" tvg-logo="http://b5.vc:80/images/cuEnmqQkp6lKkbMi4AAr0Yu3XOI_big.jpg" group-title="FILMES | 4K",Para Todos os Garotos: P.S. Ainda Amo Você 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855747.mp4
-#EXTINF:-1 tvg-name="Perdido em Marte 4K" tvg-logo="http://b5.vc:80/images/e6Uo3QAaUesiduyNX9hDLbaT9P8_big.jpg" group-title="FILMES | 4K",Perdido em Marte 4K
-http://ppvx.xyz:80/movie/368729/368729/855748.mp4
-#EXTINF:-1 tvg-name="Pinoquio 4K" tvg-logo="http://b5.vc:80/images/9EuGKjsYegO58RaMYWGvnurHo7u_big.jpg" group-title="FILMES | 4K",Pinoquio 4K
-http://ppvx.xyz:80/movie/368729/368729/855749.mp4
-#EXTINF:-1 tvg-name="Podres de Ricos 4K" tvg-logo="http://b5.vc:80/images/kYqS2lRNNAhSHpTWGMCHfBlzjTz_big.jpg" group-title="FILMES | 4K",Podres de Ricos 4K
-http://ppvx.xyz:80/movie/368729/368729/855750.mp4
-#EXTINF:-1 tvg-name="Podres de Ricos 4K [HDR]" tvg-logo="http://b5.vc:80/images/kYqS2lRNNAhSHpTWGMCHfBlzjTz_big.jpg" group-title="FILMES | 4K",Podres de Ricos 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855751.mp4
-#EXTINF:-1 tvg-name="Pokemon Detective Pikachu 4K" tvg-logo="http://b5.vc:80/images/lHwEhsUaB9D0gXO6M08H5tdb2Vx_big.jpg" group-title="FILMES | 4K",Pokemon Detective Pikachu 4K
-http://ppvx.xyz:80/movie/368729/368729/855752.mp4
-#EXTINF:-1 tvg-name="Polar 4K" tvg-logo="http://b5.vc:80/images/2btxGF270fxOeNJInRNnFtZGkAA_big.jpg" group-title="FILMES | 4K",Polar 4K
-http://ppvx.xyz:80/movie/368729/368729/855753.mp4
-#EXTINF:-1 tvg-name="Projeto Gemini 4K" tvg-logo="http://b5.vc:80/images/io4qQplxQPBb6FbG8H0R9Mlleh9_big.jpg" group-title="FILMES | 4K",Projeto Gemini 4K
-http://ppvx.xyz:80/movie/368729/368729/855754.mp4
-#EXTINF:-1 tvg-name="Projeto Gemini 4K [HDR]" tvg-logo="http://b5.vc:80/images/io4qQplxQPBb6FbG8H0R9Mlleh9_big.jpg" group-title="FILMES | 4K",Projeto Gemini 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855755.mp4
-#EXTINF:-1 tvg-name="Rampage - Destruicao Total 4K" tvg-logo="http://b5.vc:80/images/yeRW8JhHqQznEdOUe97dLWnyeEq_big.jpg" group-title="FILMES | 4K",Rampage - Destruicao Total 4K
-http://ppvx.xyz:80/movie/368729/368729/855756.mp4
-#EXTINF:-1 tvg-name="Raya E O Ultimo Dragao 4K [HDR]" tvg-logo="http://b5.vc:80/images/yXrb84zJidCefyhTWHwo4yCDvwz_big.jpg" group-title="FILMES | 4K",Raya E O Ultimo Dragao 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855757.mp4
-#EXTINF:-1 tvg-name="Robin Hood - A Origem 4K" tvg-logo="http://b5.vc:80/images/aGkgDTOfgiXUIWC52tjFUZnzrWZ_big.jpg" group-title="FILMES | 4K",Robin Hood - A Origem 4K
-http://ppvx.xyz:80/movie/368729/368729/855758.mp4
-#EXTINF:-1 tvg-name="Rogai Por Nos 4K" tvg-logo="http://x00.so:80/images/zduyzcjyahZtP4fGZE6789h04IM_big.jpg" group-title="FILMES | 4K",Rogai Por Nos 4K
-http://ppvx.xyz:80/movie/368729/368729/855759.mp4
-#EXTINF:-1 tvg-name="Sem Remorso 4k [HDR]" tvg-logo="http://b5.vc:80/images/uHEZ4ZMziIjlAgCTQAEh9ROvtj0_big.jpg" group-title="FILMES | 4K",Sem Remorso 4k [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855760.mp4
-#EXTINF:-1 tvg-name="Shazam! 4K" tvg-logo="http://b5.vc:80/images/b5jbUHQ7DRHYbbKFR40d2kyr2zV_big.jpg" group-title="FILMES | 4K",Shazam! 4K
-http://ppvx.xyz:80/movie/368729/368729/855761.mp4
-#EXTINF:-1 tvg-name="Sonic: O Filme 4K [HDR]" tvg-logo="http://b5.vc:80/images/Kt9iFdTu5TbAm7tNfc876mrWU_big.jpg" group-title="FILMES | 4K",Sonic: O Filme 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855762.mp4
-#EXTINF:-1 tvg-name="Star Wars: A Ascensão Skywalker 4K [HDR]" tvg-logo="http://b5.vc:80/images/lFx2i2pg1BoaD7grcpGDyHM1eML_big.jpg" group-title="FILMES | 4K",Star Wars: A Ascensão Skywalker 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855763.mp4
-#EXTINF:-1 tvg-name="Superacao O Milagre Da Fe 4K" tvg-logo="http://b5.vc:80/images/qNrL1DAHxLA5Bh5sc2xMWJ1pHa8_big.jpg" group-title="FILMES | 4K",Superacao O Milagre Da Fe 4K
-http://ppvx.xyz:80/movie/368729/368729/855764.mp4
-#EXTINF:-1 tvg-name="Te Peguei! 4K" tvg-logo="http://b5.vc:80/images/3h6I8EZkN8W8RkYekuJiOcA3XDv_big.jpg" group-title="FILMES | 4K",Te Peguei! 4K
-http://ppvx.xyz:80/movie/368729/368729/855765.mp4
-#EXTINF:-1 tvg-name="Tenet 4K [HDR]" tvg-logo="http://b5.vc:80/images/k68nPLbIST6NP96JmTxmZijEvCA_big.jpg" group-title="FILMES | 4K",Tenet 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855766.mp4
-#EXTINF:-1 tvg-name="Thor - Ragnarok 4K" tvg-logo="http://b5.vc:80/images/bLpIFiuWF1bKnBqi7LqnJcLHtN_big.jpg" group-title="FILMES | 4K",Thor - Ragnarok 4K
-http://ppvx.xyz:80/movie/368729/368729/855767.mp4
-#EXTINF:-1 tvg-name="Tio Frank 4K [HDR]" tvg-logo="http://b5.vc:80/images/m9I86XRiuRdZnc4tcgsA8UArpnN_big.jpg" group-title="FILMES | 4K",Tio Frank 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855768.mp4
-#EXTINF:-1 tvg-name="Titanic 4K" tvg-logo="http://b5.vc:80/images/9xjZS2rlVxm8SFx8kPC3aIGCOYQ_big.jpg" group-title="FILMES | 4K",Titanic 4K
-http://ppvx.xyz:80/movie/368729/368729/855769.mp4
-#EXTINF:-1 tvg-name="Togo 4K [HDR]" tvg-logo="http://b5.vc:80/images/tCCgIgIqNHZCxKgZKTqv1LzxuwI_big.jpg" group-title="FILMES | 4K",Togo 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855770.mp4
-#EXTINF:-1 tvg-name="Tom & Jerry - O Filme 4K" tvg-logo="http://b5.vc:80/images/6KErczPBROQty7QoIsaa6wJYXZi_big.jpg" group-title="FILMES | 4K",Tom & Jerry - O Filme 4K
-http://ppvx.xyz:80/movie/368729/368729/855771.mp4
-#EXTINF:-1 tvg-name="Tomb Raider A Origem 4K" tvg-logo="http://b5.vc:80/images/2JTe4APybNY7mwgylREe1KjIbB6_big.jpg" group-title="FILMES | 4K",Tomb Raider A Origem 4K
-http://ppvx.xyz:80/movie/368729/368729/855772.mp4
-#EXTINF:-1 tvg-name="Toy Story 4 4K" tvg-logo="http://b5.vc:80/images/tfUoNkDptfQbNS0z1jFnd5sEEc7_big.jpg" group-title="FILMES | 4K",Toy Story 4 4K
-http://ppvx.xyz:80/movie/368729/368729/855773.mp4
-#EXTINF:-1 tvg-name="Transformers: O Último Cavaleiro 4K" tvg-logo="http://b5.vc:80/images/7FhfQhH1Qppc9Xlyiglj75QQSKx_big.jpg" group-title="FILMES | 4K",Transformers: O Último Cavaleiro 4K
-http://ppvx.xyz:80/movie/368729/368729/855774.mp4
-#EXTINF:-1 tvg-name="Trolls 2 4K" tvg-logo="http://b5.vc:80/images/4aOyZTiybSidipdjtv7xpeO4TZp_big.jpg" group-title="FILMES | 4K",Trolls 2 4K
-http://ppvx.xyz:80/movie/368729/368729/855775.mp4
-#EXTINF:-1 tvg-name="Um Espião Animal 4K" tvg-logo="http://b5.vc:80/images/aAOKVhTESY4tMqjDPn3KW4ugnFn_big.jpg" group-title="FILMES | 4K",Um Espião Animal 4K
-http://ppvx.xyz:80/movie/368729/368729/855776.mp4
-#EXTINF:-1 tvg-name="Um Lindo Dia na Vizinhança 4K [HDR]" tvg-logo="http://b5.vc:80/images/qenbW0aWvW8bxNb0XVDPeIUwFVu_big.jpg" group-title="FILMES | 4K",Um Lindo Dia na Vizinhança 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855777.mp4
-#EXTINF:-1 tvg-name="Um Lugar Silencioso - Parte II 4K [HDR]" tvg-logo="http://b5.vc:80/images/ac5e928ca0f1a7a59ca4dc113e001dab.jpg" group-title="FILMES | 4K",Um Lugar Silencioso - Parte II 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/861085.mp4
-#EXTINF:-1 tvg-name="Um Lugar Silencioso 4K [HDR]" tvg-logo="http://b5.vc:80/images/jk1LYcbiuUr0tv37cVcmp4u9KcN_big.jpg" group-title="FILMES | 4K",Um Lugar Silencioso 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855778.mp4
-#EXTINF:-1 tvg-name="Um Principe Em Nova York 2 4K [HDR]" tvg-logo="http://b5.vc:80/images/mpXRG5zPUT18IeYvCoC4zOscked_big.jpg" group-title="FILMES | 4K",Um Principe Em Nova York 2 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855779.mp4
-#EXTINF:-1 tvg-name="Uma Gota de Esperanca 4k" tvg-logo="http://b5.vc:80/images/43PfIx3oQVsVJIQM6pdCBKTyBNu_big.jpg" group-title="FILMES | 4K",Uma Gota de Esperanca 4k
-http://ppvx.xyz:80/movie/368729/368729/855780.mp4
-#EXTINF:-1 tvg-name="Valerian E A Cidade Dos Mil Planetas 4K" tvg-logo="http://b5.vc:80/images/x69DC2NnchOhNykhbkjgpuqC2SD_big.jpg" group-title="FILMES | 4K",Valerian E A Cidade Dos Mil Planetas 4K
-http://ppvx.xyz:80/movie/368729/368729/855782.mp4
-#EXTINF:-1 tvg-name="Valerian e a Cidade dos Mil Planetas 4K [HDR]" tvg-logo="http://b5.vc:80/images/x69DC2NnchOhNykhbkjgpuqC2SD_big.jpg" group-title="FILMES | 4K",Valerian e a Cidade dos Mil Planetas 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855781.mp4
-#EXTINF:-1 tvg-name="Velozes & Furiosos: Hobbs & Shaw 4K" tvg-logo="http://b5.vc:80/images/mKRiLf2SCU9ySjByMLMxKYs5c1i_big.jpg" group-title="FILMES | 4K",Velozes & Furiosos: Hobbs & Shaw 4K
-http://ppvx.xyz:80/movie/368729/368729/855783.mp4
-#EXTINF:-1 tvg-name="Velozes & Furiosos: Hobbs & Shaw 4K [HDR]" tvg-logo="http://b5.vc:80/images/mKRiLf2SCU9ySjByMLMxKYs5c1i_big.jpg" group-title="FILMES | 4K",Velozes & Furiosos: Hobbs & Shaw 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855784.mp4
-#EXTINF:-1 tvg-name="Venom 4K" tvg-logo="http://b5.vc:80/images/qZK4LSj7crL6RNGUfD1LSJioA4u_big.jpg" group-title="FILMES | 4K",Venom 4K
-http://ppvx.xyz:80/movie/368729/368729/855785.mp4
-#EXTINF:-1 tvg-name="Vida 4K" tvg-logo="http://b5.vc:80/images/lMBgCt24cKziPOsPF2jHi1BCBjL_big.jpg" group-title="FILMES | 4K",Vida 4K
-http://ppvx.xyz:80/movie/368729/368729/855786.mp4
-#EXTINF:-1 tvg-name="Vidro 4K" tvg-logo="http://b5.vc:80/images/d8rvXqqZ3hzrWfFGS47jU7sCx69_big.jpg" group-title="FILMES | 4K",Vidro 4K
-http://ppvx.xyz:80/movie/368729/368729/855787.mp4
-#EXTINF:-1 tvg-name="Vingadores - Guerra Infinita 4K" tvg-logo="http://b5.vc:80/images/89QTZmn34iwXYeCpVxhC9UrT8sX_big.jpg" group-title="FILMES | 4K",Vingadores - Guerra Infinita 4K
-http://ppvx.xyz:80/movie/368729/368729/855788.mp4
-#EXTINF:-1 tvg-name="Vingadores Ultimato 4K" tvg-logo="http://b5.vc:80/images/q6725aR8Zs4IwGMXzZT8aC8lh41_big.jpg" group-title="FILMES | 4K",Vingadores Ultimato 4K
-http://ppvx.xyz:80/movie/368729/368729/855789.mp4
-#EXTINF:-1 tvg-name="Vingadores Ultimato 4K [HDR]" tvg-logo="http://b5.vc:80/images/q6725aR8Zs4IwGMXzZT8aC8lh41_big.jpg" group-title="FILMES | 4K",Vingadores Ultimato 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855790.mp4
-#EXTINF:-1 tvg-name="Viuva Negra 4K [HDR]" tvg-logo="http://b5.vc:80/images/7bdc3c182b457c05bd204b5bb6e9968f.jpg" group-title="FILMES | 4K",Viuva Negra 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/861086.mp4
-#EXTINF:-1 tvg-name="White Boy Rick 4K" tvg-logo="http://b5.vc:80/images/tIyqAObXHVHpJmbpun95d5iYlMx_big.jpg" group-title="FILMES | 4K",White Boy Rick 4K
-http://ppvx.xyz:80/movie/368729/368729/855791.mp4
-#EXTINF:-1 tvg-name="Wifi Ralph - Quebrando a Internet 4K" tvg-logo="http://b5.vc:80/images/8aaXBBT5Hwo7Oab8wyNyoN7z7mg_big.jpg" group-title="FILMES | 4K",Wifi Ralph - Quebrando a Internet 4K
-http://ppvx.xyz:80/movie/368729/368729/855792.mp4
-#EXTINF:-1 tvg-name="Wolverine: Imortal 4K" tvg-logo="http://b5.vc:80/images/wCP2JfaRFdrFjxiXTUdNnfvyJ2K_big.jpg" group-title="FILMES | 4K",Wolverine: Imortal 4K
-http://ppvx.xyz:80/movie/368729/368729/855793.mp4
-#EXTINF:-1 tvg-name="X Men Fenix Negra 4K" tvg-logo="http://b5.vc:80/images/sKacZh7L9qR5jLpSnxgxung6D4Y_big.jpg" group-title="FILMES | 4K",X Men Fenix Negra 4K
-http://ppvx.xyz:80/movie/368729/368729/855794.mp4
-#EXTINF:-1 tvg-name="X Men Fenix Negra 4K [HDR]" tvg-logo="http://b5.vc:80/images/sKacZh7L9qR5jLpSnxgxung6D4Y_big.jpg" group-title="FILMES | 4K",X Men Fenix Negra 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855795.mp4
-#EXTINF:-1 tvg-name="X-Men 2 4K" tvg-logo="http://b5.vc:80/images/bWMw0FMsY8DICgrQnrTSWbzEgtr_big.jpg" group-title="FILMES | 4K",X-Men 2 4K
-http://ppvx.xyz:80/movie/368729/368729/855796.mp4
-#EXTINF:-1 tvg-name="X-Men: Apocalipse 4K" tvg-logo="http://b5.vc:80/images/a6OjCxF8DW9huIdAPshWJpO0ldx_big.jpg" group-title="FILMES | 4K",X-Men: Apocalipse 4K
-http://ppvx.xyz:80/movie/368729/368729/855797.mp4
-#EXTINF:-1 tvg-name="X-Men: Dias de um Futuro Esquecido 4K" tvg-logo="http://b5.vc:80/images/bUm0nSsTA6kfFfZHgNbNFisVe7M_big.jpg" group-title="FILMES | 4K",X-Men: Dias de um Futuro Esquecido 4K
-http://ppvx.xyz:80/movie/368729/368729/855798.mp4
-#EXTINF:-1 tvg-name="X-Men: Fênix Negra 4K" tvg-logo="http://b5.vc:80/images/sKacZh7L9qR5jLpSnxgxung6D4Y_big.jpg" group-title="FILMES | 4K",X-Men: Fênix Negra 4K
-http://ppvx.xyz:80/movie/368729/368729/855799.mp4
-#EXTINF:-1 tvg-name="X-Men: O Confronto Final 4K" tvg-logo="http://b5.vc:80/images/qdWxPZ1LWNJKSGTegI3q4RYhIHb_big.jpg" group-title="FILMES | 4K",X-Men: O Confronto Final 4K
-http://ppvx.xyz:80/movie/368729/368729/855800.mp4
-#EXTINF:-1 tvg-name="X-Men: O Filme 4K" tvg-logo="http://b5.vc:80/images/eTAK1gU8vTaHt0W9I6PFYQsdhKP_big.jpg" group-title="FILMES | 4K",X-Men: O Filme 4K
-http://ppvx.xyz:80/movie/368729/368729/855801.mp4
-#EXTINF:-1 tvg-name="X-Men: Primeira Classe 4K" tvg-logo="http://b5.vc:80/images/4cZWMQUCAYaQk5CzUI6zRLhcWI2_big.jpg" group-title="FILMES | 4K",X-Men: Primeira Classe 4K
-http://ppvx.xyz:80/movie/368729/368729/855802.mp4
-#EXTINF:-1 tvg-name="Zumbilandia Atire Duas Vezes 4K [HDR]" tvg-logo="http://b5.vc:80/images/x8T7xy6usNhTWphfQTH7vmr4tOC_big.jpg" group-title="FILMES | 4K",Zumbilandia Atire Duas Vezes 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/855803.mp4
-#EXTINF:-1 tvg-name="Zumbilândia: Atire Duas Vezes 4K" tvg-logo="http://b5.vc:80/images/x8T7xy6usNhTWphfQTH7vmr4tOC_big.jpg" group-title="FILMES | 4K",Zumbilândia: Atire Duas Vezes 4K
-http://ppvx.xyz:80/movie/368729/368729/855804.mp4
-#EXTINF:-1 tvg-name="Caminhos da Memória 4K [HDR]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aef6dMfVJ5eVogGQbvtaKDcB43K.jpg" group-title="FILMES | 4K",Caminhos da Memória 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/879313.mp4
-#EXTINF:-1 tvg-name="A Barraca do Beijo 3 4K" tvg-logo="http://cdn99.one:80/images/1a280865f92fd0e6507d76ff92a65017.jpg" group-title="FILMES | 4K",A Barraca do Beijo 3 4K
-http://ppvx.xyz:80/movie/368729/368729/862590.mp4
-#EXTINF:-1 tvg-name="Bela Vingança 4K [HDR]" tvg-logo="http://cdn99.one:80/images/2d38249e7b91dc67a709262fcfdaf8d6.jpg" group-title="FILMES | 4K",Bela Vingança 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/862501.mp4
-#EXTINF:-1 tvg-name="Infinito 4K [HDR]" tvg-logo="http://cdn99.one:80/images/e16afb01e31ae7b1afdf6778c095905f.jpg" group-title="FILMES | 4K",Infinito 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/862538.mp4
-#EXTINF:-1 tvg-name="Jungle Cruise 4K [HDR]" tvg-logo="http://x00.so:80/images/8943953efd6b5c92ec4151baab2d4074.jpg" group-title="FILMES | 4K",Jungle Cruise 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/861726.mp4
-#EXTINF:-1 tvg-name="Mundo em Caos 4K" tvg-logo="http://x00.so:80/images/b3ddcc8957d42949d758cf84ee3b911c.jpg" group-title="FILMES | 4K",Mundo em Caos 4K
-http://ppvx.xyz:80/movie/368729/368729/861724.mp4
-#EXTINF:-1 tvg-name="No Ritmo do Coração 4K [HDR]" tvg-logo="http://cdn99.one:80/images/e21fdb53a111a0df2c54b4eed89203c0.jpg" group-title="FILMES | 4K",No Ritmo do Coração 4K [HDR]
-http://ppvx.xyz:80/movie/368729/368729/862580.mp4
-#EXTINF:-1 tvg-name="Pânico em Casa 4K" tvg-logo="http://cdn99.one:80/images/89990b3e0e60c2af151e9e6fad32242f.jpg" group-title="FILMES | 4K",Pânico em Casa 4K
-http://ppvx.xyz:80/movie/368729/368729/862508.mp4
-#EXTINF:-1 tvg-name="Space Jam: Um Novo Legado 4K" tvg-logo="http://x00.so:80/images/1de20a1ad639c1b95c5c5420b114c6cd.jpg" group-title="FILMES | 4K",Space Jam: Um Novo Legado 4K
-http://ppvx.xyz:80/movie/368729/368729/861686.mp4
-#EXTINF:-1 tvg-name="Velozes & Furiosos 9 4K" tvg-logo="http://cdn99.one:80/images/972692a4147ad649727e8e266a710832.jpg" group-title="FILMES | 4K",Velozes & Furiosos 9 4K
-http://ppvx.xyz:80/movie/368729/368729/862498.mp4
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD²" tvg-logo="http://img.appino.tv/img/aande.png" group-title="Filmes / Séries",A&E HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42904
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD¹" tvg-logo="http://img.appino.tv/img/aande.png" group-title="Filmes / Séries",A&E HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/527
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD²" tvg-logo="http://img.appino.tv/img/amchd.png" group-title="Filmes / Séries",AMC HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42906
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD¹" tvg-logo="http://img.appino.tv/img/amchd.png" group-title="Filmes / Séries",AMC HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/523
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET HD²" tvg-logo="http://img.appino.tv/img/animalplanethd.png" group-title="Documentários",ANIMAL PLANET HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42847
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET HD¹" tvg-logo="http://img.appino.tv/img/animalplanethd.png" group-title="Documentários",ANIMAL PLANET HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/519
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE 1 HD²" tvg-logo="http://img.appino.tv/img/arte1.png" group-title="Variedades | Músicas",ARTE 1 HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43009
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE 1 HD¹" tvg-logo="http://img.appino.tv/img/arte1.png" group-title="Variedades | Músicas",ARTE 1 HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/22825
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD²" tvg-logo="http://img.appino.tv/img/axn1.png" group-title="Filmes / Séries",AXN HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42908
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD¹" tvg-logo="http://img.appino.tv/img/axn1.png" group-title="Filmes / Séries",AXN HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/512
+#EXTINF:-1 tvg-id="babytv.br" tvg-name="BABY TV HD²" tvg-logo="http://img.appino.tv/img/babytv.png" group-title="Kids",BABY TV HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42974
+#EXTINF:-1 tvg-id="babytv.br" tvg-name="BABY TV HD¹" tvg-logo="http://img.appino.tv/img/babytv.png" group-title="Kids",BABY TV HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/510
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND CAMPINAS HD" tvg-logo="http://img.appino.tv/img/tvbandeirantes.png" group-title="Canais Abertos",BAND CAMPINAS HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/508
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND HD" tvg-logo="http://img.appino.tv/img/tvbandeirantes.png" group-title="Canais Abertos",BAND HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/504
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS HD²" tvg-logo="http://img.appino.tv/img/bandnews.png" group-title="Notícias",BAND NEWS HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43003
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS HD¹" tvg-logo="http://img.appino.tv/img/bandnews.png" group-title="Notícias",BAND NEWS HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/502
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="http://img.appino.tv/img/bandeirantes.png" group-title="Canais Abertos",BAND SP HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/499
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD²" tvg-logo="http://img.appino.tv/img/bandsports.png" group-title="Esportes",BAND SPORTS HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42872
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS HD¹" tvg-logo="http://img.appino.tv/img/bandsports.png" group-title="Esportes",BAND SPORTS HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/497
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD²" tvg-logo="http://img.appino.tv/img/bishd.png" group-title="Variedades | Músicas",BIS HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43011
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD¹" tvg-logo="http://img.appino.tv/img/bishd.png" group-title="Variedades | Músicas",BIS HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/494
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="http://img.appino.tv/img/boomerang.png" group-title="Kids",BOOMERANG HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42976
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG HD¹" tvg-logo="http://img.appino.tv/img/boomerang.png" group-title="Kids",BOOMERANG HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/489
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL HD²" tvg-logo="http://img.appino.tv/img/canalbrasil.png" group-title="Filmes / Séries",CANAL BRASIL HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42910
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL HD¹" tvg-logo="http://img.appino.tv/img/canalbrasil.png" group-title="Filmes / Séries",CANAL BRASIL HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/487
+#EXTINF:-1 tvg-id="TV Canção Nova" tvg-name="CANCAO NOVA HD" tvg-logo="http://img.appino.tv/img/cancaonova.png" group-title="Religioso",CANCAO NOVA HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/480
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK HD²" tvg-logo="http://img.appino.tv/img/cartoonnetwork.png" group-title="Kids",CARTOON NETWORK HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42978
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK HD¹" tvg-logo="http://img.appino.tv/img/cartoonnetwork.png" group-title="Kids",CARTOON NETWORK HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/476
+#EXTINF:-1 tvg-id="cheftv.br" tvg-name="CHEF TV HD²" tvg-logo="http://img.appino.tv/img/cheftv.png" group-title="Variedades | Músicas",CHEF TV HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43013
+#EXTINF:-1 tvg-id="cheftv.br" tvg-name="CHEF TV HD¹" tvg-logo="http://img.appino.tv/img/cheftv.png" group-title="Variedades | Músicas",CHEF TV HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/24255
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 HD" tvg-logo="http://img.appino.tv/img/cineSky.png" group-title="Filmes / Séries",CINE SKY 01 HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29897
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02 HD" tvg-logo="http://img.appino.tv/img/cineSky.png" group-title="Filmes / Séries",CINE SKY 02 HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29898
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03 HD" tvg-logo="http://img.appino.tv/img/cineSky.png" group-title="Filmes / Séries",CINE SKY 03 HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29899
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04 HD" tvg-logo="http://img.appino.tv/img/cineSky.png" group-title="Filmes / Séries",CINE SKY 04 HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29900
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05 HD" tvg-logo="http://img.appino.tv/img/cineSky.png" group-title="Filmes / Séries",CINE SKY 05 HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29901
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06 HD" tvg-logo="http://img.appino.tv/img/cineSky.png" group-title="Filmes / Séries",CINE SKY 06 HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29902
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07 HD" tvg-logo="http://img.appino.tv/img/cineSky.png" group-title="Filmes / Séries",CINE SKY 07 HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29903
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08 HD" tvg-logo="http://img.appino.tv/img/cineSky.png" group-title="Filmes / Séries",CINE SKY 08 HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29904
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09 HD" tvg-logo="http://img.appino.tv/img/cineSky.png" group-title="Filmes / Séries",CINE SKY 09 HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29905
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10 HD" tvg-logo="http://img.appino.tv/img/cineSky.png" group-title="Filmes / Séries",CINE SKY 10 HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29906
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX HD²" tvg-logo="http://img.appino.tv/img/cinemax.png" group-title="Filmes / Séries",CINEMAX HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42912
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="CINEMAX HD¹" tvg-logo="http://img.appino.tv/img/cinemax.png" group-title="Filmes / Séries",CINEMAX HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/466
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN BRASIL HD²" tvg-logo="http://img.appino.tv/img/cnnBrasil.png" group-title="Notícias",CNN BRASIL HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43005
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN BRASIL HD¹" tvg-logo="http://img.appino.tv/img/cnnBrasil.png" group-title="Notícias",CNN BRASIL HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/23633
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD²" tvg-logo="http://img.appino.tv/img/combate.png" group-title="Esportes",COMBATE HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42874
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE HD¹" tvg-logo="http://img.appino.tv/img/combate.png" group-title="Esportes",COMBATE HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/460
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL HD²" tvg-logo="http://img.appino.tv/img/comedycentral.png" group-title="Comédia",COMEDY CENTRAL HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42845
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL HD¹" tvg-logo="http://img.appino.tv/img/comedycentral.png" group-title="Comédia",COMEDY CENTRAL HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/457
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 01 HD" tvg-logo="" group-title="Esportes PPV",CONMEBOL 01 HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40259
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 02 HD" tvg-logo="" group-title="Esportes PPV",CONMEBOL 02 HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40260
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 03 HD" tvg-logo="" group-title="Esportes PPV",CONMEBOL 03 HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40261
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 04 HD" tvg-logo="" group-title="Esportes PPV",CONMEBOL 04 HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40262
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE #01" tvg-logo="https://livefc.tv/vendor/template-livefc/images/logo.png" group-title="Esportes PPV",COPA DO NORDESTE #01
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/32908
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE #02" tvg-logo="https://livefc.tv/vendor/template-livefc/images/logo.png" group-title="Esportes PPV",COPA DO NORDESTE #02
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/32909
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE #03" tvg-logo="https://livefc.tv/vendor/template-livefc/images/logo.png" group-title="Esportes PPV",COPA DO NORDESTE #03
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/32910
+#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE #04" tvg-logo="https://livefc.tv/vendor/template-livefc/images/logo.png" group-title="Esportes PPV",COPA DO NORDESTE #04
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/32911
+#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA! HD²" tvg-logo="http://img.appino.tv/img/curta.png" group-title="Variedades | Músicas",CURTA! HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43015
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL HD²" tvg-logo="http://img.appino.tv/img/discovery.png" group-title="Documentários",DISCOVERY CHANNEL HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42849
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL HD¹" tvg-logo="http://img.appino.tv/img/discovery.png" group-title="Documentários",DISCOVERY CHANNEL HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/452
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DISCOVERY H&H HD¹" tvg-logo="http://img.appino.tv/img/discoveryhomeandhealth.png" group-title="Documentários",DISCOVERY H&H HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/445
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS HD²" tvg-logo="http://img.appino.tv/img/discoverykids.png" group-title="Kids",DISCOVERY KIDS HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42980
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS HD¹" tvg-logo="http://img.appino.tv/img/discoverykids.png" group-title="Kids",DISCOVERY KIDS HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/441
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE HD²" tvg-logo="http://img.appino.tv/img/discoveryscience.png" group-title="Documentários",DISCOVERY SCIENCE HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42853
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE HD¹" tvg-logo="http://img.appino.tv/img/discoveryscience.png" group-title="Documentários",DISCOVERY SCIENCE HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/437
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER HD²" tvg-logo="http://img.appino.tv/img/discoverytheaterhd.png" group-title="Documentários",DISCOVERY THEATER HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42854
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER HD¹" tvg-logo="http://img.appino.tv/img/discoverytheaterhd.png" group-title="Documentários",DISCOVERY THEATER HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/435
+#EXTINF:-1 tvg-id="Playboy TV" tvg-name="Discovery Theather FHD Legendado" tvg-logo="http://img.appino.tv/img/discoverytheaterhd.png" group-title="Legendado",Discovery Theather FHD Legendado
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39023
+#EXTINF:-1 tvg-id="Playboy TV" tvg-name="Discovery Theather HD Legendado" tvg-logo="http://img.appino.tv/img/discoverytheaterhd.png" group-title="Legendado",Discovery Theather HD Legendado
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39022
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO HD²" tvg-logo="http://img.appino.tv/img/discoveryturbo.png" group-title="Documentários",DISCOVERY TURBO HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42855
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO HD¹" tvg-logo="http://img.appino.tv/img/discoveryturbo.png" group-title="Documentários",DISCOVERY TURBO HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/432
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD HD²" tvg-logo="http://img.appino.tv/img/discoveryworldhd.png" group-title="Documentários",DISCOVERY WORLD HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42857
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD HD¹" tvg-logo="http://img.appino.tv/img/discoveryworldhd.png" group-title="Documentários",DISCOVERY WORLD HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/429
+#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL HD²" tvg-logo="http://img.appino.tv/img/disney.png" group-title="Kids",DISNEY CHANNEL HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42982
+#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL HD¹" tvg-logo="http://img.appino.tv/img/disney.png" group-title="Kids",DISNEY CHANNEL HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/426
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="DISNEY JUNIOR HD²" tvg-logo="http://img.appino.tv/img/disneyjunior.png" group-title="Kids",DISNEY JUNIOR HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42984
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="DISNEY JUNIOR HD¹" tvg-logo="http://img.appino.tv/img/disneyjunior.png" group-title="Kids",DISNEY JUNIOR HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/422
+#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="DISNEY XD HD²" tvg-logo="http://img.appino.tv/img/disneyxd.png" group-title="Kids",DISNEY XD HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42986
+#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="DISNEY XD HD¹" tvg-logo="http://img.appino.tv/img/disneyxd.png" group-title="Kids",DISNEY XD HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/420
+#EXTINF:-1 tvg-id="dogtv.br" tvg-name="DOG TV HD²" tvg-logo="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1397191422/a83bc45aebdd2f8af1e8887acd152e60.png" group-title="Variedades | Músicas",DOG TV HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40375
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! HD²" tvg-logo="http://img.appino.tv/img/e!.png" group-title="Variedades | Músicas",E! HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43016
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! HD¹" tvg-logo="http://img.appino.tv/img/e!.png" group-title="Variedades | Músicas",E! HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/417
+#EXTINF:-1 tvg-id="ESPN 2 FHD H.265" tvg-name="ESPN 2 HD²" tvg-logo="http://img.appino.tv/img/espn2.png" group-title="Esportes",ESPN 2 HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42876
+#EXTINF:-1 tvg-id="ESPN 2 FHD H.265" tvg-name="ESPN 2 HD¹" tvg-logo="http://img.appino.tv/img/espn2.png" group-title="Esportes",ESPN 2 HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/410
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN BRASIL HD²" tvg-logo="http://img.appino.tv/img/espnbrasil.png" group-title="Esportes",ESPN BRASIL HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42878
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN BRASIL HD¹" tvg-logo="http://img.appino.tv/img/espnbrasil.png" group-title="Esportes",ESPN BRASIL HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/407
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN EXTRA HD²" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/129X55_IMG_cnh_esp_ESPNExtra.png" group-title="Esportes",ESPN EXTRA HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42880
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN EXTRA HD¹" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/129X55_IMG_cnh_esp_ESPNExtra.png/6be6d1e3-9c64-7929-983e-1bf6cda11ec9?t=1521052408940" group-title="Esportes",ESPN EXTRA HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/403
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD²" tvg-logo="http://img.appino.tv/img/espn.png" group-title="Esportes",ESPN HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42882
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD¹" tvg-logo="http://img.appino.tv/img/espn.png" group-title="Esportes",ESPN HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/399
+#EXTINF:-1 tvg-id="fashiontv.br" tvg-name="FashionTV HD²" tvg-logo="http://img.appino.tv/img/fashiontv.png" group-title="Variedades | Músicas",FashionTV HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43018
+#EXTINF:-1 tvg-id="fashiontv.br" tvg-name="FashionTV HD¹" tvg-logo="http://img.appino.tv/img/fashiontv.png" group-title="Variedades | Músicas",FashionTV HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29955
+#EXTINF:-1 tvg-id="FISH TV" tvg-name="FISH TV HD" tvg-logo="http://img.appino.tv/img/fishtv.png" group-title="Esportes",FISH TV HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29896
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK HD²" tvg-logo="http://img.appino.tv/img/foodnetworkhd.png" group-title="Variedades | Músicas",FOOD NETWORK HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43019
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK HD¹" tvg-logo="http://img.appino.tv/img/foodnetworkhd.png" group-title="Variedades | Músicas",FOOD NETWORK HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/393
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX HD²" tvg-logo="http://img.appino.tv/img/fox.png" group-title="Filmes / Séries",FOX HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42914
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX HD¹" tvg-logo="http://img.appino.tv/img/fox.png" group-title="Filmes / Séries",FOX HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/389
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="FOX LIFE HD²" tvg-logo="http://img.appino.tv/img/foxlife.png" group-title="Filmes / Séries",FOX LIFE HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42916
+#EXTINF:-1 tvg-id="Fox Life HD" tvg-name="FOX LIFE HD¹" tvg-logo="http://img.appino.tv/img/foxlife.png" group-title="Filmes / Séries",FOX LIFE HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/386
+#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="FOX PREMIUM 1 HDD LEGENDADO" tvg-logo="http://img.appino.tv/img/foxp1.png" group-title="Legendado",FOX PREMIUM 1 HDD LEGENDADO
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39021
+#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="FOX PREMIUM 1 HD²" tvg-logo="http://img.appino.tv/img/foxp1.png" group-title="Filmes / Séries",FOX PREMIUM 1 HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42918
+#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="FOX PREMIUM 1 HD¹" tvg-logo="http://img.appino.tv/img/foxp1.png" group-title="Filmes / Séries",FOX PREMIUM 1 HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/383
+#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="FOX PREMIUM  2  HDD LEGENDADO" tvg-logo="http://img.appino.tv/img/foxp2.png" group-title="Legendado",FOX PREMIUM  2  HDD LEGENDADO
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39751
+#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="FOX PREMIUM 2 HD²" tvg-logo="http://img.appino.tv/img/foxp2.png" group-title="Filmes / Séries",FOX PREMIUM 2 HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42920
+#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="FOX PREMIUM 2 HD¹" tvg-logo="http://img.appino.tv/img/foxp2.png" group-title="Filmes / Séries",FOX PREMIUM 2 HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/381
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 HD²" tvg-logo="http://img.appino.tv/img/foxsports2.png" group-title="Esportes",FOX SPORTS 2 HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42885
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 HD¹" tvg-logo="http://img.appino.tv/img/foxsports2.png" group-title="Esportes",FOX SPORTS 2 HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/377
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="FOX SPORTS HD²" tvg-logo="http://img.appino.tv/img/foxsports.png" group-title="Esportes",FOX SPORTS HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42886
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="FOX SPORTS HD¹" tvg-logo="http://img.appino.tv/img/foxsports.png" group-title="Esportes",FOX SPORTS HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/373
+#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura HD" tvg-logo="http://img.appino.tv/img/futura.png" group-title="Canais Abertos",Futura HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29842
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD²" tvg-logo="http://img.appino.tv/img/fx.png" group-title="Filmes / Séries",FX HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42922
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD¹" tvg-logo="http://img.appino.tv/img/fx.png" group-title="Filmes / Séries",FX HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/369
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GAZETA CLOSED CAPTION HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GAZETA CLOSED CAPTION HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40245
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO BELEM HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO BELEM HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40202
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO BH HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO BH HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40235
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO BRASILIA HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40221
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO BRASILIA HD¹" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO BRASILIA HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/362
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO CLOSED CAPTION HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO CLOSED CAPTION HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40144
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO CURITIBA HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO CURITIBA HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40215
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO EPTV BAURU HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO EPTV BAURU HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40249
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",Globo EPTV Campinas HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29909
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO EPTV CAMPINAS HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40247
+#EXTINF:-1 tvg-id="Globo Eptv Ribeirão Preto HD" tvg-name="GLOBO EPTV RIBEIRAO PRETO HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO EPTV RIBEIRAO PRETO HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/356
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO  FLORIANOPOLIS HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO  FLORIANOPOLIS HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40224
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO  FORTALEZA HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO  FORTALEZA HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40204
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO FOZ DO IGUAÇU HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO FOZ DO IGUAÇU HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40150
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO GOIANIA HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO GOIANIA HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40234
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO INTEGRACAO ARAXA HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO INTEGRACAO ARAXA HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40147
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO INTER TV ALTO LITORAL HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO INTER TV ALTO LITORAL HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40129
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO INTER TV SERRA MAR HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO INTER TV SERRA MAR HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40191
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="Globo InterTV Alto Litoral HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",Globo InterTV Alto Litoral HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29912
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO MANAUS HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO MANAUS HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/345
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO MANAUS HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO MANAUS HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40196
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO MATO GROSSO HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO MATO GROSSO HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40227
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="GLOBO MINAS HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO MINAS HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/343
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS HD²" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Notícias",GLOBO NEWS HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43006
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS HD¹" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Notícias",GLOBO NEWS HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/338
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO NORDESTE HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/336
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO NSC FLORIANOPOLIS HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO NSC FLORIANOPOLIS HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/24262
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO  NSC JOINVILLE  HD SC" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO  NSC JOINVILLE  HD SC
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40243
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO PORTO ALEGRE  HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO PORTO ALEGRE  HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40226
+#EXTINF:-1 tvg-id="Globo Rbs Tv Porto Alegre" tvg-name="GLOBO RBS PORTO ALEGRE HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO RBS PORTO ALEGRE HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/332
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO RBS TV BLUMENAL HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO RBS TV BLUMENAL HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40184
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO RBS TV CAXIAS DO SUL HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO RBS TV CAXIAS DO SUL HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40153
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO RBS TV CRICIUMA HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO RBS TV CRICIUMA HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40123
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO RBS TV PELOTAS HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO RBS TV PELOTAS HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40189
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO RBS TV SANTA MARIA HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO RBS TV SANTA MARIA HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40186
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO RIO HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO RIO HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40223
+#EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="GLOBO RJ HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO RJ HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/327
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO RPC TV PARANAVAI HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO RPC TV PARANAVAI HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40126
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO SALVADOR HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO SALVADOR HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40237
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO SAO LUIS MA HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO SAO LUIS MA HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40228
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO SP HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO SP HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/317
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO SP HD²" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO SP HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40203
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO TV ASA BRANCA HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO TV ASA BRANCA HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40182
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="Globo TV Cabo Branco HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",Globo TV Cabo Branco HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29918
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO TV CABO BRANCO HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO TV CABO BRANCO HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40141
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO TV CENTRO AMERICA HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO TV CENTRO AMERICA HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40166
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO TV CLUBE PI HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO TV CLUBE PI HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40241
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="Globo TV Diario HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",Globo TV Diario HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29920
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="Globo TV Gazeta Sul ES HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",Globo TV Gazeta Sul ES HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29921
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO TV GAZETA VITORIA HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO TV GAZETA VITORIA HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40135
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="Globo TV Gazeta Vitória HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",Globo TV Gazeta Vitória HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29922
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO TV INTEGRACAO JF HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO TV INTEGRACAO JF HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40138
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO TV INTEGRACAO JF HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO TV INTEGRACAO JF HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40139
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO TV INTER CABUGI HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO TV INTER CABUGI HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40194
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO TV MIRANTE HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO TV MIRANTE HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40156
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO TV RIO SUL HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO TV RIO SUL HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40132
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO TV SANTA CRUZ HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO TV SANTA CRUZ HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40162
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO TV SERGIPE HD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO TV SERGIPE HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40159
+#EXTINF:-1 tvg-id="Gloob" tvg-name="GLOOB HD²" tvg-logo="http://img.appino.tv/img/gloob.png" group-title="Kids",GLOOB HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42988
+#EXTINF:-1 tvg-id="Gloob" tvg-name="GLOOB HD¹" tvg-logo="http://img.appino.tv/img/gloob.png" group-title="Kids",GLOOB HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/307
+#EXTINF:-1 tvg-id="TV Gloobinho FHD H.265" tvg-name="GLOOBINHO HD²" tvg-logo="http://img.appino.tv/img/gloobinho.png" group-title="Kids",GLOOBINHO HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42990
+#EXTINF:-1 tvg-id="TV Gloobinho FHD H.265" tvg-name="GLOOBINHO HD¹" tvg-logo="http://img.appino.tv/img/gloobinho.png" group-title="Kids",GLOOBINHO HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/304
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD²" tvg-logo="http://img.appino.tv/img/gnt.png" group-title="Variedades | Músicas",GNT HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43021
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD¹" tvg-logo="http://img.appino.tv/img/gnt.png" group-title="Variedades | Músicas",GNT HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/302
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 HD²" tvg-logo="http://img.appino.tv/img/h2.png" group-title="Documentários",H2 HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42859
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 HD¹" tvg-logo="http://img.appino.tv/img/h2.png" group-title="Documentários",H2 HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/298
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD²" tvg-logo="http://img.appino.tv/img/hbo2.png" group-title="Filmes / Séries",HBO 2 HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42924
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD¹" tvg-logo="http://img.appino.tv/img/hbo2.png" group-title="Filmes / Séries",HBO 2 HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/294
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO FAMILY HD²" tvg-logo="http://img.appino.tv/img/hbofamily.png" group-title="Filmes / Séries",HBO FAMILY HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42926
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO FAMILY HD¹" tvg-logo="http://img.appino.tv/img/hbofamily.png" group-title="Filmes / Séries",HBO FAMILY HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/291
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO FHD Legendado" tvg-logo="http://img.appino.tv/img/hbo.png" group-title="Legendado",HBO FHD Legendado
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39018
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD Legendado" tvg-logo="http://img.appino.tv/img/hbo.png" group-title="Legendado",HBO HD Legendado
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39019
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD²" tvg-logo="http://img.appino.tv/img/hbo.png" group-title="Filmes / Séries",HBO HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42928
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD¹" tvg-logo="http://img.appino.tv/img/hbo.png" group-title="Filmes / Séries",HBO HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/287
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI HDD LEG" tvg-logo="http://img.appino.tv/img/hbo-mundi.png" group-title="Legendado",HBO MUNDI HDD LEG
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39752
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi HD²" tvg-logo="http://img.appino.tv/img/hbo-mundi.png" group-title="Filmes / Séries",HBO Mundi HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42929
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi HD¹" tvg-logo="http://img.appino.tv/img/hbo-mundi.png" group-title="Filmes / Séries",HBO Mundi HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/262
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus FHD Legendado" tvg-logo="http://img.appino.tv/img/hboplus.png" group-title="Legendado",HBO Plus FHD Legendado
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39017
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus HD Legendado" tvg-logo="http://img.appino.tv/img/hboplus.png" group-title="Legendado",HBO Plus HD Legendado
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39020
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS HD²" tvg-logo="http://img.appino.tv/img/hboplus.png" group-title="Filmes / Séries",HBO PLUS HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42931
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS HD¹" tvg-logo="http://img.appino.tv/img/hboplus.png" group-title="Filmes / Séries",HBO PLUS HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/285
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop HD²" tvg-logo="http://img.appino.tv/img/hbo-pop.png" group-title="Filmes / Séries",HBO Pop HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42933
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop HD¹" tvg-logo="http://img.appino.tv/img/hbo-pop.png" group-title="Filmes / Séries",HBO Pop HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/255
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature HD Legendado" tvg-logo="http://img.appino.tv/img/hbosignature.png" group-title="Legendado",HBO Signature HD Legendado
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39016
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE HD²" tvg-logo="http://img.appino.tv/img/hbosignature.png" group-title="Filmes / Séries",HBO SIGNATURE HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42936
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE HD¹" tvg-logo="http://img.appino.tv/img/hbosignature.png" group-title="Filmes / Séries",HBO SIGNATURE HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/281
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME HD²" tvg-logo="http://img.appino.tv/img/hbo-XTREME.png" group-title="Filmes / Séries",HBO XTREME HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42938
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME HD¹" tvg-logo="http://img.appino.tv/img/hbo-XTREME.png" group-title="Filmes / Séries",HBO XTREME HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/259
+#EXTINF:-1 tvg-id="discoverycivilization.br" tvg-name="HGTV HD²" tvg-logo="http://img.appino.tv/img/hgtv.jpg" group-title="Documentários",HGTV HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42861
+#EXTINF:-1 tvg-id="discoverycivilization.br" tvg-name="HGTV HD¹" tvg-logo="http://img.appino.tv/img/hgtv.jpg" group-title="Documentários",HGTV HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/448
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY HD²" tvg-logo="http://img.appino.tv/img/historyhd.png" group-title="Documentários",HISTORY HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42863
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY HD¹" tvg-logo="http://img.appino.tv/img/historyhd.png" group-title="Documentários",HISTORY HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/277
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="ID DISCOVERY HD²" tvg-logo="http://img.appino.tv/img/idinvestigacaodiscovery.png" group-title="Documentários",ID DISCOVERY HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42866
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="ID DISCOVERY HD¹" tvg-logo="http://img.appino.tv/img/idinvestigacaodiscovery.png" group-title="Documentários",ID DISCOVERY HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/272
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME HD²" tvg-logo="http://img.appino.tv/img/lifetime.png" group-title="Variedades | Músicas",LIFETIME HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43023
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME HD¹" tvg-logo="http://img.appino.tv/img/lifetime.png" group-title="Variedades | Músicas",LIFETIME HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/267
+#EXTINF:-1 tvg-id="Mais Globosat" tvg-name="MAIS GLOBOSAT HD²" tvg-logo="http://img.appino.tv/img/maisglobosat.png" group-title="Variedades | Músicas",MAIS GLOBOSAT HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43025
+#EXTINF:-1 tvg-id="Mais Globosat" tvg-name="MAIS GLOBOSAT HD¹" tvg-logo="http://img.appino.tv/img/maisglobosat.png" group-title="Variedades | Músicas",MAIS GLOBOSAT HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/265
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD²" tvg-logo="http://img.appino.tv/img/megapix.png" group-title="Filmes / Séries",MEGAPIX HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42940
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX HD¹" tvg-logo="http://img.appino.tv/img/megapix.png" group-title="Filmes / Séries",MEGAPIX HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/251
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD²" tvg-logo="http://img.appino.tv/img/mtv.png" group-title="Variedades | Músicas",MTV HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43027
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD¹" tvg-logo="http://img.appino.tv/img/mtv.png" group-title="Variedades | Músicas",MTV HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/248
+#EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV Live HD²" tvg-logo="http://img.appino.tv/img/mtv.png" group-title="Variedades | Músicas",MTV Live HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29953
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW HD²" tvg-logo="http://img.appino.tv/img/multishow.png" group-title="Variedades | Músicas",MULTISHOW HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43030
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW HD¹" tvg-logo="http://img.appino.tv/img/multishow.png" group-title="Variedades | Músicas",MULTISHOW HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/244
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="NATGEO HD²" tvg-logo="http://img.appino.tv/img/natgeohd.png" group-title="Documentários",NATGEO HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42868
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="NATGEO HD¹" tvg-logo="http://img.appino.tv/img/natgeohd.png" group-title="Documentários",NATGEO HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/239
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NATGEO KIDS HD" tvg-logo="http://img.appino.tv/img/natgeokids.png" group-title="Kids",NATGEO KIDS HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/237
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NATGEO KIDS HD²" tvg-logo="http://img.appino.tv/img/natgeokids.png" group-title="Kids",NATGEO KIDS HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42992
+#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NATGEO WILD HD²" tvg-logo="http://img.appino.tv/img/natgeowild.png" group-title="Documentários",NATGEO WILD HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42870
+#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NATGEO WILD HD¹" tvg-logo="http://img.appino.tv/img/natgeowild.png" group-title="Documentários",NATGEO WILD HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/233
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="NICK HD²" tvg-logo="http://img.appino.tv/img/nickhd.png" group-title="Kids",NICK HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42994
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="NICK HD¹" tvg-logo="http://img.appino.tv/img/nickhd.png" group-title="Kids",NICK HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/226
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK JR HD²" tvg-logo="http://img.appino.tv/img/nickjr.png" group-title="Kids",NICK JR HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42996
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK JR HD¹" tvg-logo="http://img.appino.tv/img/nickjr.png" group-title="Kids",NICK JR HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/224
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD²" tvg-logo="http://img.appino.tv/img/off.png" group-title="Variedades | Músicas",OFF HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43033
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD¹" tvg-logo="http://img.appino.tv/img/off.png" group-title="Variedades | Músicas",OFF HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/214
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT HD²" tvg-logo="http://img.appino.tv/img/paramount.png" group-title="Filmes / Séries",PARAMOUNT HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42942
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT HD¹" tvg-logo="http://img.appino.tv/img/paramount.png" group-title="Filmes / Séries",PARAMOUNT HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/210
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2 HD²" tvg-logo="http://img.appino.tv/img/premiere.png" group-title="Esportes",PREMIERE 2 HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42888
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIERE 2 HD¹" tvg-logo="http://img.appino.tv/img/premiere.png" group-title="Esportes",PREMIERE 2 HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/202
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE 3 HD²" tvg-logo="http://img.appino.tv/img/premiere.png" group-title="Esportes",PREMIERE 3 HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42889
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE 3 HD¹" tvg-logo="http://img.appino.tv/img/premiere.png" group-title="Esportes",PREMIERE 3 HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/198
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIERE 4 HD²" tvg-logo="http://img.appino.tv/img/premiere.png" group-title="Esportes",PREMIERE 4 HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42890
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIERE 4 HD¹" tvg-logo="http://img.appino.tv/img/premiere.png" group-title="Esportes",PREMIERE 4 HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/194
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIERE 5 HD²" tvg-logo="http://img.appino.tv/img/premiere.png" group-title="Esportes",PREMIERE 5 HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42891
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIERE 5 HD¹" tvg-logo="http://img.appino.tv/img/premiere.png" group-title="Esportes",PREMIERE 5 HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/190
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIERE 6 HD²" tvg-logo="http://img.appino.tv/img/premiere.png" group-title="Esportes",PREMIERE 6 HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42892
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIERE 6 HD¹" tvg-logo="http://img.appino.tv/img/premiere.png" group-title="Esportes",PREMIERE 6 HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/187
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIERE 7 HD¹" tvg-logo="http://img.appino.tv/img/premiere.png" group-title="Esportes",PREMIERE 7 HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/184
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES HD²" tvg-logo="http://img.appino.tv/img/premiere.png" group-title="Esportes",PREMIERE CLUBES HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42894
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES HD¹" tvg-logo="http://img.appino.tv/img/premiere.png" group-title="Esportes",PREMIERE CLUBES HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/178
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record Bahia HD" tvg-logo="http://img.appino.tv/img/record.png" group-title="Canais Abertos",Record Bahia HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29843
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD BRASÍLIA HD" tvg-logo="http://img.appino.tv/img/record.png" group-title="Canais Abertos",RECORD BRASÍLIA HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39720
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record Campinas HD" tvg-logo="http://img.appino.tv/img/record.png" group-title="Canais Abertos",Record Campinas HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29845
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD GO HD" tvg-logo="http://img.appino.tv/img/record.png" group-title="Canais Abertos",RECORD GO HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39700
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD ITAPOAN HD" tvg-logo="http://img.appino.tv/img/record.png" group-title="Canais Abertos",RECORD ITAPOAN HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39722
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD MANAUS HD" tvg-logo="http://img.appino.tv/img/record.png" group-title="Canais Abertos",RECORD MANAUS HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39718
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD MINAS HD" tvg-logo="http://img.appino.tv/img/record.png" group-title="Canais Abertos",RECORD MINAS HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39726
+#EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS HD" tvg-logo="http://img.appino.tv/img/record.png" group-title="Canais Abertos",RECORD NEWS HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/146
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS HD¹" tvg-logo="http://img.appino.tv/img/recordnews.png" group-title="Notícias",RECORD NEWS HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/155
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD RIO HD" tvg-logo="" group-title="Canais Abertos",RECORD RIO HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39728
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record RJ HD" tvg-logo="http://img.appino.tv/img/record.png" group-title="Canais Abertos",Record RJ HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29848
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record RS HD" tvg-logo="http://img.appino.tv/img/record.png" group-title="Canais Abertos",Record RS HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29849
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD TV BE HD" tvg-logo="http://img.appino.tv/img/record.png" group-title="Canais Abertos",RECORD TV BE HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39716
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD TV RS HD" tvg-logo="" group-title="Canais Abertos",RECORD TV RS HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39724
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD TV SP HD" tvg-logo="http://img.appino.tv/img/record.png" group-title="Canais Abertos",RECORD TV SP HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39730
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV HD²" tvg-logo="http://img.appino.tv/img/redetv.png" group-title="Canais Abertos",REDE TV HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43042
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV HD¹" tvg-logo="http://img.appino.tv/img/redetv.png" group-title="Canais Abertos",REDE TV HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/143
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT Goias HD" tvg-logo="http://img.appino.tv/img/sbt.png" group-title="Canais Abertos",SBT Goias HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29853
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD" tvg-logo="http://img.appino.tv/img/sbt.png" group-title="Canais Abertos",SBT HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/136
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT Nordeste HD" tvg-logo="http://img.appino.tv/img/sbt.png" group-title="Canais Abertos",SBT Nordeste HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29854
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RJ HD" tvg-logo="http://img.appino.tv/img/sbt.png" group-title="Canais Abertos",SBT RJ HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29855
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="http://img.appino.tv/img/sbt.png" group-title="Canais Abertos",SBT SP HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29857
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT TV Aratu Bahia HD" tvg-logo="http://img.appino.tv/img/sbt.png" group-title="Canais Abertos",SBT TV Aratu Bahia HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29859
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT TV Cidade Verde Piaui HD" tvg-logo="http://img.appino.tv/img/sbt.png" group-title="Canais Abertos",SBT TV Cidade Verde Piaui HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29860
+#EXTINF:-1 tvg-id="smithsonianchannel.br" tvg-name="SMITHSONIAN HD" tvg-logo="" group-title="Variedades | Músicas",SMITHSONIAN HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40356
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY HD²" tvg-logo="http://img.appino.tv/img/canalsony.png" group-title="Filmes / Séries",SONY HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42944
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY HD¹" tvg-logo="http://img.appino.tv/img/canalsony.png" group-title="Filmes / Séries",SONY HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/482
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD²" tvg-logo="http://img.appino.tv/img/space.png" group-title="Filmes / Séries",SPACE HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42946
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE HD¹" tvg-logo="http://img.appino.tv/img/space.png" group-title="Filmes / Séries",SPACE HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/129
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD²" tvg-logo="http://img.appino.tv/img/sportv2.png" group-title="Esportes",SPORTV 2 HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42896
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 HD¹" tvg-logo="http://img.appino.tv/img/sportv2.png" group-title="Esportes",SPORTV 2 HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/125
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD²" tvg-logo="http://img.appino.tv/img/sportv3.png" group-title="Esportes",SPORTV 3 HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42899
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 HD¹" tvg-logo="http://img.appino.tv/img/sportv3.png" group-title="Esportes",SPORTV 3 HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/122
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 4 HD" tvg-logo="" group-title="Esportes",SPORTV 4 HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/53145
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD²" tvg-logo="http://img.appino.tv/img/sportv.png" group-title="Esportes",SPORTV HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42901
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV HD¹" tvg-logo="http://img.appino.tv/img/sportv.png" group-title="Esportes",SPORTV HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/118
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD²" tvg-logo="http://img.appino.tv/img/studiouniversal.png" group-title="Filmes / Séries",STUDIO UNIVERSAL HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42948
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD¹" tvg-logo="http://img.appino.tv/img/studiouniversal.png" group-title="Filmes / Séries",STUDIO UNIVERSAL HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/114
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY HD²" tvg-logo="http://img.appino.tv/img/syfy.png" group-title="Filmes / Séries",SYFY HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42950
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY HD¹" tvg-logo="http://img.appino.tv/img/syfy.png" group-title="Filmes / Séries",SYFY HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/110
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS HD²" tvg-logo="http://img.appino.tv/img/tbs.png" group-title="Filmes / Séries",TBS HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42952
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS HD¹" tvg-logo="http://img.appino.tv/img/tbs.png" group-title="Filmes / Séries",TBS HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/108
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD¹" tvg-logo="http://img.appino.tv/img/tcm.png" group-title="Filmes / Séries",TCM HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/106
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION HD²" tvg-logo="http://img.appino.tv/img/TCAction.png" group-title="Filmes / Séries",TELECINE ACTION HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42955
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION HD¹" tvg-logo="http://img.appino.tv/img/TCAction.png" group-title="Filmes / Séries",TELECINE ACTION HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/102
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult FHD Legendado" tvg-logo="http://img.appino.tv/img/TCCult.png" group-title="Legendado",Telecine Cult FHD Legendado
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39015
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT HDD LEGENDADO" tvg-logo="http://img.appino.tv/img/TCCult.png" group-title="Legendado",TELECINE CULT HDD LEGENDADO
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39748
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT HD²" tvg-logo="http://img.appino.tv/img/TCCult.png" group-title="Filmes / Séries",TELECINE CULT HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42957
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT HD¹" tvg-logo="http://img.appino.tv/img/TCCult.png" group-title="Filmes / Séries",TELECINE CULT HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/98
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN HD²" tvg-logo="http://img.appino.tv/img/TCFun.png" group-title="Filmes / Séries",TELECINE FUN HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42958
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN HD¹" tvg-logo="http://img.appino.tv/img/TCFun.png" group-title="Filmes / Séries",TELECINE FUN HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/93
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA HD²" tvg-logo="http://img.appino.tv/img/tcPipoca.png" group-title="Filmes / Séries",TELECINE PIPOCA HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42960
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA HD¹" tvg-logo="http://img.appino.tv/img/tcPipoca.png" group-title="Filmes / Séries",TELECINE PIPOCA HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/89
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM HDD LEGENDADO" tvg-logo="http://img.appino.tv/img/TCPremium.png" group-title="Legendado",TELECINE PREMIUM HDD LEGENDADO
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39746
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM HD²" tvg-logo="http://img.appino.tv/img/TCPremium.png" group-title="Filmes / Séries",TELECINE PREMIUM HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42962
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM HD¹" tvg-logo="http://img.appino.tv/img/TCPremium.png" group-title="Filmes / Séries",TELECINE PREMIUM HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/85
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH HD²" tvg-logo="http://img.appino.tv/img/TCTouch.png" group-title="Filmes / Séries",TELECINE TOUCH HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42964
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH HD¹" tvg-logo="http://img.appino.tv/img/TCTouch.png" group-title="Filmes / Séries",TELECINE TOUCH HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/81
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD²" tvg-logo="http://img.appino.tv/img/tlc.png" group-title="Variedades | Músicas",TLC HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43036
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD¹" tvg-logo="http://img.appino.tv/img/tlc.png" group-title="Variedades | Músicas",TLC HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/78
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD²" tvg-logo="http://img.appino.tv/img/tnt.png" group-title="Filmes / Séries",TNT HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42966
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD¹" tvg-logo="http://img.appino.tv/img/tnt.png" group-title="Filmes / Séries",TNT HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/74
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SERIES HD²" tvg-logo="http://img.appino.tv/img/tntseries.png" group-title="Filmes / Séries",TNT SERIES HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42968
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SERIES HD¹" tvg-logo="http://img.appino.tv/img/tntseries.png" group-title="Filmes / Séries",TNT SERIES HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/70
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD²" tvg-logo="http://img.appino.tv/img/tooncast.png" group-title="Kids",TOONCAST HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42998
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST HD¹" tvg-logo="http://img.appino.tv/img/tooncast.png" group-title="Kids",TOONCAST HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/67
+#EXTINF:-1 tvg-id="" tvg-name="Top TV HD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/toptv.png" group-title="Variedades | Músicas",Top TV HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29958
+#EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV CULTURA HD" tvg-logo="http://img.appino.tv/img/tvcultura.png" group-title="Canais Abertos",TV CULTURA HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40328
+#EXTINF:-1 tvg-id="TV Diário" tvg-name="TV DIARIO HD" tvg-logo="http://img.appino.tv/img/tvdiario.png" group-title="Canais Abertos",TV DIARIO HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/24265
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="TV Gazeta HD" tvg-logo="http://img.appino.tv/img/tvgazeta.png" group-title="Variedades | Músicas",TV Gazeta HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29960
+#EXTINF:-1 tvg-id="" tvg-name="TV Playkids HD" tvg-logo="http://rtrmsrv22.gq:8080/geneilson-restream/odlugTZy4I/755754" group-title="Kids",TV Playkids HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39701
+#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="TV RA TIM BUM HD²" tvg-logo="http://img.appino.tv/img/tvratimbum.png" group-title="Kids",TV RA TIM BUM HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43000
+#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="TV RA TIM BUM HD¹" tvg-logo="http://img.appino.tv/img/tvratimbum.png" group-title="Kids",TV RA TIM BUM HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL HD LEGENDADO" tvg-logo="http://img.appino.tv/img/universal.png" group-title="Legendado",UNIVERSAL CHANNEL HD LEGENDADO
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39750
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL HD²" tvg-logo="http://img.appino.tv/img/universal.png" group-title="Filmes / Séries",UNIVERSAL CHANNEL HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42970
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL HD¹" tvg-logo="http://img.appino.tv/img/universal.png" group-title="Filmes / Séries",UNIVERSAL CHANNEL HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42
+#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-name="VH1 HD²" tvg-logo="http://img.appino.tv/img/vh1hd.png" group-title="Variedades | Músicas",VH1 HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43038
+#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-name="VH1 HD¹" tvg-logo="http://img.appino.tv/img/vh1hd.png" group-title="Variedades | Músicas",VH1 HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/41
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA HD²" tvg-logo="http://img.appino.tv/img/viva.png" group-title="Variedades | Músicas",VIVA HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43040
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA HD¹" tvg-logo="http://img.appino.tv/img/viva.png" group-title="Variedades | Músicas",VIVA HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/38
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL HD LEG" tvg-logo="http://img.appino.tv/img/warner.png" group-title="Legendado",WARNER CHANNEL HD LEG
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/41733
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL HD²" tvg-logo="http://img.appino.tv/img/warner.png" group-title="Filmes / Séries",WARNER CHANNEL HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42972
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL HD¹" tvg-logo="http://img.appino.tv/img/warner.png" group-title="Filmes / Séries",WARNER CHANNEL HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/34
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO HD" tvg-logo="http://img.appino.tv/img/woohoo.png" group-title="Esportes",WOOHOO HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/32
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO HD²" tvg-logo="http://img.appino.tv/img/Zoomoo_logo.png" group-title="Kids",ZOOMOO HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43002
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO HD¹" tvg-logo="http://img.appino.tv/img/Zoomoo_logo.png" group-title="Kids",ZOOMOO HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29
+#EXTINF:-1 tvg-id="" tvg-name="24hs: 101 Dalmatas" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: 101 Dalmatas
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26688
+#EXTINF:-1 tvg-id="" tvg-name="24hs: 2 HOMENS E MEIO" tvg-logo="" group-title="24 Horas",24hs: 2 HOMENS E MEIO
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40081
+#EXTINF:-1 tvg-id="" tvg-name="24hs: 2 HOMENS E MEIO 2 TEMP" tvg-logo="" group-title="24 Horas",24hs: 2 HOMENS E MEIO 2 TEMP
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40082
+#EXTINF:-1 tvg-id="" tvg-name="24hs: 3 Palavrinhas" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: 3 Palavrinhas
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26689
+#EXTINF:-1 tvg-id="" tvg-name="24hs: 3 Palavrinhas" tvg-logo="" group-title="24 Horas",24hs: 3 Palavrinhas
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39938
+#EXTINF:-1 tvg-id="" tvg-name="24hs: A Bruxinha Sabrina" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: A Bruxinha Sabrina
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26690
+#EXTINF:-1 tvg-id="" tvg-name="24hs: A Casa da Raven" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: A Casa da Raven
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26691
+#EXTINF:-1 tvg-id="" tvg-name="24hs: A Casa do Mickey" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: A Casa do Mickey
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26692
+#EXTINF:-1 tvg-id="" tvg-name="24hs: A Corinha Azul" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: A Corinha Azul
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29807
+#EXTINF:-1 tvg-id="" tvg-name="24hs: A Familia Addams" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: A Familia Addams
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26693
+#EXTINF:-1 tvg-id="" tvg-name="24hs: A Formiga Atômica" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: A Formiga Atômica
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26694
+#EXTINF:-1 tvg-id="" tvg-name="24hs: A Guarda do Leão" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: A Guarda do Leão
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26695
+#EXTINF:-1 tvg-id="" tvg-name="24hs: A historia de Deus com Morgan Freeman 2" tvg-logo="" group-title="24 Horas",24hs: A historia de Deus com Morgan Freeman 2
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39940
+#EXTINF:-1 tvg-id="" tvg-name="24hs: A Mumia" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: A Mumia
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29808
+#EXTINF:-1 tvg-id="" tvg-name="24hs: A Nossa Turma" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: A Nossa Turma
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26696
+#EXTINF:-1 tvg-id="" tvg-name="24hs: A Pequena Sereia" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: A Pequena Sereia
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26697
+#EXTINF:-1 tvg-id="" tvg-name="24hs: A Turma do Charlie Brown" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: A Turma do Charlie Brown
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26698
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Aladin Desenho Animado" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Aladin Desenho Animado
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29811
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Alf: o ETeimoso" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Alf: o ETeimoso
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26699
+#EXTINF:-1 tvg-id="" tvg-name="24hs: ALOK SHOW" tvg-logo="" group-title="24 Horas",24hs: ALOK SHOW
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40112
+#EXTINF:-1 tvg-id="" tvg-name="24hs: American Horror 5" tvg-logo="" group-title="24 Horas",24hs: American Horror 5
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39944
+#EXTINF:-1 tvg-id="" tvg-name="24hs: American Horror 6" tvg-logo="" group-title="24 Horas",24hs: American Horror 6
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39945
+#EXTINF:-1 tvg-id="" tvg-name="24hs: American Horror 7" tvg-logo="" group-title="24 Horas",24hs: American Horror 7
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39946
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Angry birds" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Angry birds
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26700
+#EXTINF:-1 tvg-id="" tvg-name="24hs: ANIMAIS SELVAGENS" tvg-logo="" group-title="24 Horas",24hs: ANIMAIS SELVAGENS
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40118
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Animaniacs" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Animaniacs
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26701
+#EXTINF:-1 tvg-id="" tvg-name="24hs: As Aventuras de FlapJack" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: As Aventuras de FlapJack
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26702
+#EXTINF:-1 tvg-id="" tvg-name="24hs: As Aventuras De Piggley Winks" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: As Aventuras De Piggley Winks
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29812
+#EXTINF:-1 tvg-id="" tvg-name="24hs: As Aventuras De Tintim" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: As Aventuras De Tintim
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29813
+#EXTINF:-1 tvg-id="" tvg-name="24hs: As Lendas: Mestres do Mito" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: As Lendas: Mestres do Mito
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26703
+#EXTINF:-1 tvg-id="" tvg-name="24hs: As Meninas Super Poderosas" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: As Meninas Super Poderosas
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26704
+#EXTINF:-1 tvg-id="" tvg-name="24hs: As Mumias Vivas" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: As Mumias Vivas
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26705
+#EXTINF:-1 tvg-id="" tvg-name="24hs: As Tartarugas Ninja" tvg-logo="" group-title="24 Horas",24hs: As Tartarugas Ninja
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39948
+#EXTINF:-1 tvg-id="" tvg-name="24hs: As Telefonistas 1" tvg-logo="" group-title="24 Horas",24hs: As Telefonistas 1
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39949
+#EXTINF:-1 tvg-id="" tvg-name="24hs: As Telefonistas 2" tvg-logo="" group-title="24 Horas",24hs: As Telefonistas 2
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39950
+#EXTINF:-1 tvg-id="" tvg-name="24hs: As Telefonistas 3" tvg-logo="" group-title="24 Horas",24hs: As Telefonistas 3
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39951
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Avatar Livros 1 2 3" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Avatar Livros 1 2 3
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26706
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Avatar: A Lenda de Korra" tvg-logo="" group-title="24 Horas",24hs: Avatar: A Lenda de Korra
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/49679
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Baby Looney Tunes" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Baby Looney Tunes
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26707
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Baby Shark" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Baby Shark
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29940
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Backyardigans" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Backyardigans
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26708
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Barney e Seus Amigos" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Barney e Seus Amigos
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26709
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Bates Motel 1" tvg-logo="" group-title="24 Horas",24hs: Bates Motel 1
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39953
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Bates Motel 2" tvg-logo="" group-title="24 Horas",24hs: Bates Motel 2
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39954
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Bates Motel 3" tvg-logo="" group-title="24 Horas",24hs: Bates Motel 3
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39955
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Bates Motel 4" tvg-logo="" group-title="24 Horas",24hs: Bates Motel 4
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39956
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Bates Motel 5" tvg-logo="" group-title="24 Horas",24hs: Bates Motel 5
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39957
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Batman" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Batman
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26710
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Ben 10" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Ben 10
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26711
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Ben 10 Supremacia Alienígena" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Ben 10 Supremacia Alienígena
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26712
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Ben E Holly" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Ben E Holly
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29947
+#EXTINF:-1 tvg-id="" tvg-name="24hs: BIG BANG A TEORIA 8 TEMP" tvg-logo="" group-title="24 Horas",24hs: BIG BANG A TEORIA 8 TEMP
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40079
+#EXTINF:-1 tvg-id="" tvg-name="24hs: BILLY E MAND" tvg-logo="" group-title="24 Horas",24hs: BILLY E MAND
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40088
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Bita e os Animais" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Bita e os Animais
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26713
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Black Lightning" tvg-logo="" group-title="24 Horas",24hs: Black Lightning
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39958
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Bob Esponja" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Bob Esponja
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26901
+#EXTINF:-1 tvg-id="" tvg-name="24hs: BOB ESPONJA" tvg-logo="" group-title="24 Horas",24hs: BOB ESPONJA
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40097
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Bob Zoom" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Bob Zoom
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26714
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Bob Zoom" tvg-logo="" group-title="24 Horas",24hs: Bob Zoom
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39959
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Boku no Hero Academy" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Boku no Hero Academy
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26715
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Capitão Caverna" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Capitão Caverna
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26716
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Capitão Tsubasa" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Capitão Tsubasa
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29933
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Carcereiros" tvg-logo="" group-title="24 Horas",24hs: Carcereiros
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39963
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Carole & Tuesday" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Carole & Tuesday
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26717
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Cars Toon Mater" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Cars Toon Mater
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26718
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Cascão Maratona" tvg-logo="" group-title="24 Horas",24hs: Cascão Maratona
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39964
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Cavaleiros do Zodiaco: A Saga" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Cavaleiros do Zodiaco: A Saga
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26719
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Cavaleiros do Zodiaco: Saint Seiya" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Cavaleiros do Zodiaco: Saint Seiya
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26720
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Cavalo de Fogo" tvg-logo="" group-title="24 Horas",24hs: Cavalo de Fogo
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39966
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Caverna do Dragão" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Caverna do Dragão
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26721
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Caverna do Dragão" tvg-logo="" group-title="24 Horas",24hs: Caverna do Dragão
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39967
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Caça Fantasma" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Caça Fantasma
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26722
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Chapolin Colorado" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Chapolin Colorado
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29934
+#EXTINF:-1 tvg-id="" tvg-name="24hs: CHAPOLIN COLORADO" tvg-logo="" group-title="24 Horas",24hs: CHAPOLIN COLORADO
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40107
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Chaves" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Chaves
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26723
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Chaves" tvg-logo="" group-title="24 Horas",24hs: Chaves
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39968
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Chaves Desenho" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Chaves Desenho
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26724
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Chicago Med 1" tvg-logo="" group-title="24 Horas",24hs: Chicago Med 1
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39969
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Chicago Med 2" tvg-logo="" group-title="24 Horas",24hs: Chicago Med 2
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39970
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Chicago Med 3" tvg-logo="" group-title="24 Horas",24hs: Chicago Med 3
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39971
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Cine Gibi Turma da Monica" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Cine Gibi Turma da Monica
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26725
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Club57" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Club57
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26726
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Clásicos Anos 60 - 70 - 80" tvg-logo="" group-title="24 Horas",24hs: Clásicos Anos 60 - 70 - 80
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/49680
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Clássicos da Disney" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Clássicos da Disney
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26727
+#EXTINF:-1 tvg-id="" tvg-name="24hs: CORAGEM CAO COVARDE" tvg-logo="" group-title="24 Horas",24hs: CORAGEM CAO COVARDE
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40090
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Coragem O Cão Covarde" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Coragem O Cão Covarde
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26728
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Corrida Espacial" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Corrida Espacial
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26729
+#EXTINF:-1 tvg-id="" tvg-name="24hs: CORRIDA MALUCA" tvg-logo="" group-title="24 Horas",24hs: CORRIDA MALUCA
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40096
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Csi Las Vegas" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Csi Las Vegas
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29925
+#EXTINF:-1 tvg-id="" tvg-name="24hs: CucKoo" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: CucKoo
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/27499
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Damnation" tvg-logo="" group-title="24 Horas",24hs: Damnation
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39972
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Daniel Tigre" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Daniel Tigre
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29948
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Dark Matter" tvg-logo="" group-title="24 Horas",24hs: Dark Matter
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39973
+#EXTINF:-1 tvg-id="" tvg-name="24hs: De Volta para o Futuro" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: De Volta para o Futuro
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26730
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Deby e Loid" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Deby e Loid
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26731
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Deceptions" tvg-logo="" group-title="24 Horas",24hs: Deceptions
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39974
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Demolidor 1" tvg-logo="" group-title="24 Horas",24hs: Demolidor 1
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39975
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Demolidor 2" tvg-logo="" group-title="24 Horas",24hs: Demolidor 2
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39976
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Demolidor 3" tvg-logo="" group-title="24 Horas",24hs: Demolidor 3
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39977
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Denis Pimentinha" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Denis Pimentinha
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26732
+#EXTINF:-1 tvg-id="" tvg-name="24hs: DENIS PIMENTINHA" tvg-logo="" group-title="24 Horas",24hs: DENIS PIMENTINHA
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40084
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Desenhos Biblicos" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Desenhos Biblicos
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29949
+#EXTINF:-1 tvg-id="" tvg-name="24hs: DIARIOS DE 1 VAMPIRO" tvg-logo="" group-title="24 Horas",24hs: DIARIOS DE 1 VAMPIRO
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39990
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Diarios de Horrores" tvg-logo="" group-title="24 Horas",24hs: Diarios de Horrores
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39979
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Diarios de Um Vampiro 1" tvg-logo="" group-title="24 Horas",24hs: Diarios de Um Vampiro 1
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39980
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Diego GO!!!" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Diego GO!!!
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26733
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Doctor Who 1" tvg-logo="" group-title="24 Horas",24hs: Doctor Who 1
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39981
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Doctor Who 2" tvg-logo="" group-title="24 Horas",24hs: Doctor Who 2
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39982
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Doctor Who 3" tvg-logo="" group-title="24 Horas",24hs: Doctor Who 3
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39983
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Doctor Who 4" tvg-logo="" group-title="24 Horas",24hs: Doctor Who 4
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39984
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Doctor Who 5" tvg-logo="" group-title="24 Horas",24hs: Doctor Who 5
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39985
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Doctor Who 6" tvg-logo="" group-title="24 Horas",24hs: Doctor Who 6
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39986
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Doctor Who 7" tvg-logo="" group-title="24 Horas",24hs: Doctor Who 7
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39987
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Doctor Who 8" tvg-logo="" group-title="24 Horas",24hs: Doctor Who 8
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39988
+#EXTINF:-1 tvg-id="" tvg-name="24hs: DOCUMENTARIO DISCOVERY" tvg-logo="" group-title="24 Horas",24hs: DOCUMENTARIO DISCOVERY
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40116
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Dora Aventureira" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Dora Aventureira
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26734
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Doug" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Doug
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26735
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Dragon Ball GT" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Dragon Ball GT
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26736
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Dragon Ball Super" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Dragon Ball Super
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29928
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Dragons: Rescue Riders" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Dragons: Rescue Riders
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26737
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Dragões" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Dragões
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26738
+#EXTINF:-1 tvg-id="" tvg-name="24hs: DuckTales" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: DuckTales
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26739
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Dupla Identidade" tvg-logo="" group-title="24 Horas",24hs: Dupla Identidade
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39989
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Elite" tvg-logo="" group-title="24 Horas",24hs: Elite
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39991
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Eu a Patroa e as Crianças" tvg-logo="" group-title="24 Horas",24hs: Eu a Patroa e as Crianças
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/49681
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Fabulas da Disney" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Fabulas da Disney
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26740
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Faisca E Fumaça" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Faisca E Fumaça
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29942
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Familia Dino" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Familia Dino
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26741
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Familia Soprano 1" tvg-logo="" group-title="24 Horas",24hs: Familia Soprano 1
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39992
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Familia Soprano 2" tvg-logo="" group-title="24 Horas",24hs: Familia Soprano 2
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39993
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Familia Soprano 3" tvg-logo="" group-title="24 Horas",24hs: Familia Soprano 3
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39994
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Familia Soprano 4" tvg-logo="" group-title="24 Horas",24hs: Familia Soprano 4
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39995
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Familia Soprano 5" tvg-logo="" group-title="24 Horas",24hs: Familia Soprano 5
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39996
+#EXTINF:-1 tvg-id="" tvg-name="24hs: FAMILIA URSO" tvg-logo="" group-title="24 Horas",24hs: FAMILIA URSO
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40086
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Farine e Cocaine" tvg-logo="" group-title="24 Horas",24hs: Farine e Cocaine
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39997
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Fear The Walking Dead 1" tvg-logo="" group-title="24 Horas",24hs: Fear The Walking Dead 1
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39998
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Fear The Walking Dead 2" tvg-logo="" group-title="24 Horas",24hs: Fear The Walking Dead 2
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39999
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Fear The Walking Dead 3" tvg-logo="" group-title="24 Horas",24hs: Fear The Walking Dead 3
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40000
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Flash Gordon" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Flash Gordon
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29937
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Freakazoid" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Freakazoid
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26742
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Frequency" tvg-logo="" group-title="24 Horas",24hs: Frequency
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40001
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Fugitivos" tvg-logo="" group-title="24 Horas",24hs: Fugitivos
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40002
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Future Man" tvg-logo="" group-title="24 Horas",24hs: Future Man
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40003
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Galinha Pintadinha" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Galinha Pintadinha
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26743
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Galinha Pintadinha" tvg-logo="" group-title="24 Horas",24hs: Galinha Pintadinha
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40004
+#EXTINF:-1 tvg-id="" tvg-name="24hs: GAMES OF THRONES" tvg-logo="" group-title="24 Horas",24hs: GAMES OF THRONES
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40078
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Gato Felix" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Gato Felix
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29930
+#EXTINF:-1 tvg-id="" tvg-name="24hs: George O Curioso" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: George O Curioso
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/27496
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Greys Anatomy 1" tvg-logo="" group-title="24 Horas",24hs: Greys Anatomy 1
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40008
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Guardiões da Galaxia" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Guardiões da Galaxia
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26744
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Hannibal 1" tvg-logo="" group-title="24 Horas",24hs: Hannibal 1
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40009
+#EXTINF:-1 tvg-id="" tvg-name="24hs: He Man Desenho" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: He Man Desenho
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29951
+#EXTINF:-1 tvg-id="" tvg-name="24hs: High Score Girl" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: High Score Girl
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29936
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Hilda" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Hilda
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26746
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Homem Aranha" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Homem Aranha
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26747
+#EXTINF:-1 tvg-id="" tvg-name="24hs: HOMEM ARANHA" tvg-logo="" group-title="24 Horas",24hs: HOMEM ARANHA
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40085
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Homem de Ferro" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Homem de Ferro
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26748
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Homem Passaro" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Homem Passaro
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26749
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Hora da Aventura" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Hora da Aventura
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26750
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Hulk" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Hulk
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26751
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Ilha dos Desafios" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Ilha dos Desafios
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26753
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Impuros" tvg-logo="" group-title="24 Horas",24hs: Impuros
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40010
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Invasor ZIM" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Invasor ZIM
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26754
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Irmaos de Guerra" tvg-logo="" group-title="24 Horas",24hs: Irmaos de Guerra
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40011
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Irmão Do Jorel" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Irmão Do Jorel
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29941
+#EXTINF:-1 tvg-id="" tvg-name="24hs: IRON MAIDEN" tvg-logo="" group-title="24 Horas",24hs: IRON MAIDEN
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40110
+#EXTINF:-1 tvg-id="" tvg-name="24hs: JACKASS" tvg-logo="" group-title="24 Horas",24hs: JACKASS
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40080
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Jackie Chan Adventures" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Jackie Chan Adventures
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26755
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Jaspion & Jonny Quest" tvg-logo="" group-title="24 Horas",24hs: Jaspion & Jonny Quest
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40012
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Jhonny Bravo" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Jhonny Bravo
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26756
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Jogos Sagrados" tvg-logo="" group-title="24 Horas",24hs: Jogos Sagrados
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40013
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Jose do Egito" tvg-logo="" group-title="24 Horas",24hs: Jose do Egito
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40014
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Jovens Titãns" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Jovens Titãns
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26757
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Justiceiro 1" tvg-logo="" group-title="24 Horas",24hs: Justiceiro 1
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40015
+#EXTINF:-1 tvg-id="" tvg-name="24hs: King Kong" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: King Kong
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26758
+#EXTINF:-1 tvg-id="" tvg-name="24hs: KND: A Turma do Bairro" tvg-logo="" group-title="24 Horas",24hs: KND: A Turma do Bairro
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39013
+#EXTINF:-1 tvg-id="" tvg-name="24hs: KOREIA DO NORTE 24" tvg-logo="" group-title="24 Horas",24hs: KOREIA DO NORTE 24
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40108
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Kung Fu Panda" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Kung Fu Panda
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26759
+#EXTINF:-1 tvg-id="" tvg-name="24hs: La Casa Papel 1" tvg-logo="" group-title="24 Horas",24hs: La Casa Papel 1
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40016
+#EXTINF:-1 tvg-id="" tvg-name="24hs: La Casa Papel 2" tvg-logo="" group-title="24 Horas",24hs: La Casa Papel 2
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40017
+#EXTINF:-1 tvg-id="" tvg-name="24hs: LA CASA  PAPEL 3" tvg-logo="" group-title="24 Horas",24hs: LA CASA  PAPEL 3
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40071
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Legend of Tomorrow 1" tvg-logo="" group-title="24 Horas",24hs: Legend of Tomorrow 1
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40019
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Liga da Justiça" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Liga da Justiça
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26761
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Ligeirinho" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Ligeirinho
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26762
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Lilo e Stitch" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Lilo e Stitch
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26763
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Lluke Cage 1" tvg-logo="" group-title="24 Horas",24hs: Lluke Cage 1
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40020
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Log Horizon" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Log Horizon
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29943
+#EXTINF:-1 tvg-id="" tvg-name="24hs: LONEY TUNES" tvg-logo="" group-title="24 Horas",24hs: LONEY TUNES
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40091
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Lucifer 1" tvg-logo="" group-title="24 Horas",24hs: Lucifer 1
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40021
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Lucifer 2" tvg-logo="" group-title="24 Horas",24hs: Lucifer 2
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40022
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Lucifer 3" tvg-logo="" group-title="24 Horas",24hs: Lucifer 3
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40023
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Luke Cage 2" tvg-logo="" group-title="24 Horas",24hs: Luke Cage 2
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40024
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Lula Lelé" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Lula Lelé
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26764
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Luluzinha" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Luluzinha
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26765
+#EXTINF:-1 tvg-id="" tvg-name="24hs: MANA SHOW" tvg-logo="" group-title="24 Horas",24hs: MANA SHOW
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40111
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Manda Chuva" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Manda Chuva
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26766
+#EXTINF:-1 tvg-id="" tvg-name="24hs: MANDA CHUVA" tvg-logo="" group-title="24 Horas",24hs: MANDA CHUVA
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40106
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Maquina Mortifera 1" tvg-logo="" group-title="24 Horas",24hs: Maquina Mortifera 1
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40027
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Marsha E O Urso" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Marsha E O Urso
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29938
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Masha e o Urso" tvg-logo="" group-title="24 Horas",24hs: Masha e o Urso
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40028
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Mecanimais" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Mecanimais
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26767
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Meu Amigaozao" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Meu Amigaozao
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29950
+#EXTINF:-1 tvg-id="" tvg-name="24hs: MICHAEL JACKSON SHOW" tvg-logo="" group-title="24 Horas",24hs: MICHAEL JACKSON SHOW
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40113
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Mickey e Donald" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Mickey e Donald
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26768
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Mickey Mouse" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Mickey Mouse
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29931
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Mindhunter" tvg-logo="" group-title="24 Horas",24hs: Mindhunter
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40030
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Miraculous" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Miraculous
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26769
+#EXTINF:-1 tvg-id="" tvg-name="24hs: My Little Pony" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: My Little Pony
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26770
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Narcos 1" tvg-logo="" group-title="24 Horas",24hs: Narcos 1
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40031
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Narcos 2" tvg-logo="" group-title="24 Horas",24hs: Narcos 2
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40032
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Naruto" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Naruto
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26771
+#EXTINF:-1 tvg-id="" tvg-name="24hs: O Chefinho" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: O Chefinho
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26772
+#EXTINF:-1 tvg-id="" tvg-name="24hs: O Fantástico Jaspion" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: O Fantástico Jaspion
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26773
+#EXTINF:-1 tvg-id="" tvg-name="24hs: O Fantástico Mundo de BOB" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: O Fantástico Mundo de BOB
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26774
+#EXTINF:-1 tvg-id="" tvg-name="24hs: O Homem Do Castelo Alto 1" tvg-logo="" group-title="24 Horas",24hs: O Homem Do Castelo Alto 1
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40033
+#EXTINF:-1 tvg-id="" tvg-name="24hs: O Homem Do Castelo Alto 2" tvg-logo="" group-title="24 Horas",24hs: O Homem Do Castelo Alto 2
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40034
+#EXTINF:-1 tvg-id="" tvg-name="24hs: O Homem Do Castelo Alto 3" tvg-logo="" group-title="24 Horas",24hs: O Homem Do Castelo Alto 3
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40035
+#EXTINF:-1 tvg-id="" tvg-name="24hs: O Incrível Mundo de Gumball" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: O Incrível Mundo de Gumball
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26775
+#EXTINF:-1 tvg-id="" tvg-name="24hs: O Maskara" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: O Maskara
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26776
+#EXTINF:-1 tvg-id="" tvg-name="24hs: O Melhor de Hanna Barbera" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: O Melhor de Hanna Barbera
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26777
+#EXTINF:-1 tvg-id="" tvg-name="24hs: O Negocio 1" tvg-logo="" group-title="24 Horas",24hs: O Negocio 1
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40036
+#EXTINF:-1 tvg-id="" tvg-name="24hs: O Negocio 2" tvg-logo="" group-title="24 Horas",24hs: O Negocio 2
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40037
+#EXTINF:-1 tvg-id="" tvg-name="24hs: O Negocio 3" tvg-logo="" group-title="24 Horas",24hs: O Negocio 3
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40038
+#EXTINF:-1 tvg-id="" tvg-name="24hs: O Negocio 4" tvg-logo="" group-title="24 Horas",24hs: O Negocio 4
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40039
+#EXTINF:-1 tvg-id="" tvg-name="24hs: O Principe Dragão" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: O Principe Dragão
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26778
+#EXTINF:-1 tvg-id="" tvg-name="24hs: O Show do Looney Tunes" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: O Show do Looney Tunes
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26779
+#EXTINF:-1 tvg-id="" tvg-name="24hs: O UNIVERSO 24" tvg-logo="" group-title="24 Horas",24hs: O UNIVERSO 24
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40120
+#EXTINF:-1 tvg-id="" tvg-name="24hs: O11ZE" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: O11ZE
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26780
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Oggy e As Baratas" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Oggy e As Baratas
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26781
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Om Nom" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Om Nom
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/27498
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Os Flinstones" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Os Flinstones
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26782
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Os Jetsons" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Os Jetsons
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26783
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Os Padrinhos Mágicos" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Os Padrinhos Mágicos
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29946
+#EXTINF:-1 tvg-id="" tvg-name="24hs: OS SIMPSON  27 TEMPORADA" tvg-logo="" group-title="24 Horas",24hs: OS SIMPSON  27 TEMPORADA
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40075
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Os Simpsons" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Os Simpsons
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26785
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Os Trapalhões" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Os Trapalhões
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29926
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Os Ursinhos Gummi" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Os Ursinhos Gummi
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26786
+#EXTINF:-1 tvg-id="" tvg-name="24hs: OS VINGADORES" tvg-logo="" group-title="24 Horas",24hs: OS VINGADORES
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40095
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Os Vingadores Desenho" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Os Vingadores Desenho
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29932
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Outsiders 1" tvg-logo="" group-title="24 Horas",24hs: Outsiders 1
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40040
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Outsiders 2" tvg-logo="" group-title="24 Horas",24hs: Outsiders 2
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40041
+#EXTINF:-1 tvg-id="" tvg-name="24hs: padrinhos magicos" tvg-logo="" group-title="24 Horas",24hs: padrinhos magicos
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40103
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Patati Patata" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Patati Patata
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29939
+#EXTINF:-1 tvg-id="" tvg-name="24hs: PATATI PATATA" tvg-logo="" group-title="24 Horas",24hs: PATATI PATATA
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40094
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Patrulha Canina" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Patrulha Canina
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26787
+#EXTINF:-1 tvg-id="" tvg-name="24hs: PEARL JAM SHOW" tvg-logo="" group-title="24 Horas",24hs: PEARL JAM SHOW
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40114
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Peppa Pig" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Peppa Pig
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26788
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Pequenos Espiões" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Pequenos Espiões
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26789
+#EXTINF:-1 tvg-id="" tvg-name="24hs: PESADELO NA COZINHA" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: PESADELO NA COZINHA
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42302
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Pica Pau" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Pica Pau
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26790
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Pica Pau Tom e Jerry" tvg-logo="" group-title="24 Horas",24hs: Pica Pau Tom e Jerry
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40043
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Pingu" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Pingu
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26791
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Pocoyo" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Pocoyo
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/27495
+#EXTINF:-1 tvg-id="" tvg-name="24hs: POCOYO" tvg-logo="" group-title="24 Horas",24hs: POCOYO
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40045
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Pokémon" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Pokémon
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26792
+#EXTINF:-1 tvg-id="" tvg-name="24hs: POLICIA 24 HORAS" tvg-logo="" group-title="24 Horas",24hs: POLICIA 24 HORAS
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40073
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Popeye" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Popeye
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26793
+#EXTINF:-1 tvg-id="" tvg-name="24hs: POWER RANGER" tvg-logo="" group-title="24 Horas",24hs: POWER RANGER
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40121
+#EXTINF:-1 tvg-id="" tvg-name="24hs: prepa pig" tvg-logo="" group-title="24 Horas",24hs: prepa pig
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40092
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Prison Break 5" tvg-logo="" group-title="24 Horas",24hs: Prison Break 5
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40048
+#EXTINF:-1 tvg-id="" tvg-name="24hs: RAMBO 24H" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: RAMBO 24H
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42301
+#EXTINF:-1 tvg-id="" tvg-name="24hs: RECRUTA ZERO 24H" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: RECRUTA ZERO 24H
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42300
+#EXTINF:-1 tvg-id="" tvg-name="24hs: RED HOT CHILI PEPPERS SHOW" tvg-logo="" group-title="24 Horas",24hs: RED HOT CHILI PEPPERS SHOW
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40109
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Rick And Morty" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Rick And Morty
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29935
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Rick And Morty 2" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Rick And Morty 2
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29944
+#EXTINF:-1 tvg-id="" tvg-name="24hs: ROMA" tvg-logo="" group-title="24 Horas",24hs: ROMA
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40117
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Senran Kagura Shinovi" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Senran Kagura Shinovi
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29945
+#EXTINF:-1 tvg-id="" tvg-name="24hs: She Ra" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: She Ra
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26795
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Show da Luna" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Show da Luna
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26796
+#EXTINF:-1 tvg-id="" tvg-name="24hs: SHOW GOSPEL" tvg-logo="" group-title="24 Horas",24hs: SHOW GOSPEL
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40083
+#EXTINF:-1 tvg-id="" tvg-name="24hs: SIMPSON 1" tvg-logo="" group-title="24 Horas",24hs: SIMPSON 1
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40076
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Sitio do Pica Pau Amarelo" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Sitio do Pica Pau Amarelo
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26797
+#EXTINF:-1 tvg-id="" tvg-name="24hs: SkyLanders Academy" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: SkyLanders Academy
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26798
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Snoopy no Espaço" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Snoopy no Espaço
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26799
+#EXTINF:-1 tvg-id="" tvg-name="24hs: South Park" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: South Park
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26800
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Speed Racer" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Speed Racer
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26801
+#EXTINF:-1 tvg-id="" tvg-name="24hs: SPEED RACER" tvg-logo="" group-title="24 Horas",24hs: SPEED RACER
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40087
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Star Trek 1" tvg-logo="" group-title="24 Horas",24hs: Star Trek 1
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40050
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Star Trek 2" tvg-logo="" group-title="24 Horas",24hs: Star Trek 2
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40051
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Star Wars Clone" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Star Wars Clone
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26802
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Stranger Things 2" tvg-logo="" group-title="24 Horas",24hs: Stranger Things 2
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40052
+#EXTINF:-1 tvg-id="" tvg-name="24hs: STREET FIGTHER" tvg-logo="" group-title="24 Horas",24hs: STREET FIGTHER
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40089
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Super Drags" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Super Drags
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26803
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Super Mario" tvg-logo="" group-title="24 Horas",24hs: Super Mario
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/49682
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Super Shock" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Super Shock
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26804
+#EXTINF:-1 tvg-id="" tvg-name="24hs: SuperMan" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: SuperMan
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26805
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Supernatural 1" tvg-logo="" group-title="24 Horas",24hs: Supernatural 1
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40053
+#EXTINF:-1 tvg-id="" tvg-name="24hs: TAzMania" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: TAzMania
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26806
+#EXTINF:-1 tvg-id="" tvg-name="24hs: THE BIG BANG THEORY 1 TEMPORADA" tvg-logo="" group-title="24 Horas",24hs: THE BIG BANG THEORY 1 TEMPORADA
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40077
+#EXTINF:-1 tvg-id="" tvg-name="24hs: The Big Bang Theory 2" tvg-logo="" group-title="24 Horas",24hs: The Big Bang Theory 2
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40055
+#EXTINF:-1 tvg-id="" tvg-name="24hs: The Big Bang Theory 3" tvg-logo="" group-title="24 Horas",24hs: The Big Bang Theory 3
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40056
+#EXTINF:-1 tvg-id="" tvg-name="24hs: ThunderCats" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: ThunderCats
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26807
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Tico e Teco: Defensores da Lei" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Tico e Teco: Defensores da Lei
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26808
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Timão e Pumba" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Timão e Pumba
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26809
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Todo Mundo Odeia o Cris" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Todo Mundo Odeia o Cris
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/27500
+#EXTINF:-1 tvg-id="" tvg-name="24hs: TODO MUNDO ODEIA O CRIS" tvg-logo="" group-title="24 Horas",24hs: TODO MUNDO ODEIA O CRIS
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40119
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Tom e Jerry" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Tom e Jerry
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26810
+#EXTINF:-1 tvg-id="" tvg-name="24hs: tradiz of Tomorrow  2" tvg-logo="" group-title="24 Horas",24hs: tradiz of Tomorrow  2
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40018
+#EXTINF:-1 tvg-id="" tvg-name="24hs: TRATO FEITO" tvg-logo="" group-title="24 Horas",24hs: TRATO FEITO
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40115
+#EXTINF:-1 tvg-id="" tvg-name="24hs: treis porquinhos" tvg-logo="" group-title="24 Horas",24hs: treis porquinhos
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40093
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Turma da Monica" tvg-logo="" group-title="24 Horas",24hs: Turma da Monica
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40057
+#EXTINF:-1 tvg-id="" tvg-name="24hs: ursinhos carinhosos e  tom & jerry" tvg-logo="" group-title="24 Horas",24hs: ursinhos carinhosos e  tom & jerry
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40058
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Vampirina" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Vampirina
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26811
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Velozes e Furiosos" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Velozes e Furiosos
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26812
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Vikings 1" tvg-logo="" group-title="24 Horas",24hs: Vikings 1
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40059
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Vikings 3" tvg-logo="" group-title="24 Horas",24hs: Vikings 3
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40060
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Vikings 4" tvg-logo="" group-title="24 Horas",24hs: Vikings 4
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40061
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Vikings 5" tvg-logo="" group-title="24 Horas",24hs: Vikings 5
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40062
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Vikins 2" tvg-logo="" group-title="24 Horas",24hs: Vikins 2
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40063
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Where is Chicky" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Where is Chicky
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/27497
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Wolverine e os X men" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Wolverine e os X men
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26813
+#EXTINF:-1 tvg-id="" tvg-name="24hs: X MAN" tvg-logo="" group-title="24 Horas",24hs: X MAN
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40104
+#EXTINF:-1 tvg-id="" tvg-name="24hs: X Men" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: X Men
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26814
+#EXTINF:-1 tvg-id="" tvg-name="24hs: X-Men Antigo" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: X-Men Antigo
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29929
+#EXTINF:-1 tvg-id="" tvg-name="24hs: Zé Colméia" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/24.png" group-title="24 Horas",24hs: Zé Colméia
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26815
+#EXTINF:-1 tvg-id="" tvg-name="A fazenda HD" tvg-logo="" group-title="Reality",A fazenda HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/55173
+#EXTINF:-1 tvg-id="" tvg-name="A historia de Deus com Morgan Freeman 1" tvg-logo="" group-title="24 Horas",A historia de Deus com Morgan Freeman 1
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39939
+#EXTINF:-1 tvg-id="" tvg-name="A Maldicao da Residencia" tvg-logo="" group-title="24 Horas",A Maldicao da Residencia
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39941
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E SD²" tvg-logo="http://img.appino.tv/img/aande.png" group-title="Filmes / Séries",A&E SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42905
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E SD¹" tvg-logo="http://img.appino.tv/img/aande.png" group-title="Filmes / Séries",A&E SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/526
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD²" tvg-logo="http://img.appino.tv/img/amchd.png" group-title="Filmes / Séries",AMC SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42907
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD¹" tvg-logo="http://img.appino.tv/img/amchd.png" group-title="Filmes / Séries",AMC SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/522
+#EXTINF:-1 tvg-id="" tvg-name="American Horror 3" tvg-logo="" group-title="24 Horas",American Horror 3
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39942
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET SD²" tvg-logo="http://img.appino.tv/img/animalplanethd.png" group-title="Documentários",ANIMAL PLANET SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42848
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET SD¹" tvg-logo="http://img.appino.tv/img/animalplanethd.png" group-title="Documentários",ANIMAL PLANET SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/517
+#EXTINF:-1 tvg-id="" tvg-name="Apenas Um Show" tvg-logo="" group-title="24 Horas",Apenas Um Show
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39947
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE 1 SD" tvg-logo="http://img.appino.tv/img/arte1.png" group-title="Variedades | Músicas",ARTE 1 SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43010
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="ARTE 1 SD¹" tvg-logo="http://img.appino.tv/img/arte1.png" group-title="Variedades | Músicas",ARTE 1 SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/515
+#EXTINF:-1 tvg-id="" tvg-name="Assedio" tvg-logo="" group-title="24 Horas",Assedio
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39952
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD²" tvg-logo="http://img.appino.tv/img/axn1.png" group-title="Filmes / Séries",AXN SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42909
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD¹" tvg-logo="http://img.appino.tv/img/axn1.png" group-title="Filmes / Séries",AXN SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/511
+#EXTINF:-1 tvg-id="babytv.br" tvg-name="BABY TV SD²" tvg-logo="http://img.appino.tv/img/babytv.png" group-title="Kids",BABY TV SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42975
+#EXTINF:-1 tvg-id="babytv.br" tvg-name="BABY TV SD¹" tvg-logo="http://img.appino.tv/img/babytv.png" group-title="Kids",BABY TV SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/509
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band Campinas SD" tvg-logo="http://img.appino.tv/img/tvbandeirantes.png" group-title="Canais Abertos",Band Campinas SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29841
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS SD²" tvg-logo="http://img.appino.tv/img/bandnews.png" group-title="Notícias",BAND NEWS SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43004
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS SD¹" tvg-logo="http://img.appino.tv/img/bandnews.png" group-title="Notícias",BAND NEWS SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/501
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SD" tvg-logo="http://img.appino.tv/img/bandeirantes.png" group-title="Canais Abertos",BAND SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/500
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD²" tvg-logo="http://img.appino.tv/img/bandsports.png" group-title="Esportes",BAND SPORTS SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42873
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD¹" tvg-logo="http://img.appino.tv/img/bandsports.png" group-title="Esportes",BAND SPORTS SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/496
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS SD²" tvg-logo="http://img.appino.tv/img/bishd.png" group-title="Variedades | Músicas",BIS SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43012
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS SD¹" tvg-logo="http://img.appino.tv/img/bishd.png" group-title="Variedades | Músicas",BIS SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/493
+#EXTINF:-1 tvg-id="Boa Vontade TV" tvg-name="BOA VONTADE TV SD" tvg-logo="http://img.appino.tv/img/boavontadetv.png" group-title="Religioso",BOA VONTADE TV SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/492
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG SD²" tvg-logo="http://img.appino.tv/img/boomerang.png" group-title="Kids",BOOMERANG SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42977
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG SD¹" tvg-logo="http://img.appino.tv/img/boomerang.png" group-title="Kids",BOOMERANG SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/488
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA HD 01" tvg-logo="" group-title="Esportes PPV",CAMPEONATO CARIOCA HD 01
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/45899
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA HD 02" tvg-logo="" group-title="Esportes PPV",CAMPEONATO CARIOCA HD 02
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/45900
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA HD 03" tvg-logo="" group-title="Esportes PPV",CAMPEONATO CARIOCA HD 03
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/45901
+#EXTINF:-1 tvg-id="" tvg-name="CAMPEONATO CARIOCA HD 04" tvg-logo="" group-title="Esportes PPV",CAMPEONATO CARIOCA HD 04
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/45902
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL SD²" tvg-logo="http://img.appino.tv/img/canalbrasil.png" group-title="Filmes / Séries",CANAL BRASIL SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42911
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL SD¹" tvg-logo="http://img.appino.tv/img/canalbrasil.png" group-title="Filmes / Séries",CANAL BRASIL SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/486
+#EXTINF:-1 tvg-id="" tvg-name="Canal Mundial SD" tvg-logo="http://img.appino.tv/img/mundialDOreino.png" group-title="Religioso",Canal Mundial SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/28287
+#EXTINF:-1 tvg-id="RIT TV" tvg-name="Canal RIT" tvg-logo="http://img.appino.tv/img/rit.png" group-title="Religioso",Canal RIT
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26297
+#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL SD" tvg-logo="" group-title="Canais Abertos",CANAL RURAL SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/49729
+#EXTINF:-1 tvg-id="TV Canção Nova" tvg-name="CANCAO NOVA SD" tvg-logo="http://img.appino.tv/img/cancaonova.png" group-title="Religioso",CANCAO NOVA SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/479
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK SD²" tvg-logo="http://img.appino.tv/img/cartoonnetwork.png" group-title="Kids",CARTOON NETWORK SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42979
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK SD¹" tvg-logo="http://img.appino.tv/img/cartoonnetwork.png" group-title="Kids",CARTOON NETWORK SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/475
+#EXTINF:-1 tvg-id="" tvg-name="CATERINENSE 1 HD" tvg-logo="" group-title="Esportes PPV",CATERINENSE 1 HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/45896
+#EXTINF:-1 tvg-id="" tvg-name="CATERINENSE 2 HD" tvg-logo="" group-title="Esportes PPV",CATERINENSE 2 HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/45897
+#EXTINF:-1 tvg-id="" tvg-name="CATERINENSE 3 HD" tvg-logo="" group-title="Esportes PPV",CATERINENSE 3 HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/45898
+#EXTINF:-1 tvg-id="" tvg-name="Cavaleiros do Zodiaco" tvg-logo="" group-title="24 Horas",Cavaleiros do Zodiaco
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39965
+#EXTINF:-1 tvg-id="cheftv.br" tvg-name="CHEF TV SD¹" tvg-logo="http://img.appino.tv/img/cheftv.png" group-title="Variedades | Músicas",CHEF TV SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/24256
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX SD²" tvg-logo="http://img.appino.tv/img/cinemax.png" group-title="Filmes / Séries",CINEMAX SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42913
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="CINEMAX SD¹" tvg-logo="http://img.appino.tv/img/cinemax.png" group-title="Filmes / Séries",CINEMAX SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/465
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN BRASIL SD²" tvg-logo="http://img.appino.tv/img/cnnBrasil.png" group-title="Notícias",CNN BRASIL SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42299
+#EXTINF:-1 tvg-id="CNNE" tvg-name="CNN ESPANHOL SD" tvg-logo="http://img.appino.tv/img/cnnenespanol.png" group-title="Notícias",CNN ESPANHOL SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/464
+#EXTINF:-1 tvg-id="CNN International" tvg-name="CNN INTERNACIONAL SD" tvg-logo="http://img.appino.tv/img/cnninternacional.png" group-title="Notícias",CNN INTERNACIONAL SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/463
+#EXTINF:-1 tvg-id="cnt.br" tvg-name="CNT SD" tvg-logo="http://img.appino.tv/img/cnt.png" group-title="Canais Abertos",CNT SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/462
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD²" tvg-logo="http://img.appino.tv/img/combate.png" group-title="Esportes",COMBATE SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42875
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE SD¹" tvg-logo="http://img.appino.tv/img/combate.png" group-title="Esportes",COMBATE SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/459
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL SD²" tvg-logo="http://img.appino.tv/img/comedycentral.png" group-title="Comédia",COMEDY CENTRAL SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42846
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL SD¹" tvg-logo="http://img.appino.tv/img/comedycentral.png" group-title="Comédia",COMEDY CENTRAL SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/456
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 01 SD" tvg-logo="" group-title="Esportes PPV",CONMEBOL 01 SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/34703
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 02 SD" tvg-logo="" group-title="Esportes PPV",CONMEBOL 02 SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/34704
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 03 SD" tvg-logo="" group-title="Esportes PPV",CONMEBOL 03 SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/34705
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 04 SD" tvg-logo="" group-title="Esportes PPV",CONMEBOL 04 SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/34706
+#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA SD²" tvg-logo="http://img.appino.tv/img/curta.png" group-title="Variedades | Músicas",CURTA SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43014
+#EXTINF:-1 tvg-id="curta.br" tvg-name="CURTA SD¹" tvg-logo="http://img.appino.tv/img/curta.png" group-title="Variedades | Músicas",CURTA SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/455
+#EXTINF:-1 tvg-id="" tvg-name="DAZN #1" tvg-logo="http://img.appino.tv/img/dazn.png" group-title="Esportes",DAZN #1
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29962
+#EXTINF:-1 tvg-id="" tvg-name="DAZN #2" tvg-logo="http://img.appino.tv/img/dazn.png" group-title="Esportes",DAZN #2
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29963
+#EXTINF:-1 tvg-id="" tvg-name="DAZN #3" tvg-logo="http://img.appino.tv/img/dazn.png" group-title="Esportes",DAZN #3
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39733
+#EXTINF:-1 tvg-id="" tvg-name="DAZN #4" tvg-logo="http://img.appino.tv/img/dazn.png" group-title="Esportes",DAZN #4
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39734
+#EXTINF:-1 tvg-id="" tvg-name="DAZN #5" tvg-logo="http://img.appino.tv/img/dazn.png" group-title="Esportes",DAZN #5
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43053
+#EXTINF:-1 tvg-id="" tvg-name="DAZN #6" tvg-logo="http://img.appino.tv/img/dazn.png" group-title="Esportes",DAZN #6
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43054
+#EXTINF:-1 tvg-id="" tvg-name="DAZN #7" tvg-logo="http://img.appino.tv/img/dazn.png" group-title="Esportes",DAZN #7
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43055
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EXTRA #01" tvg-logo="http://img.appino.tv/img/dazn.png" group-title="Esportes",DAZN EXTRA #01
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/21244
+#EXTINF:-1 tvg-id="" tvg-name="DESASTRES AEREOS" tvg-logo="" group-title="24 Horas",DESASTRES AEREOS
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40074
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL SD²" tvg-logo="http://img.appino.tv/img/discovery.png" group-title="Documentários",DISCOVERY CHANNEL SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42850
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL SD¹" tvg-logo="http://img.appino.tv/img/discovery.png" group-title="Documentários",DISCOVERY CHANNEL SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/451
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DISCOVERY H&H SD²" tvg-logo="http://img.appino.tv/img/discoveryhomeandhealth.png" group-title="Documentários",DISCOVERY H&H SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42852
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="DISCOVERY H&H SD¹" tvg-logo="http://img.appino.tv/img/discoveryhomeandhealth.png" group-title="Documentários",DISCOVERY H&H SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/444
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS SD²" tvg-logo="http://img.appino.tv/img/discoverykids.png" group-title="Kids",DISCOVERY KIDS SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42981
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS SD¹" tvg-logo="http://img.appino.tv/img/discoverykids.png" group-title="Kids",DISCOVERY KIDS SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/440
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="http://img.appino.tv/img/discoveryscience.png" group-title="Documentários",DISCOVERY SCIENCE SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42296
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="http://img.appino.tv/img/discoverytheaterhd.png" group-title="Documentários",DISCOVERY THEATER SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29895
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO SD²" tvg-logo="http://img.appino.tv/img/discoveryturbo.png" group-title="Documentários",DISCOVERY TURBO SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42856
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO SD¹" tvg-logo="http://img.appino.tv/img/discoveryturbo.png" group-title="Documentários",DISCOVERY TURBO SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/431
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD SD²" tvg-logo="http://img.appino.tv/img/discoveryworldhd.png" group-title="Documentários",DISCOVERY WORLD SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42858
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD SD¹" tvg-logo="http://img.appino.tv/img/discoveryworldhd.png" group-title="Documentários",DISCOVERY WORLD SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/34324
+#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL SD²" tvg-logo="http://img.appino.tv/img/disney.png" group-title="Kids",DISNEY CHANNEL SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42983
+#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL SD¹" tvg-logo="http://img.appino.tv/img/disney.png" group-title="Kids",DISNEY CHANNEL SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/425
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="DISNEY JUNIOR SD²" tvg-logo="http://img.appino.tv/img/disneyjunior.png" group-title="Kids",DISNEY JUNIOR SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42985
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="DISNEY JUNIOR SD¹" tvg-logo="http://img.appino.tv/img/disneyjunior.png" group-title="Kids",DISNEY JUNIOR SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/421
+#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="DISNEY XD SD²" tvg-logo="http://img.appino.tv/img/disneyxd.png" group-title="Kids",DISNEY XD SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42987
+#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="DISNEY XD SD¹" tvg-logo="http://img.appino.tv/img/disneyxd.png" group-title="Kids",DISNEY XD SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/419
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! SD²" tvg-logo="http://img.appino.tv/img/e!.png" group-title="Variedades | Músicas",E! SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43017
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! SD¹" tvg-logo="http://img.appino.tv/img/e!.png" group-title="Variedades | Músicas",E! SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/416
+#EXTINF:-1 tvg-id="" tvg-name="EI PLUS SD" tvg-logo="http://img.appino.tv/img/eiplus.png" group-title="Esportes",EI PLUS SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29365
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 01 HD²" tvg-logo="http://img.appino.tv/img/eiplus.png" group-title="Esportes PPV",EIPLUS 01 HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43048
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 01 HD³" tvg-logo="http://img.appino.tv/img/eiplus.png" group-title="Esportes PPV",EIPLUS 01 HD³
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43049
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 01 HD¹" tvg-logo="http://img.appino.tv/img/eiplus.png" group-title="Esportes PPV",EIPLUS 01 HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/34318
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 02 HD" tvg-logo="http://img.appino.tv/img/eiplus.png" group-title="Esportes PPV",EIPLUS 02 HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/34319
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 03 HD" tvg-logo="http://img.appino.tv/img/eiplus.png" group-title="Esportes PPV",EIPLUS 03 HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/34320
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 04 HD" tvg-logo="http://img.appino.tv/img/eiplus.png" group-title="Esportes PPV",EIPLUS 04 HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/34321
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 05 HD" tvg-logo="http://img.appino.tv/img/eiplus.png" group-title="Esportes PPV",EIPLUS 05 HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/34322
+#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 06 HD" tvg-logo="http://img.appino.tv/img/eiplus.png" group-title="Esportes PPV",EIPLUS 06 HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/34323
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CANAL 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Esportes PPV",ELEVEN SPORTS CANAL 1
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/54955
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CANAL 10" tvg-logo="http://iptv.appino.tv:80/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="Esportes PPV",ELEVEN SPORTS CANAL 10
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/54964
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CANAL 2" tvg-logo="http://iptv.appino.tv:80/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="Esportes PPV",ELEVEN SPORTS CANAL 2
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/54956
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CANAL 3" tvg-logo="http://iptv.appino.tv:80/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="Esportes PPV",ELEVEN SPORTS CANAL 3
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/54957
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CANAL 4" tvg-logo="http://iptv.appino.tv:80/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="Esportes PPV",ELEVEN SPORTS CANAL 4
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/54958
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CANAL 5" tvg-logo="http://iptv.appino.tv:80/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="Esportes PPV",ELEVEN SPORTS CANAL 5
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/54959
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CANAL 6" tvg-logo="http://iptv.appino.tv:80/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="Esportes PPV",ELEVEN SPORTS CANAL 6
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/54960
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CANAL 7" tvg-logo="http://iptv.appino.tv:80/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="Esportes PPV",ELEVEN SPORTS CANAL 7
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/54961
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CANAL 8" tvg-logo="http://iptv.appino.tv:80/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="Esportes PPV",ELEVEN SPORTS CANAL 8
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/54962
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS CANAL 9" tvg-logo="http://iptv.appino.tv:80/images/19e6c50faf8e7eac2d14f46a5f55706e.png" group-title="Esportes PPV",ELEVEN SPORTS CANAL 9
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/54963
+#EXTINF:-1 tvg-id="ESPN 2 FHD H.265" tvg-name="ESPN 2 SD²" tvg-logo="http://img.appino.tv/img/espn2.png" group-title="Esportes",ESPN 2 SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42877
+#EXTINF:-1 tvg-id="ESPN 2 FHD H.265" tvg-name="ESPN 2 SD¹" tvg-logo="http://img.appino.tv/img/espn2.png" group-title="Esportes",ESPN 2 SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/22824
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN BRASIL SD²" tvg-logo="http://img.appino.tv/img/espnbrasil.png" group-title="Esportes",ESPN BRASIL SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42879
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN BRASIL SD¹" tvg-logo="http://img.appino.tv/img/espnbrasil.png" group-title="Esportes",ESPN BRASIL SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/406
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN EXTRA SD²" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/129X55_IMG_cnh_esp_ESPNExtra.png/6be6d1e3-9c64-7929-983e-1bf6cda11ec9?t=1521052408940" group-title="Esportes",ESPN EXTRA SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42881
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN EXTRA SD¹" tvg-logo="https://www.sky.com.br/documents/1407842/29152427/129X55_IMG_cnh_esp_ESPNExtra.png/6be6d1e3-9c64-7929-983e-1bf6cda11ec9?t=1521052408940" group-title="Esportes",ESPN EXTRA SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/402
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN SD²" tvg-logo="http://img.appino.tv/img/espn.png" group-title="Esportes",ESPN SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42883
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN SD¹" tvg-logo="http://img.appino.tv/img/espn.png" group-title="Esportes",ESPN SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/397
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT 2 HD" tvg-logo="" group-title="Esportes PPV",ESTADIO TNT 2 HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/45969
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT HD" tvg-logo="" group-title="Esportes PPV",ESTADIO TNT HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/45968
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 1 HD" tvg-logo="https://theme.zdassets.com/theme_assets/467451/9efd79eb4b10091194d13fd3214144ec401d6049.png" group-title="Esportes PPV",Estádio TNT Sports 1 HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/54965
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 2 HD" tvg-logo="https://theme.zdassets.com/theme_assets/467451/9efd79eb4b10091194d13fd3214144ec401d6049.png" group-title="Esportes PPV",Estádio TNT Sports 2 HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/54966
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 3 HD" tvg-logo="https://theme.zdassets.com/theme_assets/467451/9efd79eb4b10091194d13fd3214144ec401d6049.png" group-title="Esportes PPV",Estádio TNT Sports 3 HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/54967
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 4 HD" tvg-logo="https://theme.zdassets.com/theme_assets/467451/9efd79eb4b10091194d13fd3214144ec401d6049.png" group-title="Esportes PPV",Estádio TNT Sports 4 HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/54968
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 5 HD" tvg-logo="https://theme.zdassets.com/theme_assets/467451/9efd79eb4b10091194d13fd3214144ec401d6049.png" group-title="Esportes PPV",Estádio TNT Sports 5 HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/54969
+#EXTINF:-1 tvg-id="" tvg-name="Estádio TNT Sports 6 HD" tvg-logo="https://theme.zdassets.com/theme_assets/467451/9efd79eb4b10091194d13fd3214144ec401d6049.png" group-title="Esportes PPV",Estádio TNT Sports 6 HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/54970
+#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS 1 TEMPORADA" tvg-logo="" group-title="24 Horas",EU A PATROA E AS CRIANÇAS 1 TEMPORADA
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40064
+#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS 2 TEMPORADA" tvg-logo="" group-title="24 Horas",EU A PATROA E AS CRIANÇAS 2 TEMPORADA
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40065
+#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS 3 TEMPORADA" tvg-logo="" group-title="24 Horas",EU A PATROA E AS CRIANÇAS 3 TEMPORADA
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40066
+#EXTINF:-1 tvg-id="Film&Arts" tvg-name="Film&Arts SD" tvg-logo="http://img.appino.tv/img/filmandarts.png" group-title="Filmes / Séries",Film&Arts SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29956
+#EXTINF:-1 tvg-id="FISH TV" tvg-name="FISH TV SD²" tvg-logo="http://img.appino.tv/img/fishtv.png" group-title="Esportes",FISH TV SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/396
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="FISH TV SD²" tvg-logo="http://img.appino.tv/img/fishtv.png" group-title="Documentários",FISH TV SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42884
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK SD²" tvg-logo="http://img.appino.tv/img/foodnetworkhd.png" group-title="Variedades | Músicas",FOOD NETWORK SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43020
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK SD¹" tvg-logo="http://img.appino.tv/img/foodnetworkhd.png" group-title="Variedades | Músicas",FOOD NETWORK SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/392
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="FOX LIFE SD²" tvg-logo="http://img.appino.tv/img/foxlife.png" group-title="Filmes / Séries",FOX LIFE SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42917
+#EXTINF:-1 tvg-id="Fox Life HD" tvg-name="FOX LIFE SD¹" tvg-logo="http://img.appino.tv/img/foxlife.png" group-title="Filmes / Séries",FOX LIFE SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/385
+#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="FOX PREMIUM 1 SD²" tvg-logo="http://img.appino.tv/img/foxp1.png" group-title="Filmes / Séries",FOX PREMIUM 1 SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42919
+#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="FOX PREMIUM 1 SD¹" tvg-logo="http://img.appino.tv/img/foxp1.png" group-title="Filmes / Séries",FOX PREMIUM 1 SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/24259
+#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="FOX PREMIUM 2 SD²" tvg-logo="http://img.appino.tv/img/foxp2.png" group-title="Filmes / Séries",FOX PREMIUM 2 SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42921
+#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="FOX PREMIUM 2 SD¹" tvg-logo="http://img.appino.tv/img/foxp2.png" group-title="Filmes / Séries",FOX PREMIUM 2 SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/24260
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX SD²" tvg-logo="http://img.appino.tv/img/fox.png" group-title="Filmes / Séries",FOX SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42915
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX SD¹" tvg-logo="http://img.appino.tv/img/fox.png" group-title="Filmes / Séries",FOX SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/380
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORTS 2 SD¹" tvg-logo="http://img.appino.tv/img/foxsports2.png" group-title="Esportes",FOX SPORTS 2 SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/376
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="FOX SPORTS SD²" tvg-logo="http://img.appino.tv/img/foxsports.png" group-title="Esportes",FOX SPORTS SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42887
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="FOX SPORTS SD¹" tvg-logo="http://img.appino.tv/img/foxsports.png" group-title="Esportes",FOX SPORTS SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/372
+#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA SD" tvg-logo="http://img.appino.tv/img/futura.png" group-title="Canais Abertos",FUTURA SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29675
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX SD²" tvg-logo="http://img.appino.tv/img/fx.png" group-title="Filmes / Séries",FX SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42923
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX SD¹" tvg-logo="http://img.appino.tv/img/fx.png" group-title="Filmes / Séries",FX SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/368
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="Globo Anhanguera Goiania SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",Globo Anhanguera Goiania SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29907
+#EXTINF:-1 tvg-id="Globo Bahia" tvg-name="GLOBO BAHIA SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO BAHIA SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/364
+#EXTINF:-1 tvg-id="Globo Bauru" tvg-name="GLOBO BAURU SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO BAURU SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/363
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO BELEM SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO BELEM SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40200
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO BH SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO BH SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40236
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO BRASILIA SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO BRASILIA SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40212
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO BRASILIA SD¹" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO BRASILIA SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/361
+#EXTINF:-1 tvg-id="Globo Centro America Cuiaba" tvg-name="GLOBO CENTRO AMERICA CUIABA SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO CENTRO AMERICA CUIABA SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/359
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO CLOSED CAPTION SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO CLOSED CAPTION SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40145
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO CURITIBA SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO CURITIBA SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40231
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="Globo EPTV Araraquara SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",Globo EPTV Araraquara SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29908
+#EXTINF:-1 tvg-id="Globo Eptv Campinas HD" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO EPTV CAMPINAS SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/358
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO EPTV CAMPINAS SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40210
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO EPTV CENTRAL SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO EPTV CENTRAL SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/357
+#EXTINF:-1 tvg-id="Globo Eptv Ribeirão Preto HD" tvg-name="GLOBO EPTV RIBEIRAO PRETO SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO EPTV RIBEIRAO PRETO SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/355
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO EPTV RIBEIRAO PRETO SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO EPTV RIBEIRAO PRETO SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40211
+#EXTINF:-1 tvg-id="Globo EPTV São Carlos" tvg-name="GLOBO EPTV SAO CARLOS SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO EPTV SAO CARLOS SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/354
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO EPTV SAO CARLOS SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO EPTV SAO CARLOS SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40213
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="GLOBO EPTV SUL MINAS SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO EPTV SUL MINAS SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/353
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO FORTALEZA SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO FORTALEZA SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40220
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO FOZ DO IGUAÇU SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO FOZ DO IGUAÇU SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40151
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO GOIANIA SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO GOIANIA SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/350
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="GLOBO GRANDE MINAS SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO GRANDE MINAS SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/349
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO INTEGRACAO ARAXA SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO INTEGRACAO ARAXA SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40148
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="GLOBO INTEGRACAO SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO INTEGRACAO SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/348
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO INTER TV ALTO LITORAL SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO INTER TV ALTO LITORAL SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40130
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="Globo INTER TV Cabugi RN SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",Globo INTER TV Cabugi RN SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29910
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO INTER TV SERRA MAR SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO INTER TV SERRA MAR SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40192
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="Globo Internacional SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",Globo Internacional SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29911
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="Globo InterTV Serra Mar SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",Globo InterTV Serra Mar SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29913
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO LIBERAL BELEM SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO LIBERAL BELEM SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/346
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO MANAUS SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO MANAUS SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/344
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO  MANAUS SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO  MANAUS SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40197
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="GLOBO MINAS SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO MINAS SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/342
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO MIRANTE COCAIS SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO MIRANTE COCAIS SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/341
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS SD²" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Notícias",GLOBO NEWS SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43007
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS SD¹" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Notícias",GLOBO NEWS SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/337
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="GLOBO NORDESTE SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO NORDESTE SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/335
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO NORDESTE SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO NORDESTE SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40214
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO NSC BLUMENAU SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO NSC BLUMENAU SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/334
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO NSC FLORIANOPOLIS SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO NSC FLORIANOPOLIS SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/24263
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="Globo NSC Joinville SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",Globo NSC Joinville SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29914
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO RBS TV CAXIAS DO SUL SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO RBS TV CAXIAS DO SUL SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40154
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO RBS TV CRICIUMA SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO RBS TV CRICIUMA SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40124
+#EXTINF:-1 tvg-id="Globo RBS TV POA FHD H.265" tvg-name="GLOBO RBS TV POA SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO RBS TV POA SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/330
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO RBS TV SANTA MARIA SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO RBS TV SANTA MARIA SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40187
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="Globo Rede Amazonica SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",Globo Rede Amazonica SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29915
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO RIO SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO RIO SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40206
+#EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="GLOBO RJ SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO RJ SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/326
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="Globo RPC Maringa SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",Globo RPC Maringa SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29916
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="Globo RPC Paranavaí SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",Globo RPC Paranavaí SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29917
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO RPC TV PARANAVAI SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO RPC TV PARANAVAI SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40127
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO SD GOIAS" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO SD GOIAS
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40222
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO SERGIPE SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO SERGIPE SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/322
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO SERRA MAR SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO SERRA MAR SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/321
+#EXTINF:-1 tvg-id="Globo Sorocaba" tvg-name="GLOBO SOROCABA SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO SOROCABA SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/320
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO SP SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO SP SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/316
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO TRIBUNA SANTOS SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO TRIBUNA SANTOS SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/314
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO TV ANHANGUERA GOIANIA SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO TV ANHANGUERA GOIANIA SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40207
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO TV BAHIA SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO TV BAHIA SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40216
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="Globo TV Cabo Branco SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",Globo TV Cabo Branco SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29919
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO TV CABO BRANCO SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO TV CABO BRANCO SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40142
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO TV CENTRO AMERICA CUIABA SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO TV CENTRO AMERICA CUIABA SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40217
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO TV CLUBE PI SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO TV CLUBE PI SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40242
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO TV GAZETA VITORIA SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO TV GAZETA VITORIA SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40136
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO TV MIRANTE SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO TV MIRANTE SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40157
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="Globo TV Morena SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",Globo TV Morena SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29923
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO TV RIO SUL SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO TV RIO SUL SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40133
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO TV SANTA CRUZ SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO TV SANTA CRUZ SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40163
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO TV SERGIPE SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO TV SERGIPE SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40160
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO TV TEM BAURU SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO TV TEM BAURU SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40208
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="Globo TV Tem Rio Preto SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",Globo TV Tem Rio Preto SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29924
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO TV TEM SOROCABA SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO TV TEM SOROCABA SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40209
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO TV TRIBUNA SANTOS SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO TV TRIBUNA SANTOS SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40219
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO TV VANGUARDA S. J. DOS CAMPOS SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO TV VANGUARDA S. J. DOS CAMPOS SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40218
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO VANGUARDA S.J CAMPO SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO VANGUARDA S.J CAMPO SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/311
+#EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO VANGUARDA TAUBATE SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO VANGUARDA TAUBATE SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/310
+#EXTINF:-1 tvg-id="Globo TV Verdes mares [Alter]" tvg-name="GLOBO VERDES MARES FORTALEZA SD" tvg-logo="http://img.appino.tv/img/globo.png" group-title="Canais Globos",GLOBO VERDES MARES FORTALEZA SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/309
+#EXTINF:-1 tvg-id="Gloob" tvg-name="GLOOB SD" tvg-logo="http://img.appino.tv/img/gloob.png" group-title="Kids",GLOOB SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/306
+#EXTINF:-1 tvg-id="Gloob" tvg-name="GLOOB SD²" tvg-logo="http://img.appino.tv/img/gloob.png" group-title="Kids",GLOOB SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42989
+#EXTINF:-1 tvg-id="TV Gloobinho FHD H.265" tvg-name="GLOOBINHO SD²" tvg-logo="" group-title="Kids",GLOOBINHO SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42991
+#EXTINF:-1 tvg-id="TV Gloobinho FHD H.265" tvg-name="GLOOBINHO SD¹" tvg-logo="http://img.appino.tv/img/gloobinho.png" group-title="Kids",GLOOBINHO SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/303
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT SD²" tvg-logo="http://img.appino.tv/img/gnt.png" group-title="Variedades | Músicas",GNT SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43022
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT SD¹" tvg-logo="http://img.appino.tv/img/gnt.png" group-title="Variedades | Músicas",GNT SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/301
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 SD²" tvg-logo="http://img.appino.tv/img/h2.png" group-title="Documentários",H2 SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42860
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 SD¹" tvg-logo="http://img.appino.tv/img/h2.png" group-title="Documentários",H2 SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/297
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 SD²" tvg-logo="http://img.appino.tv/img/hbo2.png" group-title="Filmes / Séries",HBO 2 SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42925
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 SD¹" tvg-logo="http://img.appino.tv/img/hbo2.png" group-title="Filmes / Séries",HBO 2 SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/293
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO FAMILY SD²" tvg-logo="http://img.appino.tv/img/hbofamily.png" group-title="Filmes / Séries",HBO FAMILY SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42927
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO FAMILY SD¹" tvg-logo="http://img.appino.tv/img/hbofamily.png" group-title="Filmes / Séries",HBO FAMILY SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/290
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 1 $" tvg-logo="" group-title="Esportes PPV",HBO MAX CHAMPIONS LEAGUE 1 $
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/55178
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 2 $" tvg-logo="" group-title="Esportes PPV",HBO MAX CHAMPIONS LEAGUE 2 $
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/55174
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 3 $" tvg-logo="" group-title="Esportes PPV",HBO MAX CHAMPIONS LEAGUE 3 $
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/55175
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 4 $" tvg-logo="" group-title="Esportes PPV",HBO MAX CHAMPIONS LEAGUE 4 $
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/55176
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX CHAMPIONS LEAGUE 5 $" tvg-logo="" group-title="Esportes PPV",HBO MAX CHAMPIONS LEAGUE 5 $
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/55177
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI SD LEG" tvg-logo="http://img.appino.tv/img/hbo-mundi.png" group-title="Legendado",HBO MUNDI SD LEG
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39753
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi SD²" tvg-logo="http://img.appino.tv/img/hbo-mundi.png" group-title="Filmes / Séries",HBO Mundi SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42930
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi SD¹" tvg-logo="http://img.appino.tv/img/hbo-mundi.png" group-title="Filmes / Séries",HBO Mundi SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/257
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS SD²" tvg-logo="http://img.appino.tv/img/hboplus.png" group-title="Filmes / Séries",HBO PLUS SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42932
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS SD¹" tvg-logo="http://img.appino.tv/img/hboplus.png" group-title="Filmes / Séries",HBO PLUS SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/284
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop SD" tvg-logo="http://img.appino.tv/img/hbo-pop.png" group-title="Filmes / Séries",HBO Pop SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/254
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop SD²" tvg-logo="http://img.appino.tv/img/hbo-pop.png" group-title="Filmes / Séries",HBO Pop SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42934
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD²" tvg-logo="http://img.appino.tv/img/hbo.png" group-title="Filmes / Séries",HBO SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42935
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD¹" tvg-logo="http://img.appino.tv/img/hbo.png" group-title="Filmes / Séries",HBO SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/283
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE SD²" tvg-logo="http://img.appino.tv/img/hbosignature.png" group-title="Filmes / Séries",HBO SIGNATURE SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42937
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE SD¹" tvg-logo="http://img.appino.tv/img/hbosignature.png" group-title="Filmes / Séries",HBO SIGNATURE SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/280
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME SD²" tvg-logo="http://img.appino.tv/img/hbo-XTREME.png" group-title="Filmes / Séries",HBO XTREME SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42939
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME SD¹" tvg-logo="http://img.appino.tv/img/hbo-XTREME.png" group-title="Filmes / Séries",HBO XTREME SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/258
+#EXTINF:-1 tvg-id="discoverycivilization.br" tvg-name="HGTV SD" tvg-logo="http://img.appino.tv/img/hgtv.jpg" group-title="Documentários",HGTV SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/34325
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY SD²" tvg-logo="http://img.appino.tv/img/historyhd.png" group-title="Documentários",HISTORY SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42864
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY SD¹" tvg-logo="http://img.appino.tv/img/historyhd.png" group-title="Documentários",HISTORY SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/276
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="ID DISCOVERY SD²" tvg-logo="http://img.appino.tv/img/idinvestigacaodiscovery.png" group-title="Documentários",ID DISCOVERY SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42867
+#EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="ID DISCOVERY SD¹" tvg-logo="http://img.appino.tv/img/idinvestigacaodiscovery.png" group-title="Documentários",ID DISCOVERY SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/271
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME SD²" tvg-logo="" group-title="Variedades | Músicas",LIFETIME SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43024
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME SD¹" tvg-logo="http://img.appino.tv/img/lifetime.png" group-title="Variedades | Músicas",LIFETIME SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/266
+#EXTINF:-1 tvg-id="" tvg-name="LIVE FC 01" tvg-logo="" group-title="Esportes PPV",LIVE FC 01
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/45075
+#EXTINF:-1 tvg-id="" tvg-name="LIVE FC 02" tvg-logo="" group-title="Esportes PPV",LIVE FC 02
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/45076
+#EXTINF:-1 tvg-id="" tvg-name="LIVE FC 03" tvg-logo="" group-title="Esportes PPV",LIVE FC 03
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/45077
+#EXTINF:-1 tvg-id="" tvg-name="LIVE FC 04" tvg-logo="" group-title="Esportes PPV",LIVE FC 04
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/45078
+#EXTINF:-1 tvg-id="Mais Globosat" tvg-name="MAIS GLOBOSAT SD²" tvg-logo="http://img.appino.tv/img/maisglobosat.png" group-title="Variedades | Músicas",MAIS GLOBOSAT SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43026
+#EXTINF:-1 tvg-id="Mais Globosat HD" tvg-name="MAIS GLOBOSAT SD¹" tvg-logo="http://img.appino.tv/img/maisglobosat.png" group-title="Variedades | Músicas",MAIS GLOBOSAT SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/264
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MEGA TV SD²" tvg-logo="" group-title="Variedades | Músicas",MEGA TV SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40353
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD²" tvg-logo="http://img.appino.tv/img/megapix.png" group-title="Filmes / Séries",MEGAPIX SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42941
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX SD¹" tvg-logo="http://img.appino.tv/img/megapix.png" group-title="Filmes / Séries",MEGAPIX SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/250
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV SD²" tvg-logo="http://img.appino.tv/img/mtv.png" group-title="Variedades | Músicas",MTV SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43029
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV SD¹" tvg-logo="http://img.appino.tv/img/mtv.png" group-title="Variedades | Músicas",MTV SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/247
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW SD²" tvg-logo="http://img.appino.tv/img/multishow.png" group-title="Variedades | Músicas",MULTISHOW SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43031
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW SD¹" tvg-logo="http://img.appino.tv/img/multishow.png" group-title="Variedades | Músicas",MULTISHOW SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/243
+#EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="MUSIC BOX BRASIL SD²" tvg-logo="http://img.appino.tv/img/musicboxbrazil.png" group-title="Variedades | Músicas",MUSIC BOX BRASIL SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43032
+#EXTINF:-1 tvg-id="musicboxbrazil.br" tvg-name="MUSIC BOX BRASIL SD¹" tvg-logo="http://img.appino.tv/img/musicboxbrazil.png" group-title="Variedades | Músicas",MUSIC BOX BRASIL SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/242
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NATGEO KIDS SD²" tvg-logo="http://img.appino.tv/img/natgeokids.png" group-title="Kids",NATGEO KIDS SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42993
+#EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NATGEO KIDS SD¹" tvg-logo="http://img.appino.tv/img/natgeokids.png" group-title="Kids",NATGEO KIDS SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/236
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="NATGEO SD²" tvg-logo="http://img.appino.tv/img/natgeohd.png" group-title="Documentários",NATGEO SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42869
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="NATGEO SD¹" tvg-logo="http://img.appino.tv/img/natgeohd.png" group-title="Documentários",NATGEO SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/235
+#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NATGEO WILD SD²" tvg-logo="http://img.appino.tv/img/natgeowild.png" group-title="Documentários",NATGEO WILD SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42871
+#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NATGEO WILD SD¹" tvg-logo="http://img.appino.tv/img/natgeowild.png" group-title="Documentários",NATGEO WILD SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/232
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK SD" tvg-logo="http://img.appino.tv/img/nhk.png" group-title="Notícias",NHK SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/230
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK JR SD²" tvg-logo="http://img.appino.tv/img/nickjr.png" group-title="Kids",NICK JR SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42997
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK JR SD¹" tvg-logo="http://img.appino.tv/img/nickjr.png" group-title="Kids",NICK JR SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/223
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nick SD²" tvg-logo="http://img.appino.tv/img/nickelodeon.png" group-title="Kids",Nick SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42995
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nick SD¹" tvg-logo="http://img.appino.tv/img/nickelodeon.png" group-title="Kids",Nick SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/221
+#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="NOVO TEMPO SD" tvg-logo="http://img.appino.tv/img/novotempo.png" group-title="Religioso",NOVO TEMPO SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/216
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD²" tvg-logo="http://img.appino.tv/img/off.png" group-title="Variedades | Músicas",OFF SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43034
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD¹" tvg-logo="http://img.appino.tv/img/off.png" group-title="Variedades | Músicas",OFF SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/213
+#EXTINF:-1 tvg-id="" tvg-name="Padrinhos Magicos e Pica Pau" tvg-logo="" group-title="24 Horas",Padrinhos Magicos e Pica Pau
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40042
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT SD²" tvg-logo="http://img.appino.tv/img/paramount.png" group-title="Filmes / Séries",PARAMOUNT SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42943
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT SD¹" tvg-logo="http://img.appino.tv/img/paramount.png" group-title="Filmes / Séries",PARAMOUNT SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/209
+#EXTINF:-1 tvg-id="" tvg-name="PATRULHA CANINA" tvg-logo="" group-title="24 Horas",PATRULHA CANINA
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40072
+#EXTINF:-1 tvg-id="Play TV" tvg-name="PLAY TV SD" tvg-logo="http://img.appino.tv/img/playtv.png" group-title="Variedades | Músicas",PLAY TV SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/208
+#EXTINF:-1 tvg-id="playtv.br" tvg-name="PlayTV SD" tvg-logo="http://img.appino.tv/img/playtv.png" group-title="Filmes / Séries",PlayTV SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29954
+#EXTINF:-1 tvg-id="" tvg-name="Polishop TV SD" tvg-logo="" group-title="Variedades | Músicas",Polishop TV SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/54928
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- 24 Kitchen FHD" tvg-logo="" group-title="Canais Internacionais",Portugal- 24 Kitchen FHD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52180
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- A Bola TV" tvg-logo="" group-title="Canais Internacionais",Portugal- A Bola TV
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52196
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- A&E" tvg-logo="" group-title="Canais Internacionais",Portugal- A&E
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52177
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Afro Music" tvg-logo="" group-title="Canais Internacionais",Portugal- Afro Music
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52168
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- AMC HD" tvg-logo="" group-title="Canais Internacionais",Portugal- AMC HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52110
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- AXN BLACK" tvg-logo="" group-title="Canais Internacionais",Portugal- AXN BLACK
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52146
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- AXN HD" tvg-logo="" group-title="Canais Internacionais",Portugal- AXN HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52144
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- AXN Movies HD" tvg-logo="" group-title="Canais Internacionais",Portugal- AXN Movies HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52111
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- AXN WHITE HD" tvg-logo="" group-title="Canais Internacionais",Portugal- AXN WHITE HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52145
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Baby Tv" tvg-logo="" group-title="Canais Internacionais",Portugal- Baby Tv
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52113
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- BENFICA TV 1 FHD" tvg-logo="" group-title="Canais Internacionais",Portugal- BENFICA TV 1 FHD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52189
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Biggs" tvg-logo="" group-title="Canais Internacionais",Portugal- Biggs
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52143
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Canal 11" tvg-logo="" group-title="Canais Internacionais",Portugal- Canal 11
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52108
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Canal NOS" tvg-logo="" group-title="Canais Internacionais",Portugal- Canal NOS
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52160
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Canal Panda" tvg-logo="" group-title="Canais Internacionais",Portugal- Canal Panda
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52137
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Canal Q" tvg-logo="" group-title="Canais Internacionais",Portugal- Canal Q
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52126
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Cancao Nova" tvg-logo="" group-title="Canais Internacionais",Portugal- Cancao Nova
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52135
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Cartoon Network" tvg-logo="" group-title="Canais Internacionais",Portugal- Cartoon Network
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52138
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- CaÃ§a e Pesca" tvg-logo="" group-title="Canais Internacionais",Portugal- CaÃ§a e Pesca
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52175
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- CaÃ§avision" tvg-logo="" group-title="Canais Internacionais",Portugal- CaÃ§avision
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52182
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- CINE MUNDO" tvg-logo="" group-title="Canais Internacionais",Portugal- CINE MUNDO
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52158
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- CMTV" tvg-logo="" group-title="Canais Internacionais",Portugal- CMTV
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52195
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- DISCOVERY CHANNEL" tvg-logo="" group-title="Canais Internacionais",Portugal- DISCOVERY CHANNEL
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52174
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Discovery FHD Showcase" tvg-logo="" group-title="Canais Internacionais",Portugal- Discovery FHD Showcase
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52173
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Disney Channel" tvg-logo="" group-title="Canais Internacionais",Portugal- Disney Channel
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52139
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Disney Junior" tvg-logo="" group-title="Canais Internacionais",Portugal- Disney Junior
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52140
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- E! ENTERTAINMENT" tvg-logo="" group-title="Canais Internacionais",Portugal- E! ENTERTAINMENT
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52181
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Eleven Sports 1 FHD 1080" tvg-logo="" group-title="Canais Internacionais",Portugal- Eleven Sports 1 FHD 1080
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52207
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Eleven Sports 2 FHD 1080" tvg-logo="" group-title="Canais Internacionais",Portugal- Eleven Sports 2 FHD 1080
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52211
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Eleven Sports 3 FHD 1080" tvg-logo="" group-title="Canais Internacionais",Portugal- Eleven Sports 3 FHD 1080
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52215
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Eleven Sports 4 FHD 1080" tvg-logo="" group-title="Canais Internacionais",Portugal- Eleven Sports 4 FHD 1080
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52220
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Eleven Sports 5 FHD 1080" tvg-logo="" group-title="Canais Internacionais",Portugal- Eleven Sports 5 FHD 1080
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52224
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Eleven Sports 6 FHD 1080" tvg-logo="" group-title="Canais Internacionais",Portugal- Eleven Sports 6 FHD 1080
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52227
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Euronews" tvg-logo="" group-title="Canais Internacionais",Portugal- Euronews
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52163
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- EUROSPORT 1" tvg-logo="" group-title="Canais Internacionais",Portugal- EUROSPORT 1
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52185
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- EUROSPORT 2" tvg-logo="" group-title="Canais Internacionais",Portugal- EUROSPORT 2
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52186
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Fisclo" tvg-logo="" group-title="Canais Internacionais",Portugal- Fisclo
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52112
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- FOX COMEDY" tvg-logo="" group-title="Canais Internacionais",Portugal- FOX COMEDY
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52155
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- FOX CRIME" tvg-logo="" group-title="Canais Internacionais",Portugal- FOX CRIME
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52154
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- FOX HD" tvg-logo="" group-title="Canais Internacionais",Portugal- FOX HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52151
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Fox Life HD" tvg-logo="" group-title="Canais Internacionais",Portugal- Fox Life HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52152
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- FOX MOVIES" tvg-logo="" group-title="Canais Internacionais",Portugal- FOX MOVIES
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52153
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Historia" tvg-logo="" group-title="Canais Internacionais",Portugal- Historia
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52178
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Hollywood FHD" tvg-logo="" group-title="Canais Internacionais",Portugal- Hollywood FHD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52157
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Jim Jam" tvg-logo="" group-title="Canais Internacionais",Portugal- Jim Jam
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52142
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Kombat Sport" tvg-logo="" group-title="Canais Internacionais",Portugal- Kombat Sport
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52193
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- MCM Pop" tvg-logo="" group-title="Canais Internacionais",Portugal- MCM Pop
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52166
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Mezzo" tvg-logo="" group-title="Canais Internacionais",Portugal- Mezzo
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52165
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Motorsport.tv" tvg-logo="" group-title="Canais Internacionais",Portugal- Motorsport.tv
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52192
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Motorvision" tvg-logo="" group-title="Canais Internacionais",Portugal- Motorvision
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52191
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- MTV Portugal" tvg-logo="" group-title="Canais Internacionais",Portugal- MTV Portugal
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52164
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- NAT GEO HD" tvg-logo="" group-title="Canais Internacionais",Portugal- NAT GEO HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52172
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Nat Geo Wild" tvg-logo="" group-title="Canais Internacionais",Portugal- Nat Geo Wild
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52171
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- NBA TV" tvg-logo="" group-title="Canais Internacionais",Portugal- NBA TV
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52190
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- NICKELODEON" tvg-logo="" group-title="Canais Internacionais",Portugal- NICKELODEON
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52141
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- ODISSEIA" tvg-logo="" group-title="Canais Internacionais",Portugal- ODISSEIA
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52176
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- PFC HD" tvg-logo="" group-title="Canais Internacionais",Portugal- PFC HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52194
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Porto Canal" tvg-logo="" group-title="Canais Internacionais",Portugal- Porto Canal
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52127
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Real Madrid TV" tvg-logo="" group-title="Canais Internacionais",Portugal- Real Madrid TV
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52188
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- RTP 1" tvg-logo="" group-title="Canais Internacionais",Portugal- RTP 1
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52114
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- RTP 2" tvg-logo="" group-title="Canais Internacionais",Portugal- RTP 2
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52115
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- RTP 3" tvg-logo="" group-title="Canais Internacionais",Portugal- RTP 3
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52116
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- RTP Acores" tvg-logo="" group-title="Canais Internacionais",Portugal- RTP Acores
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52117
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- RTP Africa" tvg-logo="" group-title="Canais Internacionais",Portugal- RTP Africa
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52120
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- RTP INTERNACIONAL" tvg-logo="" group-title="Canais Internacionais",Portugal- RTP INTERNACIONAL
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52121
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- RTP Madeira" tvg-logo="" group-title="Canais Internacionais",Portugal- RTP Madeira
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52118
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- RTP Memoria" tvg-logo="" group-title="Canais Internacionais",Portugal- RTP Memoria
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52119
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Sic" tvg-logo="" group-title="Canais Internacionais",Portugal- Sic
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52122
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- SIC Mulher" tvg-logo="" group-title="Canais Internacionais",Portugal- SIC Mulher
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52123
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- SIC NOTICIAS" tvg-logo="" group-title="Canais Internacionais",Portugal- SIC NOTICIAS
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52124
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- SIC Radical" tvg-logo="" group-title="Canais Internacionais",Portugal- SIC Radical
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52125
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- SPORT TV +" tvg-logo="" group-title="Canais Internacionais",Portugal- SPORT TV +
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52187
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Sport TV 1 FHD" tvg-logo="" group-title="Canais Internacionais",Portugal- Sport TV 1 FHD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52198
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Sport TV 2 FHD" tvg-logo="" group-title="Canais Internacionais",Portugal- Sport TV 2 FHD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52201
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Sport TV 3 FHD" tvg-logo="" group-title="Canais Internacionais",Portugal- Sport TV 3 FHD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52203
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Sport TV 4" tvg-logo="" group-title="Canais Internacionais",Portugal- Sport TV 4
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52205
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Sport TV 5" tvg-logo="" group-title="Canais Internacionais",Portugal- Sport TV 5
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52206
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Sporting TV HD" tvg-logo="" group-title="Canais Internacionais",Portugal- Sporting TV HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52197
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- SYFY" tvg-logo="" group-title="Canais Internacionais",Portugal- SYFY
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52156
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- TLC" tvg-logo="" group-title="Canais Internacionais",Portugal- TLC
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52183
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Toros TV" tvg-logo="" group-title="Canais Internacionais",Portugal- Toros TV
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52179
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Trace Urban" tvg-logo="" group-title="Canais Internacionais",Portugal- Trace Urban
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52167
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Travel Channel FHD" tvg-logo="" group-title="Canais Internacionais",Portugal- Travel Channel FHD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52170
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- TV FAtima" tvg-logo="" group-title="Canais Internacionais",Portugal- TV FAtima
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52136
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- TV Globo" tvg-logo="" group-title="Canais Internacionais",Portugal- TV Globo
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52161
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- TV Globo Premium" tvg-logo="" group-title="Canais Internacionais",Portugal- TV Globo Premium
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52162
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- TV RECORD" tvg-logo="" group-title="Canais Internacionais",Portugal- TV RECORD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52134
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- TV Series FHD" tvg-logo="" group-title="Canais Internacionais",Portugal- TV Series FHD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52159
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- TVCine Action FHD" tvg-logo="" group-title="Canais Internacionais",Portugal- TVCine Action FHD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52150
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- TVCine Edition FHD" tvg-logo="" group-title="Canais Internacionais",Portugal- TVCine Edition FHD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52148
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- TVCine Emotion FHD" tvg-logo="" group-title="Canais Internacionais",Portugal- TVCine Emotion FHD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52147
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- TVCine Top FHD" tvg-logo="" group-title="Canais Internacionais",Portugal- TVCine Top FHD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52149
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- TVE 24h" tvg-logo="" group-title="Canais Internacionais",Portugal- TVE 24h
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52129
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- TVE Internacional" tvg-logo="" group-title="Canais Internacionais",Portugal- TVE Internacional
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52128
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- TVI" tvg-logo="" group-title="Canais Internacionais",Portugal- TVI
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52130
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Tvi 24" tvg-logo="" group-title="Canais Internacionais",Portugal- Tvi 24
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52132
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- Tvi Ficcao" tvg-logo="" group-title="Canais Internacionais",Portugal- Tvi Ficcao
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52109
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- TVI HD" tvg-logo="" group-title="Canais Internacionais",Portugal- TVI HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52131
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- TVI Reality" tvg-logo="" group-title="Canais Internacionais",Portugal- TVI Reality
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52133
+#EXTINF:-1 tvg-id="" tvg-name="Portugal- VH1" tvg-logo="" group-title="Canais Internacionais",Portugal- VH1
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/52169
+#EXTINF:-1 tvg-id="" tvg-name="A fazenda HD¹" tvg-logo="" group-title="Reality",A fazenda HD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/48282
+#EXTINF:-1 tvg-id="" tvg-name="A fazenda HD²" tvg-logo="" group-title="Reality",A fazenda HD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/48283
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2 SD¹" tvg-logo="http://img.appino.tv/img/premiere.png" group-title="Esportes",PREMIERE 2 SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/201
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIERE 3 SD" tvg-logo="http://img.appino.tv/img/premiere.png" group-title="Esportes",PREMIERE 3 SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/197
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIERE 4 SD" tvg-logo="http://img.appino.tv/img/premiere.png" group-title="Esportes",PREMIERE 4 SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/192
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIERE 5 SD" tvg-logo="http://img.appino.tv/img/premiere.png" group-title="Esportes",PREMIERE 5 SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/189
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIERE 6 SD" tvg-logo="http://img.appino.tv/img/premiere.png" group-title="Esportes",PREMIERE 6 SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/186
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIERE 7 SD¹" tvg-logo="http://img.appino.tv/img/premiere.png" group-title="Esportes",PREMIERE 7 SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/183
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES SD²" tvg-logo="http://img.appino.tv/img/premiere.png" group-title="Esportes",PREMIERE CLUBES SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42895
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE CLUBES SD¹" tvg-logo="http://img.appino.tv/img/premiere.png" group-title="Esportes",PREMIERE CLUBES SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/177
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRASIL SD²" tvg-logo="http://img.appino.tv/img/primeboxbrasil.png" group-title="Variedades | Músicas",PRIME BOX BRASIL SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43035
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRASIL SD¹" tvg-logo="http://img.appino.tv/img/primeboxbrasil.png" group-title="Variedades | Músicas",PRIME BOX BRASIL SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/176
+#EXTINF:-1 tvg-id="" tvg-name="Prison Break 3" tvg-logo="" group-title="24 Horas",Prison Break 3
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40046
+#EXTINF:-1 tvg-id="" tvg-name="Prison Break 4" tvg-logo="" group-title="24 Horas",Prison Break 4
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40047
+#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV SD" tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/real-madrid-tv.jpg" group-title="Esportes",REAL MADRID TV SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/172
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record Brasília SD" tvg-logo="http://img.appino.tv/img/record.png" group-title="Canais Abertos",Record Brasília SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29844
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record Campinas SD" tvg-logo="http://img.appino.tv/img/record.png" group-title="Canais Abertos",Record Campinas SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29846
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record Esp. Santo SD" tvg-logo="http://img.appino.tv/img/record.png" group-title="Canais Abertos",Record Esp. Santo SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29847
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD GO SD" tvg-logo="http://img.appino.tv/img/record.png" group-title="Canais Abertos",RECORD GO SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39715
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD ITAPOAN SD" tvg-logo="http://img.appino.tv/img/record.png" group-title="Canais Abertos",RECORD ITAPOAN SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39723
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD MANAUS SD" tvg-logo="http://img.appino.tv/img/record.png" group-title="Canais Abertos",RECORD MANAUS SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39719
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD MINAS SD" tvg-logo="http://img.appino.tv/img/record.png" group-title="Canais Abertos",RECORD MINAS SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39727
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS SD²" tvg-logo="http://img.appino.tv/img/recordnews.png" group-title="Notícias",RECORD NEWS SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43008
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS SD¹" tvg-logo="http://img.appino.tv/img/recordnews.png" group-title="Notícias",RECORD NEWS SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/154
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD RIO SD" tvg-logo="http://img.appino.tv/img/record.png" group-title="Canais Abertos",RECORD RIO SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39729
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD RS SD" tvg-logo="http://img.appino.tv/img/record.png" group-title="Canais Abertos",RECORD RS SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39725
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD SP SD" tvg-logo="http://img.appino.tv/img/record.png" group-title="Canais Abertos",RECORD SP SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/147
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD TV BE SD" tvg-logo="http://img.appino.tv/img/record.png" group-title="Canais Abertos",RECORD TV BE SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39717
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD TV BRASÍLIA SD" tvg-logo="http://img.appino.tv/img/record.png" group-title="Canais Abertos",RECORD TV BRASÍLIA SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39721
+#EXTINF:-1 tvg-id="aande.br" tvg-name="RECORD TV SD" tvg-logo="http://img.appino.tv/img/record.png" group-title="Canais Abertos",RECORD TV SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/145
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD TV SP SD" tvg-logo="http://img.appino.tv/img/record.png" group-title="Canais Abertos",RECORD TV SP SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/39731
+#EXTINF:-1 tvg-id="aande.br" tvg-name="Record TV Vitoria SD" tvg-logo="http://img.appino.tv/img/record.png" group-title="Canais Abertos",Record TV Vitoria SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29850
+#EXTINF:-1 tvg-id="redebrasil.br" tvg-name="Rede Brasil SD" tvg-logo="https://pbs.twimg.com/profile_images/588887489160544258/CBrpM62h_400x400.jpg" group-title="Canais Abertos",Rede Brasil SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26075
+#EXTINF:-1 tvg-id="" tvg-name="Rede Familia SD" tvg-logo="http://img.appino.tv/img/redefamilia.png" group-title="Canais Abertos",Rede Familia SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29851
+#EXTINF:-1 tvg-id="redegospel.br" tvg-name="REDE GOSPEL SD" tvg-logo="https://img.rtrmsrv22.gq:8443/images/logos/redegospel.png" group-title="Religioso",REDE GOSPEL SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29852
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV SD²" tvg-logo="http://img.appino.tv/img/redetv.png" group-title="Canais Abertos",REDE TV SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43043
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV SD¹" tvg-logo="http://img.appino.tv/img/redetv.png" group-title="Canais Abertos",REDE TV SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/142
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="REDE VIDA SD¹" tvg-logo="http://img.appino.tv/img/redevida.png" group-title="Canais Abertos",REDE VIDA SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/141
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT Paraná" tvg-logo="" group-title="Canais Abertos",SBT Paraná
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/46058
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SD" tvg-logo="http://img.appino.tv/img/sbt.png" group-title="Canais Abertos",SBT SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/135
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP SD" tvg-logo="http://img.appino.tv/img/sbt.png" group-title="Canais Abertos",SBT SP SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29858
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT TV Jornal Pernambuco SD" tvg-logo="http://img.appino.tv/img/sbt.png" group-title="Canais Abertos",SBT TV Jornal Pernambuco SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29861
+#EXTINF:-1 tvg-id="Shoptime" tvg-name="Shoptime SD" tvg-logo="http://img.appino.tv/img/shoptime.png" group-title="Canais Abertos",Shoptime SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29862
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY SD²" tvg-logo="http://img.appino.tv/img/canalsony.png" group-title="Filmes / Séries",SONY SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42945
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY SD¹" tvg-logo="http://img.appino.tv/img/canalsony.png" group-title="Filmes / Séries",SONY SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/132
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD²" tvg-logo="http://img.appino.tv/img/space.png" group-title="Filmes / Séries",SPACE SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42947
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE SD¹" tvg-logo="http://img.appino.tv/img/space.png" group-title="Filmes / Séries",SPACE SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/128
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 SD²" tvg-logo="http://img.appino.tv/img/sportv2.png" group-title="Esportes",SPORTV 2 SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42897
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 SD¹" tvg-logo="http://img.appino.tv/img/sportv2.png" group-title="Esportes",SPORTV 2 SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/124
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 SD²" tvg-logo="http://img.appino.tv/img/sportv3.png" group-title="Esportes",SPORTV 3 SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42900
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 SD¹" tvg-logo="http://img.appino.tv/img/sportv3.png" group-title="Esportes",SPORTV 3 SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/121
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 4 SD" tvg-logo="" group-title="Esportes",SPORTV 4 SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/53146
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV SD²" tvg-logo="http://img.appino.tv/img/sportv.png" group-title="Esportes",SPORTV SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42902
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV SD¹" tvg-logo="http://img.appino.tv/img/sportv.png" group-title="Esportes",SPORTV SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/117
+#EXTINF:-1 tvg-id="" tvg-name="STAR + HD" tvg-logo="" group-title="Esportes PPV",STAR + HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/55167
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD²" tvg-logo="http://img.appino.tv/img/studiouniversal.png" group-title="Filmes / Séries",STUDIO UNIVERSAL SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42949
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD¹" tvg-logo="http://img.appino.tv/img/studiouniversal.png" group-title="Filmes / Séries",STUDIO UNIVERSAL SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/113
+#EXTINF:-1 tvg-id="" tvg-name="SUPER WINGS" tvg-logo="" group-title="24 Horas",SUPER WINGS
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40070
+#EXTINF:-1 tvg-id="Syfy" tvg-name="SYFY SD²" tvg-logo="http://img.appino.tv/img/syfy.png" group-title="Filmes / Séries",SYFY SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42951
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY SD¹" tvg-logo="http://img.appino.tv/img/syfy.png" group-title="Filmes / Séries",SYFY SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/109
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS SD²" tvg-logo="http://img.appino.tv/img/tbs.png" group-title="Filmes / Séries",TBS SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42953
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS SD¹" tvg-logo="http://img.appino.tv/img/tbs.png" group-title="Filmes / Séries",TBS SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/107
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD²" tvg-logo="http://img.appino.tv/img/tcm.png" group-title="Filmes / Séries",TCM SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42954
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD¹" tvg-logo="http://img.appino.tv/img/tcm.png" group-title="Filmes / Séries",TCM SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/105
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION SD²" tvg-logo="http://img.appino.tv/img/TCAction.png" group-title="Filmes / Séries",TELECINE ACTION SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42956
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE ACTION SD¹" tvg-logo="http://img.appino.tv/img/TCAction.png" group-title="Filmes / Séries",TELECINE ACTION SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/101
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE CULT SD" tvg-logo="http://img.appino.tv/img/TCCult.png" group-title="Filmes / Séries",TELECINE CULT SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/97
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN SD²" tvg-logo="http://img.appino.tv/img/TCFun.png" group-title="Filmes / Séries",TELECINE FUN SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42959
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE FUN SD¹" tvg-logo="http://img.appino.tv/img/TCFun.png" group-title="Filmes / Séries",TELECINE FUN SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/92
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA SD²" tvg-logo="http://img.appino.tv/img/tcPipoca.png" group-title="Filmes / Séries",TELECINE PIPOCA SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42961
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE PIPOCA SD¹" tvg-logo="http://img.appino.tv/img/tcPipoca.png" group-title="Filmes / Séries",TELECINE PIPOCA SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/88
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM SD²" tvg-logo="http://img.appino.tv/img/TCPremium.png" group-title="Filmes / Séries",TELECINE PREMIUM SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42963
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE PREMIUM SD¹" tvg-logo="http://img.appino.tv/img/TCPremium.png" group-title="Filmes / Séries",TELECINE PREMIUM SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/84
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH SD²" tvg-logo="http://img.appino.tv/img/TCTouch.png" group-title="Filmes / Séries",TELECINE TOUCH SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42965
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH SD¹" tvg-logo="http://img.appino.tv/img/TCTouch.png" group-title="Filmes / Séries",TELECINE TOUCH SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/80
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory 1" tvg-logo="" group-title="24 Horas",The Big Bang Theory 1
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40054
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC SD²" tvg-logo="http://img.appino.tv/img/tlc.png" group-title="Variedades | Músicas",TLC SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43037
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC SD¹" tvg-logo="http://img.appino.tv/img/tlc.png" group-title="Variedades | Músicas",TLC SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/77
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD²" tvg-logo="http://img.appino.tv/img/tnt.png" group-title="Filmes / Séries",TNT SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42967
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD¹" tvg-logo="http://img.appino.tv/img/tnt.png" group-title="Filmes / Séries",TNT SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/73
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SERIES SD²" tvg-logo="http://img.appino.tv/img/tntseries.png" group-title="Filmes / Séries",TNT SERIES SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42969
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SERIES SD¹" tvg-logo="http://img.appino.tv/img/tntseries.png" group-title="Filmes / Séries",TNT SERIES SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/69
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST SD²" tvg-logo="http://img.appino.tv/img/tooncast.png" group-title="Kids",TOONCAST SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42999
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST SD¹" tvg-logo="http://img.appino.tv/img/tooncast.png" group-title="Kids",TOONCAST SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/66
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRUTV HD" tvg-logo="http://img.appino.tv/img/trutv.png" group-title="Comédia",TRUTV HD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29665
+#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRUTV SD" tvg-logo="http://img.appino.tv/img/trutv.png" group-title="Comédia",TRUTV SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/65
+#EXTINF:-1 tvg-id="Tv Aparecida" tvg-name="TV APARECIDA SD" tvg-logo="http://img.appino.tv/img/aparecida.png" group-title="Religioso",TV APARECIDA SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/64
+#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV BRASIL SD" tvg-logo="http://img.appino.tv/img/tvbrasil.png" group-title="Canais Abertos",TV BRASIL SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/63
+#EXTINF:-1 tvg-id="TV Cultura HD" tvg-name="TV CULTURA SD" tvg-logo="http://img.appino.tv/img/tvcultura.png" group-title="Canais Abertos",TV CULTURA SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/60
+#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar" tvg-logo="" group-title="Religioso",TV Evangelizar
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/38608
+#EXTINF:-1 tvg-id="" tvg-name="TV MAIS SD" tvg-logo="http://img.appino.tv/img/redemais.png" group-title="Variedades | Músicas",TV MAIS SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26299
+#EXTINF:-1 tvg-id="" tvg-name="TV Pai eterno" tvg-logo="" group-title="Religioso",TV Pai eterno
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/26557
+#EXTINF:-1 tvg-id="" tvg-name="TV Playkids SD" tvg-logo="http://rtrmsrv22.gq:8080/geneilson-restream/odlugTZy4I/755754" group-title="Kids",TV Playkids SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/29952
+#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="TV RA TIM BUM SD²" tvg-logo="http://img.appino.tv/img/tvratimbum.png" group-title="Kids",TV RA TIM BUM SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43001
+#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="TV RA TIM BUM SD¹" tvg-logo="http://img.appino.tv/img/tvratimbum.png" group-title="Kids",TV RA TIM BUM SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/51
+#EXTINF:-1 tvg-id="" tvg-name="TV Senado " tvg-logo="" group-title="Canais Abertos",TV Senado 
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/49774
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDACO 2 TEMP" tvg-logo="" group-title="24 Horas",UM MALUCO NO PEDACO 2 TEMP
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40068
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDACO 3 TEMP" tvg-logo="" group-title="24 Horas",UM MALUCO NO PEDACO 3 TEMP
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40069
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO 1 TEMPORADA" tvg-logo="" group-title="24 Horas",UM MALUCO NO PEDAÇO 1 TEMPORADA
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40067
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="http://img.appino.tv/img/universal.png" group-title="Filmes / Séries",UNIVERSAL CHANNEL SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL SD²" tvg-logo="http://img.appino.tv/img/universal.png" group-title="Filmes / Séries",UNIVERSAL CHANNEL SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42971
+#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-name="VH1 SD²" tvg-logo="http://img.appino.tv/img/vh1hd.png" group-title="Variedades | Músicas",VH1 SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43039
+#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-name="VH1 SD¹" tvg-logo="http://img.appino.tv/img/vh1hd.png" group-title="Variedades | Músicas",VH1 SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/40
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA SD²" tvg-logo="http://img.appino.tv/img/viva.png" group-title="Variedades | Músicas",VIVA SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/43041
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA SD¹" tvg-logo="http://img.appino.tv/img/viva.png" group-title="Variedades | Músicas",VIVA SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/37
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL SD²" tvg-logo="http://img.appino.tv/img/warner.png" group-title="Filmes / Séries",WARNER CHANNEL SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42973
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL SD¹" tvg-logo="http://img.appino.tv/img/warner.png" group-title="Filmes / Séries",WARNER CHANNEL SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/33
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO SD²" tvg-logo="http://img.appino.tv/img/woohoo.png" group-title="Esportes",WOOHOO SD²
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/42903
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO SD¹" tvg-logo="http://img.appino.tv/img/woohoo.png" group-title="Esportes",WOOHOO SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/31
+#EXTINF:-1 tvg-id="" tvg-name="Yoruba TV SD" tvg-logo="" group-title="Religioso",Yoruba TV SD
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/28794
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO SD¹" tvg-logo="http://img.appino.tv/img/Zoomoo_logo.png" group-title="Kids",ZOOMOO SD¹
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/28
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA SINAL 1 $" tvg-logo="" group-title="Reality",A FAZENDA SINAL 1 $
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/55179
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA SINAL 2 $" tvg-logo="" group-title="Reality",A FAZENDA SINAL 2 $
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/55180
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA SINAL 3 $" tvg-logo="" group-title="Reality",A FAZENDA SINAL 3 $
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/55181
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA SINAL 4 $" tvg-logo="" group-title="Reality",A FAZENDA SINAL 4 $
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/55182
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA SINAL 5 $" tvg-logo="" group-title="Reality",A FAZENDA SINAL 5 $
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/55183
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA SINAL 6 $" tvg-logo="" group-title="Reality",A FAZENDA SINAL 6 $
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/55184
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA SINAL 7 $" tvg-logo="" group-title="Reality",A FAZENDA SINAL 7 $
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/55185
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA SINAL 8 $" tvg-logo="" group-title="Reality",A FAZENDA SINAL 8 $
+http://iptv.appino.tv:80/QOMLM6B/7rxfs1GB/55186
